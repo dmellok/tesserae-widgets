@@ -58,7 +58,7 @@
     {
       "id": "f1",
       "name": "Formula 1",
-      "description": "Race weekend, last race podium, next-round countdown with circuit silhouette, and current driver standings. 5-widget bundle. Data from Jolpica's Ergast-compatible F1 API (no key required). Bundled with Tesserae through v0.37.0, moved to the catalog in 0.38.0 alongside the bundle slim-down.",
+      "description": "Race weekend timetable, last race podium, next-round countdown with circuit silhouette, and current driver standings. 5-widget bundle. Data from the Jolpica Ergast-compatible F1 API (no key required).",
       "icon": "ph-flag-checkered",
       "author": {
         "name": "Kayden D'Mello",
@@ -91,7 +91,7 @@
     {
       "id": "github",
       "name": "GitHub",
-      "description": "CI run status, PR queue, contribution graph, release feed, activity timeline, and repo summary cards. Shared PAT via github_core. 7-widget bundle. Requires a personal access token (free, repo + read:user scopes are enough for most widgets). Bundled with Tesserae through v0.39.0, moved to the catalog in 0.40.0.",
+      "description": "CI status, PR queue, contribution graph, releases feed, activity timeline, and repo summary cards. Shared PAT via github_core. 7-widget bundle. A free GitHub personal access token covers everything.",
       "icon": "ph-github-logo",
       "author": {
         "name": "Kayden D'Mello",
@@ -152,7 +152,7 @@
     {
       "id": "spotify",
       "name": "Spotify",
-      "description": "Now-playing track tile, queue list, and large album-art tile. Shared OAuth flow via spotify_core. 4-widget bundle. Requires a free Spotify Developer app (Client ID + Secret); see the README for the 30-second setup. Bundled with Tesserae through v0.38.0, moved to the catalog in 0.39.0.",
+      "description": "Now-playing track tile, queue list, and large album-art tile. Shared OAuth flow via spotify_core. 4-widget bundle. Requires a free Spotify Developer app (Client ID + Secret); README walks the 30-second setup.",
       "icon": "ph-spotify-logo",
       "author": {
         "name": "Kayden D'Mello",
