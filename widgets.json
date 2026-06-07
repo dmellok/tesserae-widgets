@@ -2,6 +2,35 @@
   "version": 1,
   "widgets": [
     {
+      "id": "clock_extras",
+      "name": "Clock Extras",
+      "description": "Word clock (QLOCKTWO style) and multi-timezone world clocks. 2-widget bundle, no setup beyond a timezone picker.",
+      "icon": "ph-clock-afternoon",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "clock"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "clock_qlock",
+        "clock_world"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-clock-extras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c1613a5ace0aec7dc8e5539b67856d89ba7752502eda3ac3f05b8f714d9b3e44"
+      },
+      "source": "https://github.com/dmellok/tesserae-clock-extras"
+    },
+    {
       "id": "community_demo",
       "name": "Community Demo",
       "description": "A minimal hello-world widget. Renders a configurable greeting + the current local time. Use it to confirm the marketplace install pipeline works end-to-end on a non-bundled widget.",
@@ -88,6 +117,36 @@
       "source": "https://github.com/dmellok/tesserae-f1"
     },
     {
+      "id": "finance",
+      "name": "Finance",
+      "description": "Single-pair FX rate (frankfurter.app), a single stock ticker (free Twelve Data tier), and a single crypto pair (CoinGecko). 3-widget bundle. Some upstreams need a free API key, see the README.",
+      "icon": "ph-currency-circle-dollar",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "finance"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "finance_crypto",
+        "finance_currency",
+        "finance_stock"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-finance/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9a059f23c32a7772e0f785ca408faa4cfd749359a1970df5881c61fee219ef24"
+      },
+      "source": "https://github.com/dmellok/tesserae-finance"
+    },
+    {
       "id": "github",
       "name": "GitHub",
       "description": "CI status, PR queue, contribution graph, releases feed, activity timeline, and repo summary cards. Shared PAT via github_core. 7-widget bundle. A free GitHub personal access token covers everything.",
@@ -122,6 +181,65 @@
       "source": "https://github.com/dmellok/tesserae-github"
     },
     {
+      "id": "monitoring",
+      "name": "Monitoring",
+      "description": "Glances host stats (CPU/RAM/disk tile + summary card) and OctoPrint 3D printer status. 3-widget bundle for users running a homelab or 3D printer.",
+      "icon": "ph-gauge",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "glances_core",
+        "glances_status",
+        "octoprint_status"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-monitoring/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "bc7d4f7aca1a93a965982efc8422c8d7fd89871d5d23e51b0daa74450a282de3"
+      },
+      "source": "https://github.com/dmellok/tesserae-monitoring"
+    },
+    {
+      "id": "picture_extras",
+      "name": "Picture Extras",
+      "description": "Daily Unsplash photo (free API key) and currently-playing Apple Music album art (free Apple Developer key for MusicKit JS). 2-widget bundle.",
+      "icon": "ph-images",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "picture_unsplash",
+        "picture_apple_album"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-picture-extras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "7267015c7b675a83b40caca81a658f9381d4e896df6d3026b08d56464a7f2cd2"
+      },
+      "source": "https://github.com/dmellok/tesserae-picture-extras"
+    },
+    {
       "id": "public_holiday_countdown",
       "name": "Public Holiday Countdown",
       "description": "Countdown to the next public holiday, with a short upcoming list.",
@@ -146,6 +264,37 @@
         "sha256": "7e381c3c81008deaca06d0641af7f01b5c6910454fbd47432b43865b0e4ede36"
       },
       "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "description": "Aurora alert score (NOAA SWPC), current moon phase, overhead air traffic from OpenSky, and BOM weather warnings (Australia). 4-widget bundle. No API keys.",
+      "icon": "ph-rainbow",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "sky_air_traffic",
+        "sky_aurora",
+        "sky_bom_warnings",
+        "sky_moon"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "afd09f112b76a4b6e894bbe59bd7d47ade3a38237e739d2319f39f970d3ba2a2"
+      },
+      "source": "https://github.com/dmellok/tesserae-sky"
     },
     {
       "id": "spotify",
@@ -177,6 +326,64 @@
         "sha256": "a2125bc005f569c2191bd5dda3807b6c95486791473999dca00e6ff8585b9eb5"
       },
       "source": "https://github.com/dmellok/tesserae-spotify"
+    },
+    {
+      "id": "transport",
+      "name": "Public Transport",
+      "description": "Next departures for a Melbourne PTV stop. Official PTV API v3 (free key). Currently Melbourne-only; PRs welcome to add other regions.",
+      "icon": "ph-tram",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "transit"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "public_transport_times"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-transport/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "731d3a8787a9dc112cd85e4142a069b424ab2fb916fe1265cbdaaa623477c17e"
+      },
+      "source": "https://github.com/dmellok/tesserae-transport"
+    },
+    {
+      "id": "weather_extras",
+      "name": "Weather Extras",
+      "description": "Air quality, pollen count, and detailed wind widgets. Data from Open-Meteo (no key required). For users who want more than the bundled weather_now / weather_forecast cards.",
+      "icon": "ph-wind",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "weather_air_quality",
+        "weather_pollen_count",
+        "weather_wind"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-weather-extras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9fac780cdd4c68d96af55cd53b6bd10ed5c74be274343f09205362023aa66acb"
+      },
+      "source": "https://github.com/dmellok/tesserae-weather-extras"
     }
   ]
 }
