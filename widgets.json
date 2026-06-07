@@ -65,8 +65,7 @@
         "github": "dmellok"
       },
       "tags": [
-        "sport",
-        "racing"
+        "sports"
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
@@ -98,8 +97,7 @@
         "github": "dmellok"
       },
       "tags": [
-        "dev",
-        "productivity"
+        "github"
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
@@ -159,7 +157,6 @@
         "github": "dmellok"
       },
       "tags": [
-        "music",
         "media"
       ],
       "kind": "widget",
