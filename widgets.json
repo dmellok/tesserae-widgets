@@ -10,11 +10,15 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/dmellok/tesserae-community-demo/archive/refs/tags/v0.1.0.tar.gz",
@@ -31,12 +35,19 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["lg"],
-      "folders": ["devref_card", "devref_core"],
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "devref_card",
+        "devref_core"
+      ],
       "release": {
         "version": "0.1.1",
         "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.1.1.tar.gz",
@@ -53,15 +64,20 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["calendar", "utility"],
+      "tags": [
+        "calendar",
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "eeb48eedc275937199356fb4c40830a6afb76452beb43eaf70b90fc3dc679361"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "d50dafac498b12ba3f2e377239e0a084fabc5b08141e1c8e8a020283dae4a166"
       },
       "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
     }
