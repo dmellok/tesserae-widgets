@@ -2,6 +2,34 @@
   "version": 1,
   "widgets": [
     {
+      "id": "apple_album",
+      "name": "Apple Music Album Art",
+      "description": "Currently-playing Apple Music album art tile. Requires a free Apple Developer key (MusicKit JS).",
+      "icon": "ph-music-notes",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "picture_apple_album"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-apple-album/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2c33cec8cacb8d8b0f2475b622bbcdf46883843702622faf5b95e4dc6063a67b"
+      },
+      "source": "https://github.com/dmellok/tesserae-apple-album"
+    },
+    {
       "id": "clock_extras",
       "name": "Clock Extras",
       "description": "Word clock (QLOCKTWO style) and multi-timezone world clocks. 2-widget bundle, no setup beyond a timezone picker.",
@@ -181,9 +209,9 @@
       "source": "https://github.com/dmellok/tesserae-github"
     },
     {
-      "id": "monitoring",
-      "name": "Monitoring",
-      "description": "Glances host stats (CPU/RAM/disk tile + summary card) and OctoPrint 3D printer status. 3-widget bundle for users running a homelab or 3D printer.",
+      "id": "glances",
+      "name": "Glances",
+      "description": "Host stats tile + summary card for a glances API server. CPU/RAM/disk gauges, host state pill, uptime. For users running a homelab box.",
       "icon": "ph-gauge",
       "author": {
         "name": "Kayden D'Mello",
@@ -200,27 +228,26 @@
       ],
       "folders": [
         "glances_core",
-        "glances_status",
-        "octoprint_status"
+        "glances_status"
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-monitoring/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "bc7d4f7aca1a93a965982efc8422c8d7fd89871d5d23e51b0daa74450a282de3"
+        "tarball_url": "https://github.com/dmellok/tesserae-glances/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "b22e5fe90aa316f5fd05b17f73d38a25f3fa11ef3597838a69f7b10dedf5709c"
       },
-      "source": "https://github.com/dmellok/tesserae-monitoring"
+      "source": "https://github.com/dmellok/tesserae-glances"
     },
     {
-      "id": "picture_extras",
-      "name": "Picture Extras",
-      "description": "Daily Unsplash photo (free API key) and currently-playing Apple Music album art (free Apple Developer key for MusicKit JS). 2-widget bundle.",
-      "icon": "ph-images",
+      "id": "octoprint",
+      "name": "OctoPrint",
+      "description": "Print status tile for an OctoPrint server: current progress, ETA, hotend/bed temperature, and print-in-progress state. For users with a 3D printer running OctoPrint.",
+      "icon": "ph-cube",
       "author": {
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
       "tags": [
-        "media"
+        "utility"
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
@@ -229,15 +256,14 @@
         "lg"
       ],
       "folders": [
-        "picture_unsplash",
-        "picture_apple_album"
+        "octoprint_status"
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-picture-extras/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "7267015c7b675a83b40caca81a658f9381d4e896df6d3026b08d56464a7f2cd2"
+        "tarball_url": "https://github.com/dmellok/tesserae-octoprint/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "81bb451039aebed8f9508a9917d20b9086c453c88b4af64a4fa595fdb3bc54cc"
       },
-      "source": "https://github.com/dmellok/tesserae-picture-extras"
+      "source": "https://github.com/dmellok/tesserae-octoprint"
     },
     {
       "id": "public_holiday_countdown",
@@ -354,6 +380,34 @@
         "sha256": "731d3a8787a9dc112cd85e4142a069b424ab2fb916fe1265cbdaaa623477c17e"
       },
       "source": "https://github.com/dmellok/tesserae-transport"
+    },
+    {
+      "id": "unsplash",
+      "name": "Unsplash",
+      "description": "Rotating Unsplash photo tile keyed off a search term or collection. Free API key (50 requests/hr is plenty for an hourly e-ink rotation).",
+      "icon": "ph-images",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "picture_unsplash"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-unsplash/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2e682b747983758c1e4cfc4a255c16cefa1b56b57e38adc0d75bd71442b08c9b"
+      },
+      "source": "https://github.com/dmellok/tesserae-unsplash"
     },
     {
       "id": "weather_extras",
