@@ -148,7 +148,7 @@
     },
     {
       "id": "github",
-      "name": "GitHub",
+      "name": "GitHub Widgets",
       "description": "CI status, PR queue, contribution graph, releases feed, activity timeline, and repo summary cards. Shared PAT via github_core. 7-widget bundle. A free GitHub personal access token covers everything.",
       "icon": "ph-github-logo",
       "author": {
@@ -298,7 +298,7 @@
     },
     {
       "id": "spotify",
-      "name": "Spotify",
+      "name": "Spotify Widgets",
       "description": "Now-playing track tile, queue list, and large album-art tile. Shared OAuth flow via spotify_core. 4-widget bundle. Requires a free Spotify Developer app (Client ID + Secret); README walks the 30-second setup.",
       "icon": "ph-spotify-logo",
       "author": {
