@@ -38,9 +38,9 @@
       "screenshot_sizes": ["lg"],
       "folders": ["devref_card", "devref_core"],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "e34cebc68bc8f79c63253c03d9bd484e04e6946886c06bdcc2e0e0740551101b"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "d6745cc793ad36e8f28a7e6db17cf09d65154eb5121567640ecf18cb502a320f"
       },
       "source": "https://github.com/dmellok/tesserae-devref-bundle"
     }
