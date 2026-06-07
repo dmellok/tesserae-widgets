@@ -3,9 +3,9 @@
   "widgets": [
     {
       "id": "apple_album",
-      "name": "Apple Music Album Art",
-      "description": "Currently-playing Apple Music album art tile. Requires a free Apple Developer key (MusicKit JS).",
-      "icon": "ph-music-notes",
+      "name": "iCloud Shared Albums",
+      "description": "Photo carousel from a public iCloud Shared Album link. Single-widget bundle. Uses reverse-engineered Apple Shared Album endpoints, undocumented but stable for ~10 years. No API key needed.",
+      "icon": "ph-cloud-arrow-down",
       "author": {
         "name": "Kayden D'Mello",
         "github": "dmellok"
