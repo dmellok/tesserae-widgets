@@ -20,9 +20,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-community-demo/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "a0c58db758220712574cc014ae568f4e0f5c61326466e89dc1dc12de2a0142d8"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-community-demo/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "0a206345d4ba307819cd24e30d2a8a286afa56983f39fdac7560aded8592f214"
       },
       "source": "https://github.com/dmellok/tesserae-community-demo"
     },
@@ -49,9 +49,9 @@
         "devref_core"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "d6745cc793ad36e8f28a7e6db17cf09d65154eb5121567640ecf18cb502a320f"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "779de46f74d47c088ace134475ea00bed2697593401ccc12dbb241b824f41fe4"
       },
       "source": "https://github.com/dmellok/tesserae-devref-bundle"
     },
@@ -75,9 +75,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "d50dafac498b12ba3f2e377239e0a084fabc5b08141e1c8e8a020283dae4a166"
+        "version": "0.1.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.3.tar.gz",
+        "sha256": "7e381c3c81008deaca06d0641af7f01b5c6910454fbd47432b43865b0e4ede36"
       },
       "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
     }
