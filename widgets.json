@@ -56,6 +56,39 @@
       "source": "https://github.com/dmellok/tesserae-devref-bundle"
     },
     {
+      "id": "f1",
+      "name": "Formula 1",
+      "description": "Race weekend, last race podium, next-round countdown with circuit silhouette, and current driver standings. 5-widget bundle. Data from Jolpica's Ergast-compatible F1 API (no key required). Bundled with Tesserae through v0.37.0, moved to the catalog in 0.38.0 alongside the bundle slim-down.",
+      "icon": "ph-flag-checkered",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "sport",
+        "racing"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "f1_core",
+        "f1_last_race",
+        "f1_next",
+        "f1_standings_drivers",
+        "f1_weekend"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-f1/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "0f0e1c41e31aa201dcfb59b9cb1c0a9d47f1fb63fee8afc3dabf40bf4aa90920"
+      },
+      "source": "https://github.com/dmellok/tesserae-f1"
+    },
+    {
       "id": "public_holiday_countdown",
       "name": "Public Holiday Countdown",
       "description": "Countdown to the next public holiday, with a short upcoming list.",
