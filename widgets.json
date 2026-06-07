@@ -43,6 +43,27 @@
         "sha256": "d6745cc793ad36e8f28a7e6db17cf09d65154eb5121567640ecf18cb502a320f"
       },
       "source": "https://github.com/dmellok/tesserae-devref-bundle"
+    },
+    {
+      "id": "public_holiday_countdown",
+      "name": "Public Holiday Countdown",
+      "description": "Countdown to the next public holiday, with a short upcoming list.",
+      "icon": "ph-calendar-star",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": ["calendar", "utility"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": ["lg"],
+      "release": {
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "eeb48eedc275937199356fb4c40830a6afb76452beb43eaf70b90fc3dc679361"
+      },
+      "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
     }
   ]
 }
