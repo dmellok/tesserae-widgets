@@ -89,6 +89,41 @@
       "source": "https://github.com/dmellok/tesserae-f1"
     },
     {
+      "id": "github",
+      "name": "GitHub",
+      "description": "CI run status, PR queue, contribution graph, release feed, activity timeline, and repo summary cards. Shared PAT via github_core. 7-widget bundle. Requires a personal access token (free, repo + read:user scopes are enough for most widgets). Bundled with Tesserae through v0.39.0, moved to the catalog in 0.40.0.",
+      "icon": "ph-github-logo",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "dev",
+        "productivity"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "github_core",
+        "github_actions",
+        "github_activity",
+        "github_contributions",
+        "github_pr_queue",
+        "github_releases",
+        "github_repo"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-github/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "bad2559ea91a72f5354903991939b34e06b9b9e9f0eb075c95d1c2ac7862e185"
+      },
+      "source": "https://github.com/dmellok/tesserae-github"
+    },
+    {
       "id": "public_holiday_countdown",
       "name": "Public Holiday Countdown",
       "description": "Countdown to the next public holiday, with a short upcoming list.",
