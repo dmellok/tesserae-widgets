@@ -113,6 +113,38 @@
         "sha256": "7e381c3c81008deaca06d0641af7f01b5c6910454fbd47432b43865b0e4ede36"
       },
       "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "description": "Now-playing track tile, queue list, and large album-art tile. Shared OAuth flow via spotify_core. 4-widget bundle. Requires a free Spotify Developer app (Client ID + Secret); see the README for the 30-second setup. Bundled with Tesserae through v0.38.0, moved to the catalog in 0.39.0.",
+      "icon": "ph-spotify-logo",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "music",
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "spotify_core",
+        "spotify_now_playing",
+        "spotify_queue",
+        "spotify_album_art"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "a2125bc005f569c2191bd5dda3807b6c95486791473999dca00e6ff8585b9eb5"
+      },
+      "source": "https://github.com/dmellok/tesserae-spotify"
     }
   ]
 }
