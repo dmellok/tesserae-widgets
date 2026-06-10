@@ -147,7 +147,7 @@
     {
       "id": "fal_image",
       "name": "Fal Image",
-      "description": "Full-bleed AI-generated image widget. Uses Fal.ai (Flux Schnell ~$0.003, Flux Dev, Fast SDXL, Nano Banana / Gemini 2.5 Flash Image). Bring your own API key. Same prompt in a cadence bucket returns the cached image.",
+      "description": "Full-bleed AI-generated image widget. 9 Fal.ai models from $0.003 (Flux Schnell, Hyper SDXL) to $0.15 (Nano Banana Pro). Style presets, contextual placeholders ({time_of_day}, {season}, {moon_phase}), multi-prompt rotation. BYO key.",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
@@ -167,9 +167,9 @@
         "fal_image"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-fal-image/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "e96c2f8f2d8248329e4f3737f744feacc72bf8b41edde2b886c1b47fd5cbc63c"
+        "version": "0.4.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-fal-image/archive/refs/tags/v0.4.0.tar.gz",
+        "sha256": "b4f19aa2e13133744695816960ede63495051e2ec7a9006cc49865d1b4a0b013"
       },
       "source": "https://github.com/dmellok/tesserae-fal-image"
     },
