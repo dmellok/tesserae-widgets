@@ -54,7 +54,7 @@
       "release": {
         "version": "0.1.1",
         "tarball_url": "https://github.com/dmellok/tesserae-calendar-schedule/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "42e38f8e907975b32d8142424303b153cf37b81e5669af631169e0a4b5a7c62e"
+        "sha256": "8dedc133a7672953529f284683194255585b05ada4051022764fdfbd0e524e69"
       },
       "source": "https://github.com/dmellok/tesserae-calendar-schedule"
     },
