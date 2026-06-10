@@ -52,9 +52,9 @@
         "calendar_schedule"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-calendar-schedule/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "8dedc133a7672953529f284683194255585b05ada4051022764fdfbd0e524e69"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-calendar-schedule/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "86918da13dd377be0df3a697277be061447bdb8631bf0bf39c3d72bf4a3a20be"
       },
       "source": "https://github.com/dmellok/tesserae-calendar-schedule"
     },
@@ -106,7 +106,7 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.1",
+        "version": "0.1.2",
         "tarball_url": "https://github.com/dmellok/tesserae-community-demo/archive/refs/tags/v0.1.1.tar.gz",
         "sha256": "0a206345d4ba307819cd24e30d2a8a286afa56983f39fdac7560aded8592f214"
       },
