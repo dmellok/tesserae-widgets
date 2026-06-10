@@ -167,9 +167,9 @@
         "fal_image"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-fal-image/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "79b6d05b88cfa109cdcc91c4d38ca454cdb8c33e466ad2a23632788c13933630"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-fal-image/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "e96c2f8f2d8248329e4f3737f744feacc72bf8b41edde2b886c1b47fd5cbc63c"
       },
       "source": "https://github.com/dmellok/tesserae-fal-image"
     },
