@@ -469,6 +469,34 @@
       "source": "https://github.com/dmellok/tesserae-transport"
     },
     {
+      "id": "transport_belgium",
+      "name": "Belgian Trains (iRail)",
+      "description": "Next NMBS/SNCB train departures or arrivals for a Belgian station. Live data via the open iRail API. Pick a station name, or an iRail station ID such as BE.NMBS.008892007, per cell.",
+      "icon": "ph-train",
+      "author": {
+        "name": "Jonas L",
+        "github": "JayJay1989"
+      },
+      "tags": [
+        "transit"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "public_transport_times_belgium"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/JayJay1989/tesserae-transport-belgium/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f0a30f688a35cc143932377f3a8cc9c2ab058834052170ed9edb4ebda2a57f11"
+      },
+      "source": "https://github.com/JayJay1989/tesserae-transport-belgium"
+    },
+    {
       "id": "unsplash",
       "name": "Unsplash",
       "description": "Rotating Unsplash photo tile keyed off a search term or collection. Free API key (50 requests/hr is plenty for an hourly e-ink rotation).",
