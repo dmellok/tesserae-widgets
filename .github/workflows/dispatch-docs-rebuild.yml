@@ -1,0 +1,38 @@
+# Ping the main Tesserae repo whenever the catalog changes on main,
+# so its docs workflow can refresh the community widget gallery
+# without waiting for the daily cron rebuild.
+#
+# Requires a fine-grained PAT stored as the ``TESSERAE_DOCS_DISPATCH_TOKEN``
+# secret on this repo. The PAT needs:
+#   * Repository access: dmellok/tesserae
+#   * Permissions: Actions: read & write
+# Create one at https://github.com/settings/personal-access-tokens/new.
+
+name: dispatch tesserae docs rebuild
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "widgets.json"
+      - "screenshots/**"
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger tesserae docs workflow
+        env:
+          GH_TOKEN: ${{ secrets.TESSERAE_DOCS_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::TESSERAE_DOCS_DISPATCH_TOKEN not set; skipping"
+            exit 0
+          fi
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/dmellok/tesserae/dispatches \
+            -f event_type=catalog_updated \
+            -f client_payload[commit]=${{ github.sha }} \
+            -f client_payload[message]="catalog updated, refresh community gallery"
