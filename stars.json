@@ -1,7 +1,9 @@
 {
-  "fetched_at": "2026-06-12T23:03:56Z",
+  "fetched_at": "2026-06-12T23:22:39Z",
   "stars": {
+    "air_traffic": 0,
     "apple_album": 0,
+    "bom_warnings": 0,
     "calendar_schedule": 0,
     "clock_extras": 0,
     "community_demo": 0,

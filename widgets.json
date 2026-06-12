@@ -2,6 +2,34 @@
   "version": 1,
   "widgets": [
     {
+      "id": "air_traffic",
+      "name": "Air Traffic",
+      "description": "Flights currently overhead at your location via OpenSky Network (free, no key). Shows total count + nearest N flights with callsign, origin country, altitude, and speed.",
+      "icon": "ph-airplane-tilt",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "sky_air_traffic"
+      ],
+      "release": {
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-air-traffic/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "9e941a70695479c58ed95dd52d1cc462a1e8e3bc96ef0d29792f3a803f6a059b"
+      },
+      "source": "https://github.com/dmellok/tesserae-air-traffic"
+    },
+    {
       "id": "apple_album",
       "name": "iCloud Shared Albums",
       "description": "Photo carousel from a public iCloud Shared Album link. Single-widget bundle. Uses reverse-engineered Apple Shared Album endpoints, undocumented but stable for ~10 years. No API key needed.",
@@ -28,6 +56,34 @@
         "sha256": "2c33cec8cacb8d8b0f2475b622bbcdf46883843702622faf5b95e4dc6063a67b"
       },
       "source": "https://github.com/dmellok/tesserae-apple-album"
+    },
+    {
+      "id": "bom_warnings",
+      "name": "BoM Warnings",
+      "description": "Australian Bureau of Meteorology weather warnings by state (severe storms, fire weather, marine, etc). Shows current warnings with type, severity, and headline. No API key.",
+      "icon": "ph-warning",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "sky_bom_warnings"
+      ],
+      "release": {
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-bom-warnings/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "ebdc51b7937aa7ba56f62862aeb423a36934642afec59595ee6f24f7fea997f0"
+      },
+      "source": "https://github.com/dmellok/tesserae-bom-warnings"
     },
     {
       "id": "calendar_schedule",
@@ -381,7 +437,7 @@
     {
       "id": "sky",
       "name": "Sky",
-      "description": "Aurora alert score (NOAA SWPC), current moon phase, overhead air traffic from OpenSky, and BOM weather warnings (Australia). 4-widget bundle. No API keys.",
+      "description": "Aurora alert score (NOAA SWPC) and current moon phase. Two-widget celestial bundle. No API keys.",
       "icon": "ph-rainbow",
       "author": {
         "name": "Kayden D'Mello",
@@ -397,15 +453,13 @@
         "lg"
       ],
       "folders": [
-        "sky_air_traffic",
         "sky_aurora",
-        "sky_bom_warnings",
         "sky_moon"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "afd09f112b76a4b6e894bbe59bd7d47ade3a38237e739d2319f39f970d3ba2a2"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "8d279ccf3ba61bd8966b5a45ed736f3502ab956ae0b987963c7d3a2147af6ef1"
       },
       "source": "https://github.com/dmellok/tesserae-sky"
     },
