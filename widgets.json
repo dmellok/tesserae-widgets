@@ -457,9 +457,9 @@
         "sky_moon"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "8d279ccf3ba61bd8966b5a45ed736f3502ab956ae0b987963c7d3a2147af6ef1"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "ee13aec029528092ff912a132b2f9fd110beff7366b6723484e0b7ec451cae28"
       },
       "source": "https://github.com/dmellok/tesserae-sky"
     },
