@@ -437,6 +437,31 @@
       "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
     },
     {
+      "id": "recipes",
+      "name": "Recipes",
+      "description": "Pulls recipes from any schema.org site (RecipeTin Eats, BBC Good Food, NYT Cooking, etc.). Paste URLs or RSS feeds per cell; widget rotates through them with hero image, title, prep / cook / total times, ingredients, instructions, and a QR code back to the source.",
+      "icon": "ph-cooking-pot",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-recipes/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c7ea78fe3859ea305ec49bf884043483d1a01bd878cdda52bc8e3108b065955d"
+      },
+      "source": "https://github.com/dmellok/tesserae-recipes"
+    },
+    {
       "id": "sky",
       "name": "Sky",
       "description": "Aurora alert score (NOAA SWPC) and current moon phase. Two-widget celestial bundle. No API keys.",
