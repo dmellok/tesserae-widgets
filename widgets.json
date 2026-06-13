@@ -4,7 +4,7 @@
     {
       "id": "ai_brief",
       "name": "AI Brief",
-      "description": "LLM-written 1-3 sentence dashboard summary. Reads live weather (Open-Meteo, no key), calendar events (via calendar_core), allow-listed Home Assistant entities (via ha_core), and the wall clock, then sends a templated prompt to Anthropic Claude. Defaults to Haiku 4.5 (~$0.18/month at hourly refresh). Bring your own API key.",
+      "description": "LLM-written 1-3 sentence brief. Reads live weather, calendar, allow-listed Home Assistant entities, and time, then sends a templated prompt to Claude (defaults to Haiku 4.5, ~$0.18/month at hourly refresh). Bring your own Anthropic API key.",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
