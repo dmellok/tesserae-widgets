@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-13T00:26:02Z",
+  "fetched_at": "2026-06-13T20:38:08Z",
   "stars": {
     "ai_brief": 0,
     "air_traffic": 0,
@@ -19,6 +19,7 @@
     "sky": 0,
     "spotify": 0,
     "transport": 0,
+    "transport_belgium": 1,
     "unsplash": 0,
     "weather_extras": 0
   }
