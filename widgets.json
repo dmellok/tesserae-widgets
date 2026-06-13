@@ -3,8 +3,8 @@
   "widgets": [
     {
       "id": "ai_brief",
-      "name": "AI Brief + AI Scene",
-      "description": "Two data-aware AI widgets: ai_brief writes a 1-3 sentence summary (Claude Haiku 4.5 default, ~$0.18/mo hourly) and ai_scene generates a full-bleed image whose prompt is rewritten from live weather, calendar, HA, and time. Bring your own Anthropic + Fal.ai keys.",
+      "name": "AI Brief + Scene + Image",
+      "description": "Three data-aware AI widgets sharing one Anthropic + Fal.ai key. ai_brief writes a 1-3 sentence summary (Claude); ai_scene generates a data-reflective image; ai_image is the ambient art widget (heir to fal_image). Token + cost tracking in the AI Core admin page.",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
@@ -22,12 +22,13 @@
       "folders": [
         "ai_core",
         "ai_brief",
-        "ai_scene"
+        "ai_scene",
+        "ai_image"
       ],
       "release": {
-        "version": "0.2.4",
-        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.2.4.tar.gz",
-        "sha256": "d31792ff886c9cb9e1d5f95414450c59b60eae3bb6962bf12bf2e4769a0b28be"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "d727f81edab08b61e917a5ac80b9e5acb151ea0d3176cb2a52fa5bd091fae282"
       },
       "source": "https://github.com/dmellok/tesserae-ai-brief"
     },
@@ -262,7 +263,7 @@
     {
       "id": "fal_image",
       "name": "Fal Image",
-      "description": "Full-bleed AI-generated image widget. 9 Fal.ai models from $0.003 (Flux Schnell, Hyper SDXL) to $0.15 (Nano Banana Pro). Style presets, contextual placeholders ({time_of_day}, {season}, {moon_phase}), multi-prompt rotation. BYO key.",
+      "description": "[DEPRECATED \u2014 install \"AI Brief + Scene + Image\" instead for the ai_image successor with shared keys + usage tracking.] Full-bleed AI-generated image widget. 9 Fal.ai models from $0.003 (Flux Schnell, Hyper SDXL) to $0.15 (Nano Banana Pro). Style presets, contextual placeholders ",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
