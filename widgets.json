@@ -26,9 +26,9 @@
         "ai_image"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "d727f81edab08b61e917a5ac80b9e5acb151ea0d3176cb2a52fa5bd091fae282"
+        "version": "0.3.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.3.1.tar.gz",
+        "sha256": "d3de0bb894684d9bd8792084ef5486a3e218efac5e1ade6a0c80e397b2a09aa6"
       },
       "source": "https://github.com/dmellok/tesserae-ai-brief"
     },
