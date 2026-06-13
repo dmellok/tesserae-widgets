@@ -490,9 +490,9 @@
         "public_transport_times_belgium"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/JayJay1989/tesserae-transport-belgium/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "f0a30f688a35cc143932377f3a8cc9c2ab058834052170ed9edb4ebda2a57f11"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/JayJay1989/tesserae-transport-belgium/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "e74ebf197af086466941cd9d719eaaa7aeaec3b8795e5a1f366be6f1cb83e1b7"
       },
       "source": "https://github.com/JayJay1989/tesserae-transport-belgium"
     },
