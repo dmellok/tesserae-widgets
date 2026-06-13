@@ -261,35 +261,6 @@
       "source": "https://github.com/dmellok/tesserae-f1"
     },
     {
-      "id": "fal_image",
-      "name": "Fal Image",
-      "description": "[DEPRECATED \u2014 install \"AI Brief + Scene + Image\" instead for the ai_image successor with shared keys + usage tracking.] Full-bleed AI-generated image widget. 9 Fal.ai models from $0.003 (Flux Schnell, Hyper SDXL) to $0.15 (Nano Banana Pro). Style presets, contextual placeholders ",
-      "icon": "ph-sparkle",
-      "author": {
-        "name": "Kayden D'Mello",
-        "github": "dmellok"
-      },
-      "tags": [
-        "media"
-      ],
-      "kind": "widget",
-      "tesserae_compat": "1.x",
-      "official": true,
-      "screenshot_sizes": [
-        "lg",
-        "md"
-      ],
-      "folders": [
-        "fal_image"
-      ],
-      "release": {
-        "version": "0.4.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-fal-image/archive/refs/tags/v0.4.0.tar.gz",
-        "sha256": "b4f19aa2e13133744695816960ede63495051e2ec7a9006cc49865d1b4a0b013"
-      },
-      "source": "https://github.com/dmellok/tesserae-fal-image"
-    },
-    {
       "id": "finance",
       "name": "Finance",
       "description": "Single-pair FX rate (frankfurter.app), a single stock ticker (free Twelve Data tier), and a single crypto pair (CoinGecko). 3-widget bundle. Some upstreams need a free API key, see the README.",
