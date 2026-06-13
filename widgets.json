@@ -3,8 +3,8 @@
   "widgets": [
     {
       "id": "ai_brief",
-      "name": "AI Brief",
-      "description": "LLM-written 1-3 sentence brief. Reads live weather, calendar, allow-listed Home Assistant entities, and time, then sends a templated prompt to Claude (defaults to Haiku 4.5, ~$0.18/month at hourly refresh). Bring your own Anthropic API key.",
+      "name": "AI Brief + AI Scene",
+      "description": "Two data-aware AI widgets: ai_brief writes a 1-3 sentence summary (Claude Haiku 4.5 default, ~$0.18/mo hourly) and ai_scene generates a full-bleed image whose prompt is rewritten from live weather, calendar, HA, and time. Bring your own Anthropic + Fal.ai keys.",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
@@ -21,12 +21,13 @@
       ],
       "folders": [
         "ai_core",
-        "ai_brief"
+        "ai_brief",
+        "ai_scene"
       ],
       "release": {
-        "version": "0.1.3",
-        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.1.3.tar.gz",
-        "sha256": "54b4e09cae4820d6b00ee3fb7315a1ae362e98f443229880b6bfe01198d281e5"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "dab21e3fd9a6ff75f8e92b34af1f2f18d2203c11ea906d47ed05b6ff1725d755"
       },
       "source": "https://github.com/dmellok/tesserae-ai-brief"
     },
