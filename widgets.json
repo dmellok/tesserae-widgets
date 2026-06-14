@@ -89,6 +89,39 @@
       "source": "https://github.com/dmellok/tesserae-apple-album"
     },
     {
+      "id": "auroras",
+      "name": "Auroras",
+      "description": "Six atmospheric gradient themes (veil, deep, rose, flame, arctic, emerald) inspired by the bundled Aurora. Each follows Aurora's 135deg three-stop linear-gradient structure with a different hue range evoking a sky phenomenon.",
+      "icon": "ph-flower-lotus",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "theme",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "aurora-arctic",
+        "aurora-deep",
+        "aurora-emerald",
+        "aurora-flame",
+        "aurora-rose",
+        "aurora-veil"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-auroras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "a958ac7d44e0592e611a2bef2e9644ccedd166cbd2b1e9faa6b2e643effdf74c"
+      },
+      "source": "https://github.com/dmellok/tesserae-auroras"
+    },
+    {
       "id": "bom_warnings",
       "name": "BoM Warnings",
       "description": "Australian Bureau of Meteorology weather warnings by state (severe storms, fire weather, marine, etc). Shows current warnings with type, severity, and headline. No API key.",
@@ -393,6 +426,43 @@
         "sha256": "cb7ead95b65102b5164a647d77ba9040319c2a7908cb5eb620323271b7619adb"
       },
       "source": "https://github.com/dmellok/tesserae-gradient"
+    },
+    {
+      "id": "muted",
+      "name": "Muted",
+      "description": "Ten mid-tone coloured-canvas themes (brick, saffron, olive, pine, lake, storm, mulberry, wine, terra, graphite). One step back from Vivid: meaningfully coloured canvases without crossing into max saturation.",
+      "icon": "ph-drop",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "theme",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "muted-brick",
+        "muted-graphite",
+        "muted-lake",
+        "muted-mulberry",
+        "muted-olive",
+        "muted-pine",
+        "muted-saffron",
+        "muted-storm",
+        "muted-terra",
+        "muted-wine"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-muted/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2b7259e21e195aceaaacbb72c237283afbbbcb22d4789415cfd69e454788fd93"
+      },
+      "source": "https://github.com/dmellok/tesserae-muted"
     },
     {
       "id": "octoprint",
