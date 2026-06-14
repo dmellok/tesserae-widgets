@@ -354,6 +354,47 @@
       "source": "https://github.com/dmellok/tesserae-glances"
     },
     {
+      "id": "gradient",
+      "name": "Gradient",
+      "description": "Fourteen linear-gradient surface themes that used to ship bundled with Tesserae (sunset, aurora, twilight, spectrum, coral, mist, sand, sage, linen, mauve, marble, glacier, honey, pearl). Pairs especially well with 7-colour Spectra panels.",
+      "icon": "ph-rainbow",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "theme",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "aurora",
+        "coral",
+        "glacier",
+        "honey",
+        "linen",
+        "marble",
+        "mauve",
+        "mist",
+        "pearl",
+        "sage",
+        "sand",
+        "spectrum",
+        "sunset",
+        "twilight"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-gradient/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "cb7ead95b65102b5164a647d77ba9040319c2a7908cb5eb620323271b7619adb"
+      },
+      "source": "https://github.com/dmellok/tesserae-gradient"
+    },
+    {
       "id": "octoprint",
       "name": "OctoPrint",
       "description": "Print status tile for an OctoPrint server: current progress, ETA, hotend/bed temperature, and print-in-progress state. For users with a 3D printer running OctoPrint.",
@@ -522,6 +563,39 @@
       "source": "https://github.com/dmellok/tesserae-spotify"
     },
     {
+      "id": "tonal",
+      "name": "Tonal",
+      "description": "Six medium-vivid, feature-colour-led light themes (slate, clay, moss, plum, harbour, copper). Each has a gently tinted off-white canvas and a coherent 6-accent palette led by its namesake colour. Theme pack: installs all six.",
+      "icon": "ph-palette",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "theme",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "tonal-clay",
+        "tonal-copper",
+        "tonal-harbour",
+        "tonal-moss",
+        "tonal-plum",
+        "tonal-slate"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-tonal/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "ffe056a8a2eda8788994904548465d23c3397025131c72d6c308c71764272957"
+      },
+      "source": "https://github.com/dmellok/tesserae-tonal"
+    },
+    {
       "id": "transport",
       "name": "Public Transport",
       "description": "Next departures for a Melbourne PTV stop. Official PTV API v3 (free key). Currently Melbourne-only; PRs welcome to add other regions.",
@@ -604,6 +678,48 @@
         "sha256": "2e682b747983758c1e4cfc4a255c16cefa1b56b57e38adc0d75bd71442b08c9b"
       },
       "source": "https://github.com/dmellok/tesserae-unsplash"
+    },
+    {
+      "id": "vivid",
+      "name": "Vivid",
+      "description": "Fifteen saturated single-colour themes that used to ship bundled with Tesserae (tangerine, lime, cobalt, magenta, emerald, crimson, cyan, aubergine, mustard, teal-pop, hot-pink, lavender-pop, olive-pop, burgundy, forest).",
+      "icon": "ph-paint-bucket",
+      "author": {
+        "name": "dmellok",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "theme",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "aubergine",
+        "burgundy",
+        "cobalt",
+        "crimson",
+        "cyan",
+        "emerald",
+        "forest",
+        "hot-pink",
+        "lavender-pop",
+        "lime",
+        "magenta",
+        "mustard",
+        "olive-pop",
+        "tangerine",
+        "teal-pop"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-vivid/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "4380deb3230e311efd60ffc4c502a44e05d6cd179e06d3f056473610fddbc9da"
+      },
+      "source": "https://github.com/dmellok/tesserae-vivid"
     },
     {
       "id": "weather_extras",
