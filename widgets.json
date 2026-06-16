@@ -650,7 +650,7 @@
     {
       "id": "spotify",
       "name": "Spotify Widgets",
-      "description": "Now-playing track tile, queue list, and large album-art tile. Shared OAuth flow via spotify_core. 4-widget bundle. Requires a free Spotify Developer app (Client ID + Secret); README walks the 30-second setup.",
+      "description": "Now-playing, queue, album art, plus top tracks/artists/albums for a chosen window (4 weeks to all time). 5-widget bundle, shared OAuth via spotify_core. Requires a free Spotify Developer app (Client ID + Secret); README has the 30-second setup.",
       "icon": "ph-spotify-logo",
       "author": {
         "name": "Kayden D'Mello",
@@ -669,12 +669,13 @@
         "spotify_core",
         "spotify_now_playing",
         "spotify_queue",
-        "spotify_album_art"
+        "spotify_album_art",
+        "spotify_top"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "a2125bc005f569c2191bd5dda3807b6c95486791473999dca00e6ff8585b9eb5"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "892a2ecd7311d4a0e2e4a2a06fae7986e63fb31441cc9b1a12d049734b329bab"
       },
       "source": "https://github.com/dmellok/tesserae-spotify"
     },
