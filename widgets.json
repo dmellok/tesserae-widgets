@@ -31,10 +31,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-afl/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "43f2741e8f1d2fcfba37b64030bc73fcd961454a3e798460e5c8487729cb1bde"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-afl/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "48cc4ee58b2b9ff8d5d93ee417a35b3ad96156197ab838e4f23c7e1a5bdb2978"
       },
-      "source": "https://github.com/dmellok/tesserae-afl"
+      "source": "https://github.com/dmellok/tesserae-widget-afl"
     },
     {
       "id": "ai_brief",
@@ -62,10 +62,10 @@
       ],
       "release": {
         "version": "0.3.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-ai-brief/archive/refs/tags/v0.3.2.tar.gz",
-        "sha256": "4810dcc858a808dd2be3261945b41982114db1c6ee69c3049a293202f0074437"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-ai-brief/archive/refs/tags/v0.3.2.tar.gz",
+        "sha256": "f49ad4be4efde07faa0fc5f6db710051ffbb534f66a58f3459b07a281faffad3"
       },
-      "source": "https://github.com/dmellok/tesserae-ai-brief"
+      "source": "https://github.com/dmellok/tesserae-widget-ai-brief"
     },
     {
       "id": "air_traffic",
@@ -90,10 +90,10 @@
       ],
       "release": {
         "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-air-traffic/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "9e941a70695479c58ed95dd52d1cc462a1e8e3bc96ef0d29792f3a803f6a059b"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-air-traffic/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "bb3dc820b00f3dd886a802e695890fb044eb564ea74731fcd4f527a3b48ce081"
       },
-      "source": "https://github.com/dmellok/tesserae-air-traffic"
+      "source": "https://github.com/dmellok/tesserae-widget-air-traffic"
     },
     {
       "id": "apple_album",
@@ -118,10 +118,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-apple-album/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "2c33cec8cacb8d8b0f2475b622bbcdf46883843702622faf5b95e4dc6063a67b"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "6863818699ff205d73f9b3200833fe87d380aaf3555e5144b383cc0dc03ee0ef"
       },
-      "source": "https://github.com/dmellok/tesserae-apple-album"
+      "source": "https://github.com/dmellok/tesserae-widget-apple-album"
     },
     {
       "id": "auroras",
@@ -151,10 +151,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-auroras/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "a958ac7d44e0592e611a2bef2e9644ccedd166cbd2b1e9faa6b2e643effdf74c"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-auroras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9aaeceaefd167e882016de07e9ca38998d9a14faca3ba941886dffec78b0f3f1"
       },
-      "source": "https://github.com/dmellok/tesserae-auroras"
+      "source": "https://github.com/dmellok/tesserae-theme-auroras"
     },
     {
       "id": "bom_warnings",
@@ -179,10 +179,10 @@
       ],
       "release": {
         "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-bom-warnings/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "ebdc51b7937aa7ba56f62862aeb423a36934642afec59595ee6f24f7fea997f0"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-bom-warnings/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "4abeb04e27ae901b1ba490d40affe24d2d7430a3a8a96aff75d0884942eefee6"
       },
-      "source": "https://github.com/dmellok/tesserae-bom-warnings"
+      "source": "https://github.com/dmellok/tesserae-widget-bom-warnings"
     },
     {
       "id": "calendar_schedule",
@@ -208,10 +208,10 @@
       ],
       "release": {
         "version": "0.1.4",
-        "tarball_url": "https://github.com/dmellok/tesserae-calendar-schedule/archive/refs/tags/v0.1.4.tar.gz",
-        "sha256": "81924fa01231a0063500edf85e8cbaed5778e77bc6964c97de1c23563f422f13"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-calendar-schedule/archive/refs/tags/v0.1.4.tar.gz",
+        "sha256": "3f7ce8384a9952072e28ef149acf1606d43ae0dde3ba037f607aa88933502be4"
       },
-      "source": "https://github.com/dmellok/tesserae-calendar-schedule"
+      "source": "https://github.com/dmellok/tesserae-widget-calendar-schedule"
     },
     {
       "id": "clock_extras",
@@ -237,10 +237,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-clock-extras/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "c1613a5ace0aec7dc8e5539b67856d89ba7752502eda3ac3f05b8f714d9b3e44"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-clock-extras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "276a85abbfaaba51e32f42daf61fd78c5f91c9d18c5b5d5fdd6da42eb21fb5bd"
       },
-      "source": "https://github.com/dmellok/tesserae-clock-extras"
+      "source": "https://github.com/dmellok/tesserae-widget-clock-extras"
     },
     {
       "id": "community_demo",
@@ -262,10 +262,10 @@
       ],
       "release": {
         "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-community-demo/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "0a206345d4ba307819cd24e30d2a8a286afa56983f39fdac7560aded8592f214"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-community-demo/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "0da08a4830e1ef4e033092af0218c7777955ca182de1da11b9c044159ad1e9d0"
       },
-      "source": "https://github.com/dmellok/tesserae-community-demo"
+      "source": "https://github.com/dmellok/tesserae-widget-community-demo"
     },
     {
       "id": "devref",
@@ -292,10 +292,10 @@
       ],
       "release": {
         "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-devref-bundle/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "471c8c9bd5e8434b2fbf4437b8671c903b7cf38527f537772f613cda45db092e"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-devref/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "37373d6bbf80288acb8cfdf445a9d2f363d7cac1b7f89d2adadce81d488e442a"
       },
-      "source": "https://github.com/dmellok/tesserae-devref-bundle"
+      "source": "https://github.com/dmellok/tesserae-widget-devref"
     },
     {
       "id": "f1",
@@ -324,10 +324,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-f1/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "0f0e1c41e31aa201dcfb59b9cb1c0a9d47f1fb63fee8afc3dabf40bf4aa90920"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-f1/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "dafb4769f1855f1a749f4ebae3a0b005e4ca1deafe9fc4cc89ba0ddc62961cc9"
       },
-      "source": "https://github.com/dmellok/tesserae-f1"
+      "source": "https://github.com/dmellok/tesserae-widget-f1"
     },
     {
       "id": "finance",
@@ -354,10 +354,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-finance/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "9a059f23c32a7772e0f785ca408faa4cfd749359a1970df5881c61fee219ef24"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-finance/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "be1c12cd414ca832ccb7d5e56735e9f53da5b62f2c1f154a96687433783058a1"
       },
-      "source": "https://github.com/dmellok/tesserae-finance"
+      "source": "https://github.com/dmellok/tesserae-widget-finance"
     },
     {
       "id": "football",
@@ -387,10 +387,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-football/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "17aef15bb8dda2199447241783d747cf802ef130f0c3ff24475a7f26dd96d3ac"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-football/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "bfb9ed9a47f8423ea81fad501e90e9acc050285d461837f18b9eb8f5a773d3d4"
       },
-      "source": "https://github.com/dmellok/tesserae-football"
+      "source": "https://github.com/dmellok/tesserae-widget-football"
     },
     {
       "id": "github",
@@ -428,10 +428,10 @@
       ],
       "release": {
         "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-github/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "61075683a666e1de6aab3d3cc85dad592b39b4b6c1a11693803fd2c58dc03c48"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-github/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "86cbe682b98b303900bb8db8cd50541f8149c8fe5e1f08feb21a64fbbcc8d383"
       },
-      "source": "https://github.com/dmellok/tesserae-github",
+      "source": "https://github.com/dmellok/tesserae-widget-github",
       "extra_screenshot_count": 6
     },
     {
@@ -458,10 +458,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-glances/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "b22e5fe90aa316f5fd05b17f73d38a25f3fa11ef3597838a69f7b10dedf5709c"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-glances/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "80a47df119072b56f96250e6b38c260d1537c948d123273befb717128a2e6ce3"
       },
-      "source": "https://github.com/dmellok/tesserae-glances"
+      "source": "https://github.com/dmellok/tesserae-widget-glances"
     },
     {
       "id": "gradient",
@@ -499,10 +499,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-gradient/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "cb7ead95b65102b5164a647d77ba9040319c2a7908cb5eb620323271b7619adb"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-gradient/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "fe1ce5bc625b91bc6e5b0bf00719539df4eb872bb18a13bbafac6a8abfa72b06"
       },
-      "source": "https://github.com/dmellok/tesserae-gradient"
+      "source": "https://github.com/dmellok/tesserae-theme-gradient"
     },
     {
       "id": "muted",
@@ -536,10 +536,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-muted/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "2b7259e21e195aceaaacbb72c237283afbbbcb22d4789415cfd69e454788fd93"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-muted/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c336d113070d9d81e67791aaf6c92961cdc1a036725b91b9d3c59cfea56db504"
       },
-      "source": "https://github.com/dmellok/tesserae-muted"
+      "source": "https://github.com/dmellok/tesserae-theme-muted"
     },
     {
       "id": "octoprint",
@@ -564,10 +564,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-octoprint/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "81bb451039aebed8f9508a9917d20b9086c453c88b4af64a4fa595fdb3bc54cc"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-octoprint/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c36faa8350a834e6b5457fc07b64f45a3866cc70dad498a6233ff6a067e162b0"
       },
-      "source": "https://github.com/dmellok/tesserae-octoprint"
+      "source": "https://github.com/dmellok/tesserae-widget-octoprint"
     },
     {
       "id": "paperlesspaper_art",
@@ -593,10 +593,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-paperlesspaper-art/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "320ac9b17e5de0c9df2d8a628c749b9227592589d9d03c6edc626730ccdc4fe5"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-paperlesspaper-art/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "37cdc25d8eff6f78407efac3cfad3484143cad4b9ad2a8f0e57fe70a015ed148"
       },
-      "source": "https://github.com/dmellok/tesserae-paperlesspaper-art"
+      "source": "https://github.com/dmellok/tesserae-widget-paperlesspaper-art"
     },
     {
       "id": "pigment",
@@ -630,10 +630,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-pigment/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "a68447eecc347723a749170489ec9c08013d8ced38fcdd8d67bb76d4af1cfc45"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-pigment/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "052fbbae33b7d9041b5d400a8001506eeb27d6579a23b4bab8f762099b4f9119"
       },
-      "source": "https://github.com/dmellok/tesserae-pigment"
+      "source": "https://github.com/dmellok/tesserae-theme-pigment"
     },
     {
       "id": "public_holiday_countdown",
@@ -656,10 +656,10 @@
       ],
       "release": {
         "version": "0.1.3",
-        "tarball_url": "https://github.com/dmellok/tesserae-public-holiday-countdown/archive/refs/tags/v0.1.3.tar.gz",
-        "sha256": "7e381c3c81008deaca06d0641af7f01b5c6910454fbd47432b43865b0e4ede36"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-public-holiday-countdown/archive/refs/tags/v0.1.3.tar.gz",
+        "sha256": "52fc927ae0e5277261f7da2b5798354ce5c322193c2f5da658b757eaa7e6c3ee"
       },
-      "source": "https://github.com/dmellok/tesserae-public-holiday-countdown"
+      "source": "https://github.com/dmellok/tesserae-widget-public-holiday-countdown"
     },
     {
       "id": "recipes",
@@ -681,10 +681,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-recipes/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "c7ea78fe3859ea305ec49bf884043483d1a01bd878cdda52bc8e3108b065955d"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-recipes/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "940254943e02e776d1716beff8ec5d4152bf0bfc0a18ac661e2c23c02fe9034a"
       },
-      "source": "https://github.com/dmellok/tesserae-recipes"
+      "source": "https://github.com/dmellok/tesserae-widget-recipes"
     },
     {
       "id": "sky",
@@ -710,10 +710,10 @@
       ],
       "release": {
         "version": "0.2.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-sky/archive/refs/tags/v0.2.1.tar.gz",
-        "sha256": "ee13aec029528092ff912a132b2f9fd110beff7366b6723484e0b7ec451cae28"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-sky/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "0f1d3e4d891941d25536d190188d52f3e224d7ba511d4ce67509c00d8643e0ed"
       },
-      "source": "https://github.com/dmellok/tesserae-sky"
+      "source": "https://github.com/dmellok/tesserae-widget-sky"
     },
     {
       "id": "spotify",
@@ -742,10 +742,10 @@
       ],
       "release": {
         "version": "0.2.4",
-        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.2.4.tar.gz",
-        "sha256": "cdc6023e5295947840cc05ac13c8261d9c8a04440f7fbed9ec1941168e292053"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-spotify/archive/refs/tags/v0.2.4.tar.gz",
+        "sha256": "70e6e22796a38bd1db88f0df2818067218bfb406cf1ca86eae28d16afc8a608c"
       },
-      "source": "https://github.com/dmellok/tesserae-spotify"
+      "source": "https://github.com/dmellok/tesserae-widget-spotify"
     },
     {
       "id": "tonal",
@@ -775,10 +775,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-tonal/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "ffe056a8a2eda8788994904548465d23c3397025131c72d6c308c71764272957"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-tonal/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "3cbbb0b17d7fac59468a44cc243dc174c716bf3753b86ea369ec6e79adae2d34"
       },
-      "source": "https://github.com/dmellok/tesserae-tonal"
+      "source": "https://github.com/dmellok/tesserae-theme-tonal"
     },
     {
       "id": "transport",
@@ -803,10 +803,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-transport/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "731d3a8787a9dc112cd85e4142a069b424ab2fb916fe1265cbdaaa623477c17e"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-transport/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "ad9f3f72795a7be3b2271c8894dc49451ed8f8d792d79dbda04ba9db39da637c"
       },
-      "source": "https://github.com/dmellok/tesserae-transport"
+      "source": "https://github.com/dmellok/tesserae-widget-transport"
     },
     {
       "id": "transport_belgium",
@@ -859,10 +859,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-unsplash/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "2e682b747983758c1e4cfc4a255c16cefa1b56b57e38adc0d75bd71442b08c9b"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-unsplash/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "b79c3bf2cc70d79959c875fe53683ddd0f8b89d48108a41b54a199ecab85691a"
       },
-      "source": "https://github.com/dmellok/tesserae-unsplash"
+      "source": "https://github.com/dmellok/tesserae-widget-unsplash"
     },
     {
       "id": "vivid",
@@ -901,10 +901,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-vivid/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "4380deb3230e311efd60ffc4c502a44e05d6cd179e06d3f056473610fddbc9da"
+        "tarball_url": "https://github.com/dmellok/tesserae-theme-vivid/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "8fdd702ffd8d751b9ad1bb437473bb652ae47b31adc95d7f7269a3b85142baa9"
       },
-      "source": "https://github.com/dmellok/tesserae-vivid"
+      "source": "https://github.com/dmellok/tesserae-theme-vivid"
     },
     {
       "id": "weather_extras",
@@ -931,10 +931,10 @@
       ],
       "release": {
         "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-weather-extras/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "9fac780cdd4c68d96af55cd53b6bd10ed5c74be274343f09205362023aa66acb"
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-weather-extras/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "73b144512cefa80af6474d9b176604dbc944ce4dc0910c68a4191f45cfac3fcd"
       },
-      "source": "https://github.com/dmellok/tesserae-weather-extras"
+      "source": "https://github.com/dmellok/tesserae-widget-weather-extras"
     }
   ]
 }
