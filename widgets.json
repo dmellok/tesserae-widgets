@@ -325,6 +325,39 @@
       "source": "https://github.com/dmellok/tesserae-finance"
     },
     {
+      "id": "football",
+      "name": "Football Bundle",
+      "description": "Two football widgets on ESPN's public scoreboard + standings APIs. Match (next / last / live for your team) and Table (league standings or World Cup group blocks). Supports World Cup, Champions League, Premier League, La Liga, Bundesliga, Serie A, MLS, A-League.",
+      "icon": "ph-soccer-ball",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "sports"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "sm",
+        "md",
+        "lg"
+      ],
+      "extra_screenshot_count": 1,
+      "folders": [
+        "football_core",
+        "football_match",
+        "football_table"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-football/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "17aef15bb8dda2199447241783d747cf802ef130f0c3ff24475a7f26dd96d3ac"
+      },
+      "source": "https://github.com/dmellok/tesserae-football"
+    },
+    {
       "id": "github",
       "name": "GitHub Widgets",
       "description": "14-widget bundle: hero stat widgets (total stars, streak, open PRs, CI status, star growth, activity heatmap, commit cadence) plus the original repo card, PR queue, releases, contributions, CI timeline, and activity feed. Token shared via github_core.",
