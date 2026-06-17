@@ -2,6 +2,41 @@
   "version": 1,
   "widgets": [
     {
+      "id": "afl",
+      "name": "AFL Bundle",
+      "description": "Four AFL widgets on the public Squiggle API (no key). Live ladder, Next Match (guernsey duel + form), Round Fixtures, Last Match (with goals.behinds). Original guernsey art and monogram badges; toggle per widget.",
+      "icon": "ph-football",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "sports"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "sm",
+        "md",
+        "lg"
+      ],
+      "extra_screenshot_count": 3,
+      "folders": [
+        "afl_core",
+        "afl_ladder",
+        "afl_next_game",
+        "afl_round",
+        "afl_last_game"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-afl/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "43f2741e8f1d2fcfba37b64030bc73fcd961454a3e798460e5c8487729cb1bde"
+      },
+      "source": "https://github.com/dmellok/tesserae-afl"
+    },
+    {
       "id": "ai_brief",
       "name": "AI Brief + Scene + Image",
       "description": "Three data-aware AI widgets sharing one Anthropic + Fal.ai key. ai_brief writes a 1-3 sentence summary (Claude); ai_scene generates a data-reflective image; ai_image is the ambient art widget (heir to fal_image). Token + cost tracking in the AI Core admin page.",
