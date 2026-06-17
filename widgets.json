@@ -30,9 +30,9 @@
         "afl_last_game"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-afl/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "43f2741e8f1d2fcfba37b64030bc73fcd961454a3e798460e5c8487729cb1bde"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-afl/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "0bd78e18d64ba33f7c7d0b31568e6981acd4accf9a97373543f08789af4da869"
       },
       "source": "https://github.com/dmellok/tesserae-afl"
     },
