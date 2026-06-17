@@ -673,9 +673,9 @@
         "spotify_top"
       ],
       "release": {
-        "version": "0.2.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.2.2.tar.gz",
-        "sha256": "0d3b206228083c03beb484a79f675dfb52d1caf549b4dcc009c9ff7b23271602"
+        "version": "0.2.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-spotify/archive/refs/tags/v0.2.3.tar.gz",
+        "sha256": "157e6f7e40e341455e838de65c409af3c9204c81ef750d673d1d6d336f330f58"
       },
       "source": "https://github.com/dmellok/tesserae-spotify"
     },
