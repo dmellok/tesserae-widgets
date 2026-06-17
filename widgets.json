@@ -831,10 +831,10 @@
       ],
       "release": {
         "version": "0.2.0",
-        "tarball_url": "https://github.com/JayJay1989/tesserae-widget-transport-belgium/archive/refs/tags/v0.2.0.tar.gz",
+        "tarball_url": "https://github.com/JayJay1989/tesserae-transport-belgium/archive/refs/tags/v0.2.0.tar.gz",
         "sha256": "fd3abe940735b5ded43c5602244a47bb1c970e059df58eb9ceb69b24ab4f8f2c"
       },
-      "source": "https://github.com/JayJay1989/tesserae-widget-transport-belgium"
+      "source": "https://github.com/JayJay1989/tesserae-transport-belgium"
     },
     {
       "id": "unsplash",
