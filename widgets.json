@@ -601,7 +601,7 @@
     {
       "id": "picture_immich",
       "name": "Picture, Immich",
-      "description": "Full-bleed Immich photos. Connect any number of Immich servers under Widgets, then pick a library + mode per cell. Modes: today's memory, random asset, random from album. Multi-library admin pages, API keys stored encrypted at rest. Cascades through Immich's thumbnail derivatives before falling back to /original + local Pillow transcoding, with HEIC support via the host's pillow-heif (bundled as of Tesserae v0.64.28).",
+      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, or random from album. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
       "icon": "ph-images-square",
       "author": {
         "name": "Kayden D'Mello",
