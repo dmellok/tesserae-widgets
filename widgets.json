@@ -599,6 +599,35 @@
       "source": "https://github.com/dmellok/tesserae-widget-paperlesspaper-art"
     },
     {
+      "id": "picture_immich",
+      "name": "Picture, Immich",
+      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, or random from album. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
+      "icon": "ph-images-square",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 0,
+      "folders": [
+        "picture_immich"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2c04ea2cdda0400b01fc4a23322b973c7fb36f79701c0cbe6e3c7c4ba5ece16a"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-immich"
+    },
+    {
       "id": "pigment",
       "name": "Pigment",
       "description": "Ten saturated feature-colour-led light themes (rust, amber, fern, teal, azure, indigo, orchid, rose, grape, ink). More punch than Tonal, less canvas-as-feature than Vivid; one consistent supporting accent palette across the pack.",
