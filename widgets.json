@@ -61,9 +61,9 @@
         "ai_image"
       ],
       "release": {
-        "version": "0.3.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-ai-brief/archive/refs/tags/v0.3.2.tar.gz",
-        "sha256": "f49ad4be4efde07faa0fc5f6db710051ffbb534f66a58f3459b07a281faffad3"
+        "version": "0.3.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-ai-brief/archive/refs/tags/v0.3.3.tar.gz",
+        "sha256": "7bdbe5a26deb6f6e37a10ba26d922cb193834849a8415f4da75098306b92b17c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-ai-brief"
     },
@@ -766,9 +766,9 @@
         "sky_moon"
       ],
       "release": {
-        "version": "0.2.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-sky/archive/refs/tags/v0.2.1.tar.gz",
-        "sha256": "0f1d3e4d891941d25536d190188d52f3e224d7ba511d4ce67509c00d8643e0ed"
+        "version": "0.2.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-sky/archive/refs/tags/v0.2.2.tar.gz",
+        "sha256": "f4600a5d00816293d3c347b720b335b23a03a57d4b048b395be566264cb55b04"
       },
       "source": "https://github.com/dmellok/tesserae-widget-sky"
     },
@@ -859,9 +859,9 @@
         "public_transport_times"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-transport/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "ad9f3f72795a7be3b2271c8894dc49451ed8f8d792d79dbda04ba9db39da637c"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-transport/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "f418c1cb8deab9953848b64b1f5e2da7d425d802443045d641be79aa1a5b01b4"
       },
       "source": "https://github.com/dmellok/tesserae-widget-transport"
     },
@@ -987,9 +987,9 @@
         "weather_wind"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-weather-extras/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "73b144512cefa80af6474d9b176604dbc944ce4dc0910c68a4191f45cfac3fcd"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-weather-extras/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "c800d447f530877361eeac517068e21388324f1e9d779022c7b837ed3d6ec345"
       },
       "source": "https://github.com/dmellok/tesserae-widget-weather-extras"
     }
