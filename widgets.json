@@ -386,9 +386,9 @@
         "football_table"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-football/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "bfb9ed9a47f8423ea81fad501e90e9acc050285d461837f18b9eb8f5a773d3d4"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-football/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "dda746075a562abd00d10ad3b0272e63040fde5c29cdea61db7464e79d0df842"
       },
       "source": "https://github.com/dmellok/tesserae-widget-football"
     },
