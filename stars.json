@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-25T03:20:21Z",
+  "fetched_at": "2026-06-28T23:31:24Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -30,6 +30,7 @@
     "tonal": 0,
     "transport": 0,
     "transport_belgium": 1,
+    "trmnl_proxy": 0,
     "unsplash": 0,
     "vivid": 0,
     "weather_extras": 0
