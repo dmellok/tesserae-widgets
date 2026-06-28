@@ -894,6 +894,34 @@
       "source": "https://github.com/JayJay1989/tesserae-transport-belgium"
     },
     {
+      "id": "trmnl_proxy",
+      "name": "TRMNL proxy",
+      "description": "Render the next-up screen from your TRMNL account on a Tesserae cell. Paste a device API key, paint whatever playlist is scheduled. The token never leaves the host: Tesserae fetches the envelope from /api/display and proxies the image bytes through itself.",
+      "icon": "ph-monitor-play",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "trmnl_proxy"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trmnl-proxy/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "95400f9345f177c865176e91189729ae38702a986ac08a510ca8ac8e3a2a6fb6"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-trmnl-proxy"
+    },
+    {
       "id": "unsplash",
       "name": "Unsplash",
       "description": "Rotating Unsplash photo tile keyed off a search term or collection. Free API key (50 requests/hr is plenty for an hourly e-ink rotation).",
