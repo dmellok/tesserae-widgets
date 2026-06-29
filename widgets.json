@@ -542,6 +542,34 @@
       "source": "https://github.com/dmellok/tesserae-theme-muted"
     },
     {
+      "id": "news_hackaday",
+      "name": "News, Hackaday",
+      "description": "Latest articles from Hackaday, the hardware-hacking publication, with the Jolly Wrencher in the header and per-article featured images on the large layout. Headlines, authors, and time-ago chips for the rest. Pure RSS, no API key.",
+      "icon": "ph-skull",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "news"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "news_hackaday"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-hackaday/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f34cec76bd5bec888ec099b0563ea6636e7bdf2410af94df71f8d6b2bd9cd940"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-hackaday"
+    },
+    {
       "id": "octoprint",
       "name": "OctoPrint",
       "description": "Print status tile for an OctoPrint server: current progress, ETA, hotend/bed temperature, and print-in-progress state. For users with a 3D printer running OctoPrint.",
