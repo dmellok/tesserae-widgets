@@ -544,7 +544,7 @@
     {
       "id": "news_hackaday",
       "name": "News, Hackaday",
-      "description": "Latest articles from Hackaday, the hardware-hacking publication, with the Jolly Wrencher in the header and per-article featured images on the large layout. Headlines, authors, and time-ago chips for the rest. Pure RSS, no API key.",
+      "description": "Latest articles from Hackaday, the hardware-hacking publication, with the Jolly Wrencher in the header. Pick the hero layout for a featured image up top, or the list layout for a tighter run of headlines. Pure RSS, no API key.",
       "icon": "ph-skull",
       "author": {
         "name": "Kayden D'Mello",
@@ -563,9 +563,9 @@
         "news_hackaday"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-hackaday/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "f34cec76bd5bec888ec099b0563ea6636e7bdf2410af94df71f8d6b2bd9cd940"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-hackaday/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "2f3e405102e86fe7714474a5c0a67840a3ea91ef91a6f972ceec3368fccb7c5a"
       },
       "source": "https://github.com/dmellok/tesserae-widget-hackaday"
     },
