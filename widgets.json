@@ -563,9 +563,9 @@
         "news_hackaday"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-hackaday/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "2f3e405102e86fe7714474a5c0a67840a3ea91ef91a6f972ceec3368fccb7c5a"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-hackaday/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "471830c35c4a3c6150ae9f092c5e0cfdb18d83dd6cc9309ab5d4cfd52552ab25"
       },
       "source": "https://github.com/dmellok/tesserae-widget-hackaday"
     },
