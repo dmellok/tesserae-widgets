@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T23:31:24Z",
+  "fetched_at": "2026-06-29T09:48:56Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -18,6 +18,7 @@
     "glances": 0,
     "gradient": 0,
     "muted": 0,
+    "news_hackaday": 0,
     "octoprint": 0,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
