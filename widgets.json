@@ -427,9 +427,9 @@
         "github_streak"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-github/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "86cbe682b98b303900bb8db8cd50541f8149c8fe5e1f08feb21a64fbbcc8d383"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-github/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "cd2dc176b8736a8acf677ad41d0107e73b2455b738812729d46a6ce61eb666a3"
       },
       "source": "https://github.com/dmellok/tesserae-widget-github",
       "extra_screenshot_count": 6
