@@ -1048,6 +1048,31 @@
         "sha256": "c800d447f530877361eeac517068e21388324f1e9d779022c7b837ed3d6ec345"
       },
       "source": "https://github.com/dmellok/tesserae-widget-weather-extras"
+    },
+    {
+      "id": "youtube_channel",
+      "name": "YouTube, Channel Health",
+      "description": "One YouTube channel's health at a glance — subscribers with 7/30-day delta, latest video's views vs the previous upload, 30-day view momentum, likes + comments, and the top video this month. Bring your own free YouTube Data API key.",
+      "icon": "ph-youtube-logo",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-youtube-channel/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "1335ead47cda79c71412a45c2e7fa4768bd064296aa24c0e9776140ba9c030ba"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-youtube-channel"
     }
   ]
 }
