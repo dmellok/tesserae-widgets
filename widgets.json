@@ -185,6 +185,35 @@
       "source": "https://github.com/dmellok/tesserae-widget-bom-warnings"
     },
     {
+      "id": "caldav_todo",
+      "name": "CalDAV Todo",
+      "description": "Read-only checklist from your CalDAV / iCal todo lists (Baikal, Radicale, Nextcloud Tasks). Reads VTODO items from the same Calendar Core feeds the calendar widgets use, leads with what needs action, and shows due-date chips, an iCal priority dot, and per-feed colour ticks.",
+      "icon": "ph-list-checks",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "calendar",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "caldav_todo"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-caldav-todo/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "1139da8780548e3cf2b3de3cb88f6e8782be4a0316e907cf1917ec09f861022e"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-caldav-todo"
+    },
+    {
       "id": "calendar_schedule",
       "name": "Calendar, Schedule",
       "description": "Timeline-rail agenda view: upcoming events grouped by day, with a thin ink rail connecting per-event nodes and a coloured start-time chip carrying the feed accent. Auto-grows 1 to 4 columns until the whole list fits, so titles stay legible on wide e-ink panels without truncating.",
