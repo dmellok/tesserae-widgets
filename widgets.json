@@ -76,6 +76,12 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
+      "contributors": [
+        {
+          "name": "Sam",
+          "github": "samphonic"
+        }
+      ],
       "tags": [
         "utility"
       ],
@@ -89,9 +95,9 @@
         "sky_air_traffic"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-air-traffic/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "bb3dc820b00f3dd886a802e695890fb044eb564ea74731fcd4f527a3b48ce081"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-air-traffic/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "e055cd261a9e9d92c978ec9ce9920f367f3e9b770aca382b0f895313099df8e7"
       },
       "source": "https://github.com/dmellok/tesserae-widget-air-traffic"
     },
