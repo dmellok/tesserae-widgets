@@ -249,6 +249,36 @@
       "source": "https://github.com/dmellok/tesserae-widget-calendar-schedule"
     },
     {
+      "id": "clock_digital",
+      "name": "Clock, Digital",
+      "description": "Digital clock with selectable timezone and seven faces: classic bold type, split-flap flip cards, seven-segment LCD, stacked poster type, outline, dot matrix, and a mono terminal prompt. 12/24-hour, optional seconds, date and label lines, light or dark ink.",
+      "icon": "ph-clock",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "clock",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 6,
+      "folders": [
+        "clock_digital"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-clock-digital/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "31e0478d9566db7eab5ced7c68d85ab50bb7c84fa402073e23b4ccdd061be81e"
+      },
+      "source": "https://github.com/dmellok/tesserae-clock-digital"
+    },
+    {
       "id": "clock_extras",
       "name": "Clock Extras",
       "description": "Word clock (QLOCKTWO style) and multi-timezone world clocks. 2-widget bundle, no setup beyond a timezone picker.",
