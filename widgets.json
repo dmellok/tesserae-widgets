@@ -927,6 +927,34 @@
       "source": "https://github.com/dmellok/tesserae-widget-spotify"
     },
     {
+      "id": "todoist",
+      "name": "Todoist Tasks",
+      "description": "Open Todoist tasks for any filter query (today | overdue, #Work, p1, 7 days, …), sorted overdue-first with priority colours, due dates and project names, plus a compact due-count fragment. Personal API token, read-only. Unified API v1 with automatic REST v2 fallback.",
+      "icon": "ph-checks",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "todoist_tasks"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-todoist/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "3ba45ce269cb2d579334553dd7e16b08520c3fd832d2c8990b83855375afbe5e"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-todoist"
+    },
+    {
       "id": "tonal",
       "name": "Tonal",
       "description": "Six medium-vivid, feature-colour-led light themes (slate, clay, moss, plum, harbour, copper). Each has a gently tinted off-white canvas and a coherent 6-accent palette led by its namesake colour. Theme pack: installs all six.",
