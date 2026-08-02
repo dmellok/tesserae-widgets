@@ -1224,6 +1224,31 @@
         "sha256": "4ec9add65becdd4a5f23e7c4ebe55be1627e77c1048abe10352065d4b3d372bf"
       },
       "source": "https://github.com/dmellok/tesserae-widget-fractal-tile"
+    },
+    {
+      "id": "reminders_fridge",
+      "name": "Reminders, Fridge",
+      "description": "A fridge grocery list from your iPhone. The Companion app publishes one chosen Apple Reminders list (incomplete items only) as a minimal, expiring snapshot; this renders it as a framed checklist with the count as the hero.",
+      "icon": "ph-basket",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-reminders-fridge/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "5f30bf71ed6217516e9b073e6d411ecae7dd2df960282510a30e42ef09cda29f"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-reminders-fridge"
     }
   ]
 }
