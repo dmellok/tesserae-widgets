@@ -786,6 +786,35 @@
       "source": "https://github.com/dmellok/tesserae-theme-pigment"
     },
     {
+      "id": "pokedex",
+      "name": "Pokédex",
+      "description": "A Pokédex entry from PokéAPI — real base stats, types, pixel sprite and dex text. Random every refresh, Pokémon of the day, or a fixed pick; pool from the Kanto 151 to all 1025. Three looks: house style, classic red Pokédex device, or Game Boy mono green.",
+      "icon": "ph-lightning",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 2,
+      "folders": [
+        "pokedex"
+      ],
+      "release": {
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "003862fa5c20cfad5e2b2ba3fdaf9410f86811e8b3a2c5c08952cc9bc436a608"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-pokedex"
+    },
+    {
       "id": "posthog_metric",
       "name": "PostHog Metric",
       "description": "Hero number for any PostHog trends metric — pick the event, math, date range, and an optional property filter to point it at your own project and site. Optional area sparkline or bars, a trend chip, and peak/avg stats. Bring your own PostHog API key.",
