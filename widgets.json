@@ -929,7 +929,7 @@
     {
       "id": "todoist",
       "name": "Todoist Tasks",
-      "description": "Open Todoist tasks for any filter query (today | overdue, #Work, p1, 7 days, …), sorted overdue-first with priority colours, due dates and project names, plus a compact due-count fragment. Personal API token, read-only. Unified API v1 with automatic REST v2 fallback.",
+      "description": "Open Todoist tasks for any filter query (today | overdue, #Work, p1, …), overdue-first with priority colours, due dates, projects and a due-count fragment. API token, read-only. **Testers wanted** — not yet run against a live account; feedback welcome on the repo.",
       "icon": "ph-checks",
       "author": {
         "name": "Kayden D'Mello",
