@@ -529,6 +529,34 @@
       "source": "https://github.com/dmellok/tesserae-widget-glances"
     },
     {
+      "id": "google_album",
+      "name": "Google Photos Shared Albums",
+      "description": "Photo carousel from a Google Photos album shared by link, full bleed. Reads the public share page directly (no Google account or API key). Orientation filter, random or sequential rotation, fit/fill/stretch/blurred scaling, optional caption and sequence overlay.",
+      "icon": "ph-google-photos-logo",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "picture_google_album"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "451300aecfb7ff82833243262defb72b50d4e9d1bf6d6ec4e5564b7c5476ebee"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-google-album"
+    },
+    {
       "id": "gradient",
       "name": "Gradient",
       "description": "Fourteen linear-gradient surface themes that used to ship bundled with Tesserae (sunset, aurora, twilight, spectrum, coral, mist, sand, sage, linen, mauve, marble, glacier, honey, pearl). Pairs especially well with 7-colour Spectra panels.",
