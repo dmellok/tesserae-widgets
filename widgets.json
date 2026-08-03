@@ -1284,6 +1284,35 @@
       "source": "https://github.com/dmellok/tesserae-widget-fractal-tile"
     },
     {
+      "id": "apple_reminders",
+      "name": "Apple Reminders",
+      "description": "Any Apple Reminders list explicitly published by Tesserae Companion, shown as Tasks, Food, Shopping, or a custom checklist. Configure labels, relative dates, urgency colours, item limits, and one- or two-column layouts. Reads only the latest expiring snapshot; no network access.",
+      "icon": "ph-list-checks",
+      "author": {
+        "name": "Charm",
+        "github": "charmmmz"
+      },
+      "tags": [
+        "calendar",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "apple_reminders"
+      ],
+      "release": {
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-apple-reminders/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "6fb7a64bcb9348ae9c4a16fa904e7a04ef2434cd49abecfd697b976501b5d9e0"
+      },
+      "source": "https://github.com/charmmmz/tesserae-widget-apple-reminders"
+    },
+    {
       "id": "reminders_fridge",
       "name": "Reminders, Fridge",
       "description": "A fridge grocery list from your iPhone. The Companion app publishes one chosen Apple Reminders list (incomplete items only) as a minimal, expiring snapshot; this renders it as a framed checklist with the count as the hero.",
