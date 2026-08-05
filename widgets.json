@@ -1306,9 +1306,9 @@
         "apple_reminders"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/charmmmz/tesserae-widget-apple-reminders/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "6fb7a64bcb9348ae9c4a16fa904e7a04ef2434cd49abecfd697b976501b5d9e0"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-apple-reminders/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "7a6a38482c0b32c998868b33967c52e3b3cd2452c3bbfef0272660bdcdbbbdf8"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-apple-reminders"
     },
