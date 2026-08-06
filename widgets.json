@@ -531,7 +531,7 @@
     {
       "id": "goodreads_shelf",
       "name": "Goodreads Shelf",
-      "description": "Your Goodreads bookshelf \u2014 recent reads with covers, star ratings, a now-reading line and reading stats, read from a public shelf's RSS feed. No API key: just a user ID with a public profile. Shelves: read, currently reading, want to read; list and stats fragments.",
+      "description": "Your Goodreads bookshelf — recent reads with covers, star ratings, a now-reading line and reading stats, read from a public shelf's RSS feed. No API key: just a user ID with a public profile. Shelves: read, currently reading, want to read; list and stats fragments.",
       "icon": "ph-books",
       "author": {
         "name": "Kayden D'Mello",
@@ -816,8 +816,8 @@
     },
     {
       "id": "pokedex",
-      "name": "Pok\u00e9dex",
-      "description": "A Pok\u00e9dex entry from Pok\u00e9API \u2014 real base stats, types, pixel sprite and dex text. Random every refresh, Pok\u00e9mon of the day, or a fixed pick; pool from the Kanto 151 to all 1025. Three looks: house style, classic red Pok\u00e9dex device, or Game Boy mono green.",
+      "name": "Pokédex",
+      "description": "A Pokédex entry from PokéAPI — real base stats, types, pixel sprite and dex text. Random every refresh, Pokémon of the day, or a fixed pick; pool from the Kanto 151 to all 1025. Three looks: house style, classic red Pokédex device, or Game Boy mono green.",
       "icon": "ph-lightning",
       "author": {
         "name": "Kayden D'Mello",
@@ -846,7 +846,7 @@
     {
       "id": "posthog_metric",
       "name": "PostHog Metric",
-      "description": "Hero number for any PostHog trends metric \u2014 pick the event, math, date range, and an optional property filter to point it at your own project and site. Optional area sparkline or bars, a trend chip, and peak/avg stats. Bring your own PostHog API key.",
+      "description": "Hero number for any PostHog trends metric — pick the event, math, date range, and an optional property filter to point it at your own project and site. Optional area sparkline or bars, a trend chip, and peak/avg stats. Bring your own PostHog API key.",
       "icon": "ph-chart-line-up",
       "author": {
         "name": "Kayden D'Mello",
@@ -987,7 +987,7 @@
     {
       "id": "todoist",
       "name": "Todoist Tasks",
-      "description": "Open Todoist tasks for any filter query (today | overdue, #Work, p1, \u2026), overdue-first with priority colours, due dates, projects and a due-count fragment. API token, read-only. **Testers wanted** \u2014 not yet run against a live account; feedback welcome on the repo.",
+      "description": "Open Todoist tasks for any filter query (today | overdue, #Work, p1, …), overdue-first with priority colours, due dates, projects and a due-count fragment. API token, read-only. **Testers wanted** — not yet run against a live account; feedback welcome on the repo.",
       "icon": "ph-checks",
       "author": {
         "name": "Kayden D'Mello",
@@ -1232,7 +1232,7 @@
     {
       "id": "youtube_channel",
       "name": "YouTube, Channel Health",
-      "description": "One YouTube channel's health at a glance \u2014 subscribers with 7/30-day delta, latest video's views vs the previous upload, 30-day view momentum, likes + comments, and the top video this month. Bring your own free YouTube Data API key.",
+      "description": "One YouTube channel's health at a glance — subscribers with 7/30-day delta, latest video's views vs the previous upload, 30-day view momentum, likes + comments, and the top video this month. Bring your own free YouTube Data API key.",
       "icon": "ph-youtube-logo",
       "author": {
         "name": "Kayden D'Mello",
