@@ -1414,6 +1414,35 @@
         "sha256": "331cdb6fcfb25e86400e0b410b7887df22419ea4cbf35bfebd2d02f2368144b5"
       },
       "source": "https://github.com/tlmcguire/tesserae-widget-xkcd"
+    },
+    {
+      "id": "map_poster",
+      "name": "Map Poster",
+      "description": "Label-free map art for any place, drawn from OpenStreetMap vector tiles: land, water, parks and a road hierarchy, and nothing else. Seventeen themes from stark mono to warm paper, plus a custom palette.",
+      "icon": "ph-map-trifold",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 7,
+      "folders": [
+        "map_poster"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-map-poster/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "ceb659a0840d8266bc101ac47453a932bcdcb23fc96e547f61fa50e1592fe359"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-map-poster"
     }
   ]
 }
