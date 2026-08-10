@@ -131,7 +131,7 @@
       "id": "apple_album",
       "name": "iCloud Shared Albums",
       "description": "Photo carousel from a public iCloud Shared Album link. Single-widget bundle. Uses reverse-engineered Apple Shared Album endpoints, undocumented but stable for ~10 years. No API key needed.",
-      "icon": "ph-cloud-arrow-down",
+      "icon": "ph-apple-logo",
       "author": {
         "name": "Kayden D'Mello",
         "github": "dmellok"
@@ -268,9 +268,9 @@
         "calendar_schedule"
       ],
       "release": {
-        "version": "0.5.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-calendar-schedule/archive/refs/tags/v0.5.0.tar.gz",
-        "sha256": "bb631a1321040b06ea9c5a71115562505f6cb8c93f79baa1f61d4a943a1147a8"
+        "version": "0.5.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-calendar-schedule/archive/refs/tags/v0.5.1.tar.gz",
+        "sha256": "531e0ca1ab3234044bcc6545b83e9ef45066509b919583aa0287269315611de0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-calendar-schedule"
     },
@@ -1364,31 +1364,6 @@
         "sha256": "7a6a38482c0b32c998868b33967c52e3b3cd2452c3bbfef0272660bdcdbbbdf8"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-apple-reminders"
-    },
-    {
-      "id": "reminders_fridge",
-      "name": "Reminders, Fridge",
-      "description": "A fridge grocery list from your iPhone. The Companion app publishes one chosen Apple Reminders list (incomplete items only) as a minimal, expiring snapshot; this renders it as a framed checklist with the count as the hero.",
-      "icon": "ph-basket",
-      "author": {
-        "name": "Kayden D'Mello",
-        "github": "dmellok"
-      },
-      "tags": [
-        "utility"
-      ],
-      "kind": "widget",
-      "tesserae_compat": "1.x",
-      "official": true,
-      "screenshot_sizes": [
-        "lg"
-      ],
-      "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-reminders-fridge/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "5f30bf71ed6217516e9b073e6d411ecae7dd2df960282510a30e42ef09cda29f"
-      },
-      "source": "https://github.com/dmellok/tesserae-widget-reminders-fridge"
     },
     {
       "id": "xkcd_comic",
