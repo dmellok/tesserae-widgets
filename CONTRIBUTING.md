@@ -25,6 +25,14 @@ no widget sandbox yet.
    declare them in `widgets.json` with `"extra_screenshot_count": N`.
    The Browse card renders all N+1 shots as an inline carousel; entries
    without the field stay single-image.
+   If your widget is a front end for a service with a mark of its own
+   (Immich, a transit agency, a photo host), you can also ship that mark
+   at `icons/<file>.svg` or `.png` and name it in your entry's
+   `icon_asset`. It replaces the Phosphor glyph on the Browse card. Keep
+   `icon` set as well: an install that can't reach the catalog falls back
+   to it. Only ship a logo you have the right to redistribute; the
+   project's own published asset is usually fine, a proprietary app icon
+   usually isn't.
 5. Open a PR to **this** repo (`tesserae-widgets`):
    - Add a `screenshots/<id>/lg.png` (plus any other sizes you shot).
    - Add a new entry to `widgets.json` with your widget metadata

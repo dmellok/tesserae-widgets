@@ -51,6 +51,11 @@
           "pattern": "^ph-[a-z0-9-]+$",
           "description": "Phosphor icon class. Optional; falls back to ph-puzzle-piece if absent."
         },
+        "icon_asset": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9_-]*\\.(png|svg)$",
+          "description": "Filename of an image icon shipped in this repo's icons/ directory, for an entry wrapping a service with a recognisable mark of its own. A bare filename only: the value is resolved under icons/, never as a URL, so a catalog can't point every Browse page at a host of its choosing. 'icon' stays the fallback and should still be set, since an install that can't reach the catalog renders the glyph."
+        },
         "author": {
           "type": "object",
           "required": ["name"],
