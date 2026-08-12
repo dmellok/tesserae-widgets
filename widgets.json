@@ -1339,7 +1339,7 @@
     {
       "id": "apple_reminders",
       "name": "Apple Reminders",
-      "description": "Any Apple Reminders list explicitly published by Tesserae Companion, shown as Tasks, Food, Shopping, or a custom checklist. Configure labels, relative dates, urgency colours, item limits, and one- or two-column layouts. Reads only the latest expiring snapshot; no network access.",
+      "description": "Any Apple Reminders list explicitly published by any paired Tesserae Companion, shown as Tasks, Food, Shopping, or a custom checklist. Configure labels, relative dates, urgency colours, item limits, columns, and optional daily refreshes. Read-only with no network access.",
       "icon": "ph-list-checks",
       "author": {
         "name": "Charm",
@@ -1359,9 +1359,9 @@
         "apple_reminders"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/charmmmz/tesserae-widget-apple-reminders/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "7a6a38482c0b32c998868b33967c52e3b3cd2452c3bbfef0272660bdcdbbbdf8"
+        "version": "0.4.0",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-apple-reminders/archive/refs/tags/v0.4.0.tar.gz",
+        "sha256": "ee20e98244a0a69bad46e2d67cf55c33974644b88105e6d08533574a7d63286e"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-apple-reminders"
     },
