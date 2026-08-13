@@ -1419,6 +1419,35 @@
         "sha256": "ceb659a0840d8266bc101ac47453a932bcdcb23fc96e547f61fa50e1592fe359"
       },
       "source": "https://github.com/dmellok/tesserae-widget-map-poster"
+    },
+    {
+      "id": "topo_map",
+      "name": "Topographic Map",
+      "description": "Contour lines for any place on earth, traced from an elevation model, with water, railways and roads over them. Index contours carry their heights and the high point gets a spot height. Eight themes, from a 1-bit mono sheet to shaded relief.",
+      "icon": "ph-mountains",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 6,
+      "folders": [
+        "topo_map"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-topo-map/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "20570341f473c18b53125af33fb54f58bb49237d3c3c6adf509d4084277e7631"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-topo-map"
     }
   ]
 }
