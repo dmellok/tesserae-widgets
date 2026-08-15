@@ -1506,6 +1506,35 @@
         "sha256": "d8a66d134ba4dd17e531b1dd2c90f27cdc1bdcfc542fc1594fbbd320b07161b8"
       },
       "source": "https://github.com/dmellok/tesserae-widget-sky-tonight"
+    },
+    {
+      "id": "wildlife_nearby",
+      "name": "Wildlife Nearby",
+      "description": "What has actually been seen around your panel: the species most often recorded nearby, or the ones spotted in the last day, from iNaturalist's public observations. Nine group filters, and list, single-photo or gallery layouts. No API key.",
+      "icon": "ph-bird",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 4,
+      "folders": [
+        "wildlife_nearby"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-wildlife-nearby/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "a51a1ea2e1ee181ae5d2798654daab97dd3e4fe12d483ce30f67682bd226d59a"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-wildlife-nearby"
     }
   ]
 }
