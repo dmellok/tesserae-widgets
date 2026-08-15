@@ -1477,6 +1477,35 @@
         "sha256": "1793a89b35446412f035359657749073d7df6537cae555516755650191b6832f"
       },
       "source": "https://github.com/dmellok/tesserae-widget-flight-status"
+    },
+    {
+      "id": "sky_tonight",
+      "name": "Tonight's Sky",
+      "description": "An all-sky chart of what is actually above you: 5,000 stars, constellation figures, the planets and the Moon's real phase. Computed from a built-in catalogue, so it needs no API key and makes no network call. Three layouts including a full-bleed wallpaper mode.",
+      "icon": "ph-star-four",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 4,
+      "folders": [
+        "sky_tonight"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-sky-tonight/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "d8a66d134ba4dd17e531b1dd2c90f27cdc1bdcfc542fc1594fbbd320b07161b8"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-sky-tonight"
     }
   ]
 }
