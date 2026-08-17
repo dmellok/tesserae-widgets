@@ -104,7 +104,7 @@
     {
       "id": "album_art",
       "name": "Home Assistant, Album Art",
-      "description": "Portrait now-playing view for prioritized Home Assistant music players, with cover art, track metadata, extracted colours, responsive layouts, local artwork caching, and lossless HEIC/HEIF conversion.",
+      "description": "Responsive now-playing view for prioritized Home Assistant music players, with cover art, track metadata, extracted colours, Canvas-matched layouts, local artwork caching, and lossless HEIC/HEIF conversion.",
       "icon": "ph-music-notes",
       "author": {
         "name": "Charm",
@@ -121,9 +121,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.3.11",
-        "tarball_url": "https://github.com/charmmmz/tesserae-widget-album-art/archive/refs/tags/v0.3.11.tar.gz",
-        "sha256": "b318bd9bda06b4db96b15b5b6a10697044865b9c5e9dcd436b7404940300dd66"
+        "version": "0.3.12",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-album-art/archive/refs/tags/v0.3.12.tar.gz",
+        "sha256": "35768e8e4316378ac20c627f1915dff45688bac3f8f50bbd4e9181cfac3b4078"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-album-art"
     },
@@ -408,9 +408,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.3.13",
-        "tarball_url": "https://github.com/charmmmz/tesserae-widget-emby-poster/archive/refs/tags/v0.3.13.tar.gz",
-        "sha256": "1ef1d2bcc6ed410447be876da729b966c21bc3e5fca67b936d0f1957130e0774"
+        "version": "0.3.14",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-emby-poster/archive/refs/tags/v0.3.14.tar.gz",
+        "sha256": "db03da39d295e07f0c31b4c77c18b0a12f1f26db60e605e3ca792f928f629e53"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-emby-poster"
     },
