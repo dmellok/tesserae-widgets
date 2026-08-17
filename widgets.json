@@ -1561,6 +1561,35 @@
         "sha256": "a51a1ea2e1ee181ae5d2798654daab97dd3e4fe12d483ce30f67682bd226d59a"
       },
       "source": "https://github.com/dmellok/tesserae-widget-wildlife-nearby"
+    },
+    {
+      "id": "markdown_note",
+      "name": "Markdown Note",
+      "description": "Write markdown, get a note, a sign or an e-ink shelf label. Type it into the cell, or point many cells at one markdown document split into sections, so a whole shelf of tags is edited in one file. Auto-fits the type, with frames, inversion and rotation.",
+      "icon": "ph-tag",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 4,
+      "folders": [
+        "markdown_note"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-markdown-note/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9a1583d709973e32706cdf66d93c1222fb9308f265b154c1a8f84ae5ac671dad"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-markdown-note"
     }
   ]
 }
