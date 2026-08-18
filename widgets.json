@@ -1590,6 +1590,26 @@
         "sha256": "9a1583d709973e32706cdf66d93c1222fb9308f265b154c1a8f84ae5ac671dad"
       },
       "source": "https://github.com/dmellok/tesserae-widget-markdown-note"
+    },
+    {
+      "id": "calendar_three_day",
+      "name": "Calendar, Three Day",
+      "description": "Today + the next two days as a three-column timetable. Built from the calendar_day timetable rendering and the calendar_schedule widget's day-bucketing approach. Each event's colour comes from its feed (Widgets → Calendar Feeds).",
+      "icon": "ph-calendar",
+      "author": {
+        "name": "Tony James Stark",
+        "github": "tonyjamesstark"
+      },
+      "tags": ["calendar"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "screenshot_sizes": ["lg"],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/tonyjamesstark/tesserae-widget-calendar-three-day-releases/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "be24050c9fac583d6cbbbd440bf633fcc380a5afb3f7d87a4e39575ecb2752aa"
+      },
+      "source": "https://github.com/tonyjamesstark/tesserae-widget-calendar-three-day-releases"
     }
   ]
 }
