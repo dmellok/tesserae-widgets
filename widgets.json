@@ -352,7 +352,7 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.2",
+        "version": "0.1.1",
         "tarball_url": "https://github.com/dmellok/tesserae-widget-community-demo/archive/refs/tags/v0.1.1.tar.gz",
         "sha256": "0da08a4830e1ef4e033092af0218c7777955ca182de1da11b9c044159ad1e9d0"
       },
