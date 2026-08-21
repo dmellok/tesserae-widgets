@@ -4,6 +4,11 @@
 #   2. Every release.tarball_url is fetchable + matches release.sha256.
 #   3. Every screenshot path declared in screenshot_sizes exists as a
 #      PNG under screenshots/<id>/<size>.png.
+#   4. A single-widget tarball's embedded plugin.json agrees with the
+#      catalog on kind and version. The host refuses the install when it
+#      doesn't, so catching it here is the difference between a red PR
+#      and a user hitting "Install failed". Bundles are skipped because
+#      the host skips them too (each folder carries its own version).
 name: Validate catalog
 
 on:
@@ -56,6 +61,23 @@ jobs:
                   "re-serialising it, or pass ensure_ascii=False if you script the edit."
               )
               sys.exit(1)
+
+          def read_root_manifest(buf: bytes) -> dict | None:
+              """The plugin.json sitting at the tarball root, after one
+              GitHub-style envelope folder is unwrapped."""
+              with tarfile.open(fileobj=io.BytesIO(buf), mode="r:*") as tar:
+                  members = [m for m in tar.getmembers() if m.isfile()]
+                  names = [m.name for m in members]
+                  top_dirs = sorted({n.split("/", 1)[0] for n in names if "/" in n})
+                  prefix = top_dirs[0] + "/" if len(top_dirs) == 1 and all("/" in n for n in names) else ""
+                  for m in members:
+                      if m.name == prefix + "plugin.json":
+                          f = tar.extractfile(m)
+                          if f is None:
+                              return None
+                          return json.loads(f.read().decode("utf-8"))
+              return None
+
 
           def detect_layout(buf: bytes, primary_id: str) -> list[str]:
               """Mirror app/marketplace.py's _detect_layout: unwrap one
@@ -119,6 +141,31 @@ jobs:
                       f"got {actual_sha[:12]}...)"
                   )
                   continue
+              # Single widget: the embedded manifest must agree with the
+              # catalog. Mirrors app/marketplace.py's install-time check,
+              # which raises InstallRefused on a mismatch; without this a
+              # bad entry merges green and fails on every user's machine.
+              if w.get("kind") != "theme" and "folders" not in w:
+                  try:
+                      manifest = read_root_manifest(body)
+                  except Exception as err:
+                      manifest = None
+                      failures.append(f"{wid}: could not read plugin.json from tarball: {err}")
+                  if manifest is not None:
+                      embedded_version = str(manifest.get("version", ""))
+                      if embedded_version != rel["version"]:
+                          failures.append(
+                              f"{wid}: catalog says version={rel['version']!r} but the tarball's "
+                              f"plugin.json declares {embedded_version!r}. The host refuses this "
+                              f"install; tag the release after bumping plugin.json."
+                          )
+                      embedded_kind = str(manifest.get("kind", ""))
+                      if embedded_kind != w["kind"]:
+                          failures.append(
+                              f"{wid}: catalog says kind={w['kind']!r} but the tarball's "
+                              f"plugin.json declares {embedded_kind!r}."
+                          )
+
               # Bundle: catalog-declared folders must match tarball.
               # Skip for kind=theme: theme tarballs are flat <id>.json +
               # <id>.css pairs, not plugin folders, so detect_layout
