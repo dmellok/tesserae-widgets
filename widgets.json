@@ -1626,9 +1626,9 @@
       "screenshot_sizes": ["lg"],
       "extra_screenshot_count": 5,
       "release": {
-        "version": "0.4.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-room-status/archive/refs/tags/v0.4.0.tar.gz",
-        "sha256": "168a44dc2266a4d66d9057c62a6cfcbdfdb722ea13402968a840d646af7ce1ab"
+        "version": "0.5.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-room-status/archive/refs/tags/v0.5.0.tar.gz",
+        "sha256": "47454b9dc5d63fdf23d52c16b6c2b9a19b366f102e4c85384ed9d2158af2ca78"
       },
       "source": "https://github.com/dmellok/tesserae-room-status"
     }
