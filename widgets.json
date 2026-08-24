@@ -156,6 +156,35 @@
       "source": "https://github.com/dmellok/tesserae-widget-apple-album"
     },
     {
+      "id": "arr_recently_added",
+      "name": "Arr Recently Added",
+      "description": "Newly downloaded shows and movies straight from Sonarr / Radarr history — an editorial hero with the latest poster, a poster wall, or a compact list. Cover art is fetched and inlined server-side; your API keys never reach the panel. Works with either app or both.",
+      "icon": "ph-download-simple",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 3,
+      "folders": [
+        "arr_recently_added"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-arr-recently-added/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "254d3d67a2abc91dc720d28e0b644f8741ff6de1b968d6b0c8ba8fd557037e4e"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-arr-recently-added"
+    },
+    {
       "id": "auroras",
       "name": "Auroras",
       "description": "Six atmospheric gradient themes (veil, deep, rose, flame, arctic, emerald) inspired by the bundled Aurora. Each follows Aurora's 135deg three-stop linear-gradient structure with a different hue range evoking a sky phenomenon.",
