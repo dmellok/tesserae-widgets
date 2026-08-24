@@ -1654,6 +1654,28 @@
         "sha256": "3e25925a080521a17275f85dc437a830adb4788493d3e99d9ed46a9dd0e0452c"
       },
       "source": "https://github.com/charmmmz/tesserae-widget-health-summary"
+    },
+    {
+      "id": "evcc_energy",
+      "name": "EVCC, Energy",
+      "description": "Live evcc snapshot: PV forecast vs actual, house, battery, grid, and optional charger.",
+      "icon": "ph-chart-line",
+      "author": {
+        "name": "Frederik Bäumer",
+        "github": "fbaeumer"
+      },
+      "tags": ["utility"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": ["lg"],
+      "extra_screenshot_count": 1,
+      "release": {
+        "version": "1.0.0",
+        "tarball_url": "https://github.com/fbaeumer/tesserae-evcc-energy/archive/refs/tags/v1.0.0.tar.gz",
+        "sha256": "65f5f9ef0458e4feb44ba7bf1b353442488aca6eb27b9dfeaee7e5f6c65920c7"
+      },
+      "source": "https://github.com/fbaeumer/tesserae-evcc-energy"
     }
   ]
 }
