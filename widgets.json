@@ -897,6 +897,35 @@
       "source": "https://github.com/dmellok/tesserae-theme-pigment"
     },
     {
+      "id": "plex_recently_added",
+      "name": "Plex Recently Added",
+      "description": "What just landed in your Plex library — an editorial hero with the newest poster, a poster wall, or a compact list. Reads recentlyAdded across every section (movies, shows, music) and inlines the cover art server-side; your Plex token never reaches the panel.",
+      "icon": "ph-play-circle",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 3,
+      "folders": [
+        "plex_recently_added"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-plex-recently-added/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "d9bb1dc7269f909f534883c6deb7fe71996de9cd0963d8cec5afa0c223564f90"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-plex-recently-added"
+    },
+    {
       "id": "pokedex",
       "name": "Pokédex",
       "description": "A Pokédex entry from PokéAPI — real base stats, types, pixel sprite and dex text. Random every refresh, Pokémon of the day, or a fixed pick; pool from the Kanto 151 to all 1025. Three looks: house style, classic red Pokédex device, or Game Boy mono green.",
