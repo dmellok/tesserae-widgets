@@ -1671,9 +1671,9 @@
       "screenshot_sizes": ["lg"],
       "extra_screenshot_count": 1,
       "release": {
-        "version": "1.0.0",
-        "tarball_url": "https://github.com/fbaeumer/tesserae-evcc-energy/archive/refs/tags/v1.0.0.tar.gz",
-        "sha256": "65f5f9ef0458e4feb44ba7bf1b353442488aca6eb27b9dfeaee7e5f6c65920c7"
+        "version": "1.0.1",
+        "tarball_url": "https://github.com/fbaeumer/tesserae-evcc-energy/archive/refs/tags/v1.0.1.tar.gz",
+        "sha256": "22e61e4976a6e7aa19c52b514af13548baeb85e42a9de601629a6e9ff53890b8"
       },
       "source": "https://github.com/fbaeumer/tesserae-evcc-energy"
     }
