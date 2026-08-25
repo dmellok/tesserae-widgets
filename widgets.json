@@ -418,6 +418,31 @@
       "source": "https://github.com/dmellok/tesserae-widget-devref"
     },
     {
+      "id": "emby_library_wall",
+      "name": "Emby, Library Wall",
+      "description": "Compact colour poster wall that separates watched or replaying media from first-time continue watching and recently added titles.",
+      "icon": "ph-film-strip",
+      "author": {
+        "name": "Charm",
+        "github": "charmmmz"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.3.13",
+        "tarball_url": "https://github.com/charmmmz/tesserae-widget-emby-library-wall/archive/refs/tags/v0.3.13.tar.gz",
+        "sha256": "68343a06ef86c96be97b8d48a0527e0d062db897778657fde9200c50856ffeea"
+      },
+      "source": "https://github.com/charmmmz/tesserae-widget-emby-library-wall"
+    },
+    {
       "id": "emby_poster",
       "name": "Home Assistant, Emby Poster",
       "description": "Cinema-style Emby now-playing poster for prioritized Home Assistant players, with metadata, locally cached artwork, and rating badges. Accurate IMDb and Rotten Tomatoes scores require the Emby Rating Sync plugin.",
