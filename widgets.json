@@ -1759,6 +1759,36 @@
         "sha256": "22e61e4976a6e7aa19c52b514af13548baeb85e42a9de601629a6e9ff53890b8"
       },
       "source": "https://github.com/fbaeumer/tesserae-evcc-energy"
+    },
+    {
+      "id": "ha_weather",
+      "name": "Home Assistant, Weather",
+      "description": "Current conditions + daily or hourly forecast from any Home Assistant weather entity (met.no, MeteoSwiss, Météo-France, BoM, ...). Hero, forecast strip, and up to six metric tiles: humidity, wind with compass bearing, rain, pressure, gusts, visibility. Requires HA Core.",
+      "icon": "ph-cloud-sun",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "home-assistant",
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 2,
+      "folders": [
+        "ha_weather"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-ha-weather/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "7eeddea9329598d7a70bab79575aa0a66f96deecba72f6a72dd41aa3c93a22e2"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-ha-weather"
     }
   ]
 }
