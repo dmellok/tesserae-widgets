@@ -685,9 +685,9 @@
         "picture_google_album"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "7fbb2d8a522328c6b2f4db56eb27a8878f3bf6ef71dbf5cfb07ab60ae8afc6e1"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "67478e19bb367152f652a2bd3d642bfbee468cb30d5fb053e00f34da596fa631"
       },
       "source": "https://github.com/dmellok/tesserae-widget-google-album"
     },
