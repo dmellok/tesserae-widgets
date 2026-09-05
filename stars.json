@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T18:30:08Z",
+  "fetched_at": "2026-09-05T12:35:04Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -35,6 +35,7 @@
     "map_poster": 0,
     "markdown_note": 1,
     "muted": 0,
+    "myanimelist": 0,
     "news_hackaday": 0,
     "octoprint": 0,
     "paperlesspaper_art": 0,
@@ -53,6 +54,7 @@
     "todoist": 0,
     "tonal": 0,
     "topo_map": 0,
+    "trakt": 0,
     "transport": 0,
     "transport_belgium": 1,
     "trmnl_proxy": 0,
