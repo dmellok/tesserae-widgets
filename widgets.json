@@ -1811,6 +1811,28 @@
         "sha256": "84a98bbb775bf203e87fa98af8c0d53891828736d6cec2f5494e66ced524dc85"
       },
       "source": "https://github.com/Bestora/tesserae-widget-myanimelist"
+    },
+    {
+      "id": "trakt",
+      "name": "Trakt",
+      "description": "Agenda, month calendar, and recently aired list for a public Trakt profile. Shared Core needs a Client ID; creating a Trakt API app currently requires VIP.",
+      "icon": "ph-monitor-play",
+      "author": {
+        "name": "Dennis Rehbehn",
+        "github": "Bestora"
+      },
+      "tags": ["media", "calendar"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": ["lg"],
+      "folders": ["trakt_core", "trakt_schedule", "trakt_month", "trakt_releases"],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/Bestora/tesserae-widget-trakt/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "39f9f7eb18ef7d0e4cd8713a691fe752b647b84f4005c2f26ac479274c09cf3f"
+      },
+      "source": "https://github.com/Bestora/tesserae-widget-trakt"
     }
   ]
 }
