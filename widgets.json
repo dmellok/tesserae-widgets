@@ -1833,6 +1833,29 @@
         "sha256": "39f9f7eb18ef7d0e4cd8713a691fe752b647b84f4005c2f26ac479274c09cf3f"
       },
       "source": "https://github.com/Bestora/tesserae-widget-trakt"
+    },
+    {
+      "id": "hubitat",
+      "name": "Hubitat Sensor",
+      "description": "Live device attributes from a Hubitat Elevation hub via its built-in Maker API (local HTTP, no cloud). One attribute is a hero number with trend + 24h sparkline; several become a list. Shared Hubitat Core holds the hub URL + token.",
+      "icon": "ph-house-line",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": ["utility"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": ["xs", "sm", "md", "lg"],
+      "extra_screenshot_count": 3,
+      "folders": ["hubitat_core", "hubitat_sensor"],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-hubitat/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "3187c85c0b6f5a654c9e0619e4b4aba4d75dcd8c7ab9c0c65627f0bd95514997"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-hubitat"
     }
   ]
 }
