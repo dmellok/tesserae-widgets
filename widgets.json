@@ -1851,9 +1851,9 @@
       "extra_screenshot_count": 3,
       "folders": ["hubitat_core", "hubitat_sensor"],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-hubitat/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "3187c85c0b6f5a654c9e0619e4b4aba4d75dcd8c7ab9c0c65627f0bd95514997"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-hubitat/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "187ce5d80fb8f88d7b2dc45d34525fe4a63872d350c2cadada1281ecbfa5d5b1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-hubitat"
     }
