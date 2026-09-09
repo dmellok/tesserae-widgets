@@ -1856,6 +1856,27 @@
         "sha256": "187ce5d80fb8f88d7b2dc45d34525fe4a63872d350c2cadada1281ecbfa5d5b1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-hubitat"
+    },
+    {
+      "id": "openrouter_usage",
+      "name": "OpenRouter Usage",
+      "description": "OpenRouter credit balance, total spending, daily tokens and requests, seven-day spend history, and top model on an e-ink dashboard.",
+      "icon": "ph-chart-line-up",
+      "author": {
+        "name": "N4ASS",
+        "github": "WROG208"
+      },
+      "tags": ["finance", "utility"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": ["lg"],
+      "release": {
+        "version": "1.0.0",
+        "tarball_url": "https://github.com/WROG208/tesserae-openrouter-usage/archive/refs/tags/v1.0.0.tar.gz",
+        "sha256": "4b31bf8cfd4d5fa41a047f747cf59c12826e98345d31488baebeda04301a0862"
+      },
+      "source": "https://github.com/WROG208/tesserae-openrouter-usage"
     }
   ]
 }
