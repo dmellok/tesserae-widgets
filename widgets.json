@@ -1872,9 +1872,9 @@
       "official": false,
       "screenshot_sizes": ["lg"],
       "release": {
-        "version": "1.0.0",
-        "tarball_url": "https://github.com/WROG208/tesserae-openrouter-usage/archive/refs/tags/v1.0.0.tar.gz",
-        "sha256": "4b31bf8cfd4d5fa41a047f747cf59c12826e98345d31488baebeda04301a0862"
+        "version": "1.0.1",
+        "tarball_url": "https://github.com/WROG208/tesserae-openrouter-usage/archive/refs/tags/v1.0.1.tar.gz",
+        "sha256": "67636f7dfe78467187cd8cb62c64ee462338857c3205185b621042a49e8deab6"
       },
       "source": "https://github.com/WROG208/tesserae-openrouter-usage"
     }
