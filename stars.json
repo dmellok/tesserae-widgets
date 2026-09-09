@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T04:26:31Z",
+  "fetched_at": "2026-09-09T18:28:51Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -33,6 +33,7 @@
     "ha_weather": 0,
     "health_summary": 1,
     "hubitat": 0,
+    "koi_pond": 0,
     "map_poster": 0,
     "markdown_note": 1,
     "muted": 0,
