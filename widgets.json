@@ -1900,6 +1900,36 @@
         "sha256": "9b9e57c9a4580a9be04e8a7ca6936445de9e8ee54194c35a3db033404f65fde0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-koi-pond"
+    },
+    {
+      "id": "notion",
+      "name": "Notion, Tasks & Projects",
+      "description": "Open tasks and active projects from any Notion database. Filter to just your own items. Detects which columns hold status, due date, priority and project by type, so it fits databases you already have. Optional grouping by project. Several accounts supported.",
+      "icon": "ph-notion-logo",
+      "author": {
+        "name": "Carl Partridge",
+        "github": "partridgeworks"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "notion_core",
+        "notion_projects",
+        "notion_tasks"
+      ],
+      "release": {
+        "version": "0.5.0",
+        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.5.0.tar.gz",
+        "sha256": "d4581e1458293693e61f8cba79595414f469e1a5773d47075bcadeb01c2d4b30"
+      },
+      "source": "https://github.com/partridgeworks/tesserae-widget-notion"
     }
   ]
 }
