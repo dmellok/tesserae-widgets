@@ -1930,6 +1930,32 @@
         "sha256": "d4581e1458293693e61f8cba79595414f469e1a5773d47075bcadeb01c2d4b30"
       },
       "source": "https://github.com/partridgeworks/tesserae-widget-notion"
+    },
+    {
+      "id": "news_briefing",
+      "name": "News Briefing",
+      "description": "Hourly LLM-ranked news front page (AI, markets, sports, world) rendered for e-ink.",
+      "icon": "ph-newspaper",
+      "author": {
+        "name": "jshelley",
+        "github": "jshelley"
+      },
+      "tags": [
+        "news"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "md",
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/jshelley/tesserae-widget-news-briefing/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "fa75f96bfc8727b69f9ca3ecfaec79372bb6f59bcb9511cdf25e0ebba5b7fabc"
+      },
+      "source": "https://github.com/jshelley/tesserae-widget-news-briefing"
     }
   ]
 }
