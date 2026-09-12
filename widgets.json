@@ -1951,9 +1951,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/jshelley/tesserae-widget-news-briefing/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "fa75f96bfc8727b69f9ca3ecfaec79372bb6f59bcb9511cdf25e0ebba5b7fabc"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/jshelley/tesserae-widget-news-briefing/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "911a3139a0503779c0872fbcb8067fa5aecc34b479ab73f371c763f77fb3cc48"
       },
       "source": "https://github.com/jshelley/tesserae-widget-news-briefing"
     }
