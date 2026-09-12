@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T23:58:34Z",
+  "fetched_at": "2026-09-12T09:10:57Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -38,6 +38,7 @@
     "markdown_note": 1,
     "muted": 0,
     "myanimelist": 0,
+    "news_briefing": 0,
     "news_hackaday": 0,
     "notion": 0,
     "octoprint": 0,
@@ -62,6 +63,7 @@
     "transport": 0,
     "transport_belgium": 1,
     "trmnl_proxy": 0,
+    "twonks": 0,
     "unsplash": 0,
     "vivid": 0,
     "weather_extras": 0,
