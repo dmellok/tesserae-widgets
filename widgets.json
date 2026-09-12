@@ -1894,9 +1894,9 @@
       "screenshot_sizes": ["lg"],
       "extra_screenshot_count": 7,
       "release": {
-        "version": "1.1.1",
-        "tarball_url": "https://github.com/WROG208/tesserae-uptime-kuma-incident-board/releases/download/v1.1.1/uptime_kuma_incidents-v1.1.1.tar.gz",
-        "sha256": "b9836deef79e4e91c0bde9b69ce814c4e2a072e231294165f009aa4f479974ab"
+        "version": "1.1.2",
+        "tarball_url": "https://github.com/WROG208/tesserae-uptime-kuma-incident-board/releases/download/v1.1.2/uptime_kuma_incidents-v1.1.2.tar.gz",
+        "sha256": "3b84ddee31f48bbf148d9c97204c495951b8f5b460f53bfa36df8177d13a599b"
       },
       "source": "https://github.com/WROG208/tesserae-uptime-kuma-incident-board"
     },
