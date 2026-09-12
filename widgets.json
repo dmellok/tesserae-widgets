@@ -1879,6 +1879,28 @@
       "source": "https://github.com/WROG208/tesserae-openrouter-usage"
     },
     {
+      "id": "uptime_kuma_incidents",
+      "name": "Uptime Kuma, Incident Board",
+      "description": "Turn a public Uptime Kuma status page into an e-ink homelab command center with live health, uptime, latency, incidents, response history, and nine selectable layouts.",
+      "icon": "ph-heartbeat",
+      "author": {
+        "name": "N4ASS",
+        "github": "WROG208"
+      },
+      "tags": ["utility"],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": ["lg"],
+      "extra_screenshot_count": 7,
+      "release": {
+        "version": "1.1.3",
+        "tarball_url": "https://github.com/WROG208/tesserae-uptime-kuma-incident-board/releases/download/v1.1.3/uptime_kuma_incidents-v1.1.3.tar.gz",
+        "sha256": "905349c8c025769f2953f838d391844e9e6d3d240dac1e82e8f8c10304fd475c"
+      },
+      "source": "https://github.com/WROG208/tesserae-uptime-kuma-incident-board"
+    },
+    {
       "id": "koi_pond",
       "name": "Koi Pond",
       "description": "Full-bleed, top-down generative koi pond: seeded lily pads, day-opening lotus flowers, and koi that drift with the clock — the same pond persists across refreshes, gently alive. 15 palettes, borderless and no-gradient modes, optional Home Assistant entity koi sized by value.",
