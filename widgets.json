@@ -1925,8 +1925,8 @@
     },
     {
       "id": "notion",
-      "name": "Notion, Tasks & Projects",
-      "description": "Open tasks and active projects from any Notion database. Filter to just your own items. Detects which columns hold status, due date, priority and project by type, so it fits databases you already have. Optional grouping by project. Several accounts supported.",
+      "name": "Notion, Tasks, List & Cards",
+      "description": "Tasks, a list, or a grid of cards from any Notion database. Detects which columns hold status, date, priority, person and project by type, so it fits databases you already have. Filter by column conditions or to your own items, sort, and group under headings. Several accounts.",
       "icon": "ph-notion-logo",
       "author": {
         "name": "Carl Partridge",
@@ -1941,15 +1941,17 @@
       "screenshot_sizes": [
         "lg"
       ],
+      "extra_screenshot_count": 3,
       "folders": [
+        "notion_cards",
         "notion_core",
-        "notion_projects",
+        "notion_list",
         "notion_tasks"
       ],
       "release": {
-        "version": "0.5.0",
-        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.5.0.tar.gz",
-        "sha256": "d4581e1458293693e61f8cba79595414f469e1a5773d47075bcadeb01c2d4b30"
+        "version": "0.6.0",
+        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.6.0.tar.gz",
+        "sha256": "6cdded529667ea0563eca29f4882e92089b706880174c9f0ecb3686e2590d9de"
       },
       "source": "https://github.com/partridgeworks/tesserae-widget-notion"
     },
