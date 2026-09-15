@@ -2002,6 +2002,36 @@
         "sha256": "dfe213230871b72a8242c218bdcb21e1619d6e62b10498c97a823f32cc089c0f"
       },
       "source": "https://github.com/dmellok/tesserae-widget-twonks"
+    },
+    {
+      "id": "unifi_clients",
+      "name": "UniFi, Connected Clients",
+      "description": "Connected clients from your UniFi console, with names, IP addresses and connection details. Uses the Network API with encrypted key storage. Includes filters, list pages, optional MAC addresses and compact or comfortable layouts. Reads data without changing network settings.",
+      "icon": "ph-network",
+      "author": {
+        "name": "varanu5",
+        "github": "varanu5"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "folders": [
+        "unifi_clients"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/varanu5/tesserae-widget-unifi-clients/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "917617bd9a63cc4edc96352b82b8f917a566185ca12c393690024216d5fcad7e"
+      },
+      "source": "https://github.com/varanu5/tesserae-widget-unifi-clients"
     }
   ]
 }
