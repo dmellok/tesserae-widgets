@@ -1941,7 +1941,7 @@
       "screenshot_sizes": [
         "lg"
       ],
-      "extra_screenshot_count": 3,
+      "extra_screenshot_count": 4,
       "folders": [
         "notion_cards",
         "notion_core",
@@ -1949,9 +1949,9 @@
         "notion_tasks"
       ],
       "release": {
-        "version": "0.7.0",
-        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.7.0.tar.gz",
-        "sha256": "9c11f54b2b791a4f37d8b87a38c6a9a00f437deb12d0866be426727ab00eb66d"
+        "version": "0.8.0",
+        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.8.0.tar.gz",
+        "sha256": "19a8643d94b82722de803ea9a6bc11682441b186e074d54719eeb8d92de75694"
       },
       "source": "https://github.com/partridgeworks/tesserae-widget-notion"
     },
