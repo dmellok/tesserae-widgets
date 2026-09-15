@@ -1949,9 +1949,9 @@
         "notion_tasks"
       ],
       "release": {
-        "version": "0.6.0",
-        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.6.0.tar.gz",
-        "sha256": "6cdded529667ea0563eca29f4882e92089b706880174c9f0ecb3686e2590d9de"
+        "version": "0.7.0",
+        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-notion/archive/refs/tags/v0.7.0.tar.gz",
+        "sha256": "9c11f54b2b791a4f37d8b87a38c6a9a00f437deb12d0866be426727ab00eb66d"
       },
       "source": "https://github.com/partridgeworks/tesserae-widget-notion"
     },
