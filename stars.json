@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T22:05:18Z",
+  "fetched_at": "2026-09-17T13:21:22Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -34,6 +34,7 @@
     "health_summary": 1,
     "hubitat": 0,
     "koi_pond": 0,
+    "london_transport_times": 0,
     "map_poster": 0,
     "markdown_note": 1,
     "muted": 0,
@@ -53,6 +54,7 @@
     "public_holiday_countdown": 0,
     "recipes": 0,
     "room_status": 0,
+    "rrr_gig_guide": 0,
     "sky": 0,
     "sky_tonight": 0,
     "spotify": 0,
