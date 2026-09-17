@@ -2061,6 +2061,39 @@
         "sha256": "24ccdc4f5ef668943dafc4faad6c40bb16f9727b04810ef3298cc5c5b1d91d7b"
       },
       "source": "https://github.com/partridgeworks/tesserae-widget-london-transport-times"
+    },
+    {
+      "id": "rrr_gig_guide",
+      "name": "Triple R Gig Guide",
+      "description": "Tonight's gigs from Triple R's Melbourne gig guide: start time, act and venue per row, grouped by day. Pick the calendars (Gig Guide, RRR Presents, Arts Diary, Community), the day window, and a venue or artist search. No key, no account.",
+      "icon": "ph-microphone-stage",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media",
+        "calendar"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm",
+        "xs"
+      ],
+      "extra_screenshot_count": 2,
+      "folders": [
+        "rrr_gig_guide"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-rrr-gig-guide/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2f4d753042d97da39d13efdf5165e7bbba8e1702bb845a3dde845a839d3d9aac"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-rrr-gig-guide"
     }
   ]
 }
