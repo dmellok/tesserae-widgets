@@ -2032,6 +2032,35 @@
         "sha256": "917617bd9a63cc4edc96352b82b8f917a566185ca12c393690024216d5fcad7e"
       },
       "source": "https://github.com/varanu5/tesserae-widget-unifi-clients"
+    },
+    {
+      "id": "london_transport_times",
+      "name": "London Transport Times",
+      "description": "Live bus countdown board for one TfL stop: the routes it serves, then each approaching bus with route, destination and minutes until due, from TfL's Unified API. Filter to one route or a destination. Works without an API key; add a free one for a higher rate limit.",
+      "icon": "ph-bus",
+      "author": {
+        "name": "Carl Partridge",
+        "github": "partridgeworks"
+      },
+      "tags": [
+        "transit"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 2,
+      "folders": [
+        "london_transport_times"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/partridgeworks/tesserae-widget-london-transport-times/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "24ccdc4f5ef668943dafc4faad6c40bb16f9727b04810ef3298cc5c5b1d91d7b"
+      },
+      "source": "https://github.com/partridgeworks/tesserae-widget-london-transport-times"
     }
   ]
 }
