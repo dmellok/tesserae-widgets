@@ -2094,6 +2094,36 @@
         "sha256": "2f4d753042d97da39d13efdf5165e7bbba8e1702bb845a3dde845a839d3d9aac"
       },
       "source": "https://github.com/dmellok/tesserae-widget-rrr-gig-guide"
+    },
+    {
+      "id": "days_until",
+      "name": "Days Until",
+      "description": "A list of dates you care about and how many days are left to each: birthdays, holidays, a trip, a deadline. One event per line with a name, an optional Phosphor icon or emoji and an optional yearly repeat. Pure client-side, no network.",
+      "icon": "ph-calendar-dots",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "calendar",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm",
+        "xs"
+      ],
+      "extra_screenshot_count": 2,
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-days-until/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "1f32386aa696fe2765fbcff579abd61b668bdd75f19a00c265ac683c01a5004a"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-days-until"
     }
   ]
 }
