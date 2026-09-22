@@ -2124,6 +2124,33 @@
         "sha256": "1f32386aa696fe2765fbcff579abd61b668bdd75f19a00c265ac683c01a5004a"
       },
       "source": "https://github.com/dmellok/tesserae-widget-days-until"
+    },
+    {
+      "id": "escape_clue",
+      "name": "Escape Room Clue",
+      "description": "A clue board for live games. Type a clue on the widget's own page and the panel shows it set like a page of a book: paper ground, serif face, room-legible type. Saved presets send a prepared clue in one click, and every send can push a chosen dashboard to the panel.",
+      "icon": "ph-book-open-text",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-escape-clue/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "a160fe308086309cd7840d271c6419e1de9abd82cb0a2593076cf15b0af3eb65"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-escape-clue"
     }
   ]
 }
