@@ -1060,6 +1060,30 @@
       "source": "https://github.com/dmellok/tesserae-widget-public-holiday-countdown"
     },
     {
+      "id": "qr_code",
+      "name": "QR Code",
+      "description": "Theme-aware QR codes for text, links, Wi-Fi credentials, and vCards.",
+      "icon": "ph-qr-code",
+      "author": {
+        "name": "Stumpi Suter",
+        "github": "stumpigit"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/stumpigit/tesserae-widget-qr-code/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c3ff66d07155aa77b2dc245f4f7953a4f7b24007b8d95926ddb42fd10cfdc8b1"
+      },
+      "source": "https://github.com/stumpigit/tesserae-widget-qr-code"
+    },
+    {
       "id": "recipes",
       "name": "Recipes",
       "description": "Pulls recipes from any schema.org site (RecipeTin Eats, BBC Good Food, NYT Cooking, etc.). Paste URLs or RSS feeds per cell; widget rotates through them with hero image, title, prep / cook / total times, ingredients, instructions, and a QR code back to the source.",
