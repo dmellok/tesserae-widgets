@@ -2175,6 +2175,35 @@
         "sha256": "a160fe308086309cd7840d271c6419e1de9abd82cb0a2593076cf15b0af3eb65"
       },
       "source": "https://github.com/dmellok/tesserae-widget-escape-clue"
+    },
+    {
+      "id": "commodities",
+      "name": "Commodities",
+      "description": "Prices for gold, oil and about sixty other commodities: metals, energy, Australian NEM power, farm goods, freight and carbon. Live futures where a free feed exists, IMF monthly prices where it doesn't, in any currency, with sparklines. No API key.",
+      "icon": "ph-coins",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "finance"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm",
+        "xs"
+      ],
+      "extra_screenshot_count": 9,
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-commodities/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "fb2d80270e749ff9e35810ea263a7a5a270f4a1d99edd5e55ff0b4b1999516c0"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-commodities"
     }
   ]
 }
