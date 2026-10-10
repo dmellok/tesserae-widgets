@@ -1707,10 +1707,14 @@
         "name": "Tony James Stark",
         "github": "tonyjamesstark"
       },
-      "tags": ["calendar"],
+      "tags": [
+        "calendar"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/tonyjamesstark/tesserae-widget-calendar-three-day-releases/archive/refs/tags/v0.1.0.tar.gz",
@@ -1727,10 +1731,15 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["calendar", "utility"],
+      "tags": [
+        "calendar",
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 5,
       "release": {
         "version": "0.5.0",
@@ -1748,13 +1757,19 @@
         "name": "Charm",
         "github": "charmmmz"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 3,
-      "folders": ["health_summary"],
+      "folders": [
+        "health_summary"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/charmmmz/tesserae-widget-health-summary/archive/refs/tags/v0.1.0.tar.gz",
@@ -1771,11 +1786,15 @@
         "name": "Frederik Bäumer",
         "github": "fbaeumer"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 1,
       "release": {
         "version": "1.0.1",
@@ -1823,12 +1842,22 @@
         "name": "Dennis Rehbehn",
         "github": "Bestora"
       },
-      "tags": ["media", "calendar"],
+      "tags": [
+        "media",
+        "calendar"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
-      "folders": ["mal_core", "mal_schedule", "mal_month", "mal_releases"],
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "mal_core",
+        "mal_schedule",
+        "mal_month",
+        "mal_releases"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/Bestora/tesserae-widget-myanimelist/archive/refs/tags/v0.1.0.tar.gz",
@@ -1845,12 +1874,22 @@
         "name": "Dennis Rehbehn",
         "github": "Bestora"
       },
-      "tags": ["media", "calendar"],
+      "tags": [
+        "media",
+        "calendar"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
-      "folders": ["trakt_core", "trakt_schedule", "trakt_month", "trakt_releases"],
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "trakt_core",
+        "trakt_schedule",
+        "trakt_month",
+        "trakt_releases"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/Bestora/tesserae-widget-trakt/archive/refs/tags/v0.1.0.tar.gz",
@@ -1867,13 +1906,23 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["xs", "sm", "md", "lg"],
+      "screenshot_sizes": [
+        "xs",
+        "sm",
+        "md",
+        "lg"
+      ],
       "extra_screenshot_count": 3,
-      "folders": ["hubitat_core", "hubitat_sensor"],
+      "folders": [
+        "hubitat_core",
+        "hubitat_sensor"
+      ],
       "release": {
         "version": "0.1.1",
         "tarball_url": "https://github.com/dmellok/tesserae-widget-hubitat/archive/refs/tags/v0.1.1.tar.gz",
@@ -1890,11 +1939,16 @@
         "name": "N4ASS",
         "github": "WROG208"
       },
-      "tags": ["finance", "utility"],
+      "tags": [
+        "finance",
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "release": {
         "version": "1.0.1",
         "tarball_url": "https://github.com/WROG208/tesserae-openrouter-usage/archive/refs/tags/v1.0.1.tar.gz",
@@ -1911,11 +1965,15 @@
         "name": "N4ASS",
         "github": "WROG208"
       },
-      "tags": ["utility"],
+      "tags": [
+        "utility"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": false,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 7,
       "release": {
         "version": "1.1.3",
@@ -1933,13 +1991,20 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["media", "home-assistant"],
+      "tags": [
+        "media",
+        "home-assistant"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 9,
-      "folders": ["koi_pond"],
+      "folders": [
+        "koi_pond"
+      ],
       "release": {
         "version": "0.1.0",
         "tarball_url": "https://github.com/dmellok/tesserae-widget-koi-pond/archive/refs/tags/v0.1.0.tar.gz",
@@ -2014,11 +2079,15 @@
         "name": "Kayden D'Mello",
         "github": "dmellok"
       },
-      "tags": ["media"],
+      "tags": [
+        "media"
+      ],
       "kind": "widget",
       "tesserae_compat": "1.x",
       "official": true,
-      "screenshot_sizes": ["lg"],
+      "screenshot_sizes": [
+        "lg"
+      ],
       "extra_screenshot_count": 2,
       "release": {
         "version": "0.1.0",
@@ -2204,6 +2273,35 @@
         "sha256": "fb2d80270e749ff9e35810ea263a7a5a270f4a1d99edd5e55ff0b4b1999516c0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-commodities"
+    },
+    {
+      "id": "backyard_birds",
+      "name": "Backyard Birds",
+      "description": "The birds BirdNET-Go has heard today, illustrated with classic plates by Audubon, Gould, Lear and others. Six layouts, from a field log to a full-bleed plate with five caption styles. A demo garden runs until you point it at BirdNET-Go.",
+      "icon": "ph-bird",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "backyard_birds"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "3891ab94fe83f915e24ec71f204741e237a7b0d2b87f21dc9f987c0e940674c1"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     }
   ]
 }
