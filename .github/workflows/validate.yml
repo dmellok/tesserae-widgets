@@ -1,7 +1,8 @@
 # Catalog CI: validate widgets.json end-to-end so malformed PRs die
-# at the gate. Three checks:
+# at the gate. The checks:
 #   1. widgets.json matches schema/marketplace.schema.json.
-#   2. Every release.tarball_url is fetchable + matches release.sha256.
+#   2. Every release.tarball_url is fetchable, matches release.sha256 and
+#      is under the host's 4 MiB download cap.
 #   3. Every screenshot path declared in screenshot_sizes exists as a
 #      PNG under screenshots/<id>/<size>.png.
 #   4. A single-widget tarball's embedded plugin.json agrees with the
@@ -134,6 +135,15 @@ jobs:
               except Exception as err:
                   failures.append(f"{wid}: tarball fetch failed: {err}")
                   continue
+              # The host refuses any download over 4 MiB (app/marketplace.py,
+              # _MAX_TARBALL_BYTES), so the user sees "Install failed" instead
+              # of a widget. Tagging after a screenshot set lands is the usual
+              # way to trip it; export-ignore keeps screenshots out of the archive.
+              if len(body) > 4 * 1024 * 1024:
+                  failures.append(
+                      f"{wid}: tarball is {len(body) / (1024 * 1024):.1f} MiB, over the "
+                      "host's 4 MiB cap (mark screenshots/ export-ignore in the widget repo)"
+                  )
               actual_sha = hashlib.sha256(body).hexdigest()
               if actual_sha != rel["sha256"]:
                   failures.append(
