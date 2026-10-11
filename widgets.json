@@ -2277,7 +2277,7 @@
     {
       "id": "backyard_birds",
       "name": "Backyard Birds",
-      "description": "The birds BirdNET-Go has heard today, illustrated with classic plates by Audubon, Gould, Lear and others. Six layouts, from a field log to a full-bleed plate with five caption styles. A demo garden runs until you point it at BirdNET-Go.",
+      "description": "The birds BirdNET-Go has heard today, illustrated with classic plates by Audubon, Gould, Lear and others. Six layouts, from a field log to a full-bleed plate. Colour, greyscale and black-and-white panels. Runs a demo garden until you point it at BirdNET-Go.",
       "icon": "ph-bird",
       "author": {
         "name": "Kayden D'Mello",
@@ -2297,9 +2297,9 @@
         "backyard_birds"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "64cf02ba779f86a286d19d2e77e32c8def7468282f92ed17237099efdce8b449"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "7aef19b4ddf796fbd64576e5ee0ba18f69af3923bdce4410e9f135a4d8024422"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     }
