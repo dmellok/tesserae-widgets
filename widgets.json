@@ -2297,9 +2297,9 @@
         "backyard_birds"
       ],
       "release": {
-        "version": "0.6.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.6.0.tar.gz",
-        "sha256": "3187667ffd7d47ecdc9a6139bb6841fa3d80fcaccbd35d85e71291861d7d9d12"
+        "version": "0.6.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.6.1.tar.gz",
+        "sha256": "974298dba653df680131950d5bfa0483c2f6174b2279b8c96480c1ea3b267ae5"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     }
