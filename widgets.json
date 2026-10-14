@@ -2302,6 +2302,35 @@
         "sha256": "473879fee93bb4db7e1891e4e533c57f4e192557c2ac7f2eb0a8a92a737da78c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
+    },
+    {
+      "id": "inaturalist",
+      "name": "Nature Nearby (iNaturalist)",
+      "description": "What people have found near a place lately on iNaturalist, or your own observations: birds, insects, plants, fungi and more, as granular as you like. The species together from AI paintings in 46 styles, a gallery, the latest find, a field log, a full bleed and a tally.",
+      "icon": "ph-leaf",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 5,
+      "folders": [
+        "inaturalist"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "0ab0d5981ca2a07ff4d9a14e876f8ba66bbdc2a94418a9752d22766cbd80f3fb"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-inaturalist"
     }
   ]
 }
