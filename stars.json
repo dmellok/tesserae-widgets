@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T01:04:26Z",
+  "fetched_at": "2026-10-14T11:39:14Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -9,7 +9,7 @@
     "apple_reminders": 0,
     "arr_recently_added": 0,
     "auroras": 0,
-    "backyard_birds": 11,
+    "backyard_birds": 12,
     "bom_warnings": 0,
     "caldav_todo": 0,
     "calendar_schedule": 0,
@@ -37,6 +37,7 @@
     "ha_weather": 1,
     "health_summary": 1,
     "hubitat": 0,
+    "inaturalist": 0,
     "koi_pond": 0,
     "london_transport_times": 1,
     "map_poster": 0,
