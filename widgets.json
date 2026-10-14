@@ -2331,6 +2331,35 @@
         "sha256": "e61902075228ff17979447fe3b0bb259fb1508118991c9dba7257123c47b1456"
       },
       "source": "https://github.com/dmellok/tesserae-widget-inaturalist"
+    },
+    {
+      "id": "gbif_month",
+      "name": "Nature This Month (GBIF)",
+      "description": "What has been recorded near a place in this month of the year, from GBIF's citizen-science records: birds, insects, plants, fungi and more, as granular as you like. The species together from AI paintings, a gallery, the newest record, a field log, a full bleed and a tally.",
+      "icon": "ph-tree",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 3,
+      "folders": [
+        "gbif_month"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-gbif-month/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "008435b6b30cf8839932033943725135a8198cec5ef15bb4f7010f5de44cc7f3"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-gbif-month"
     }
   ]
 }
