@@ -2326,9 +2326,9 @@
         "inaturalist"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "650d6a01ca630bab6c674e489d1d6e43de0196506b8497afd9ceba5bd67c033d"
+        "version": "0.1.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.3.tar.gz",
+        "sha256": "e61902075228ff17979447fe3b0bb259fb1508118991c9dba7257123c47b1456"
       },
       "source": "https://github.com/dmellok/tesserae-widget-inaturalist"
     }
