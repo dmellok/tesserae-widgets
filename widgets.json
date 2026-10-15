@@ -2304,10 +2304,10 @@
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     },
     {
-      "id": "inaturalist",
-      "name": "Nature Nearby (iNaturalist)",
-      "description": "What people have found near a place lately on iNaturalist, or your own observations: birds, insects, plants, fungi and more, as granular as you like. The species together from AI paintings in 46 styles, a gallery, the latest find, a field log, a full bleed and a tally.",
-      "icon": "ph-leaf",
+      "id": "specimen_sheet",
+      "name": "Specimen Sheet",
+      "description": "The birds and wildlife around the panel, cut out and laid out on one printed page, from BirdNET-Go, iNaturalist or GBIF. Classic plates and the records' own photos, or AI paintings in 38 styles and a painted scene; clean cut-outs; labels with counts; a demo garden until set up.",
+      "icon": "ph-feather",
       "author": {
         "name": "Kayden D'Mello",
         "github": "dmellok"
@@ -2321,45 +2321,16 @@
       "screenshot_sizes": [
         "lg"
       ],
-      "extra_screenshot_count": 5,
+      "extra_screenshot_count": 9,
       "folders": [
-        "inaturalist"
+        "specimen_sheet"
       ],
       "release": {
-        "version": "0.1.5",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.5.tar.gz",
-        "sha256": "054af5a6925dbfa3cd20489674d8bbe59f16a668c4dd49213abdf89fafc84f26"
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f27e98c1b3b5a6724179666e40c191f3e75c9fd678a2ade0621995043da1c8a3"
       },
-      "source": "https://github.com/dmellok/tesserae-widget-inaturalist"
-    },
-    {
-      "id": "gbif_month",
-      "name": "Nature This Month (GBIF)",
-      "description": "What has been recorded near a place in this month of the year, from GBIF's citizen-science records: birds, insects, plants, fungi and more, as granular as you like. The species together from AI paintings, a gallery, the newest record, a field log, a full bleed and a tally.",
-      "icon": "ph-tree",
-      "author": {
-        "name": "Kayden D'Mello",
-        "github": "dmellok"
-      },
-      "tags": [
-        "media"
-      ],
-      "kind": "widget",
-      "tesserae_compat": "1.x",
-      "official": true,
-      "screenshot_sizes": [
-        "lg"
-      ],
-      "extra_screenshot_count": 3,
-      "folders": [
-        "gbif_month"
-      ],
-      "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-gbif-month/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "5712df314705e9d9cc87f01f92b4f6f27afe9e1099b571f7c72a45128d67385e"
-      },
-      "source": "https://github.com/dmellok/tesserae-widget-gbif-month"
+      "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet"
     }
   ]
 }
