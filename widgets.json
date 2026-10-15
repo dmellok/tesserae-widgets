@@ -2306,7 +2306,7 @@
     {
       "id": "specimen_sheet",
       "name": "Specimen Sheet",
-      "description": "The birds and wildlife around the panel, cut out and laid out on one printed page, from BirdNET-Go, iNaturalist or GBIF. Classic plates, the records' own photos, or AI paintings in 68 styles; six layouts including a one-bird hero; a render queue with Stop; limits you set.",
+      "description": "The birds and wildlife around the panel, cut out and laid out densely on one printed page, from BirdNET-Go, iNaturalist or GBIF. Classic plates, photos, or AI paintings in 68 styles (realistic, decorative, fun) with previews; a Render now button, a render queue, limits you set.",
       "icon": "ph-feather",
       "author": {
         "name": "Kayden D'Mello",
@@ -2326,9 +2326,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.1.8",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.1.8.tar.gz",
-        "sha256": "37572ecd5b8d496026b4592d3b18656d66ce02b604d74bbfb415f52c5f915810"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "7ad909ae2d67f7259f5a58f430aaf3fe518edd946ce0a8c9ee2cb911cb4e1956"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet"
     }
