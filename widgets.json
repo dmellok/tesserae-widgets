@@ -2326,9 +2326,9 @@
         "inaturalist"
       ],
       "release": {
-        "version": "0.1.4",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.4.tar.gz",
-        "sha256": "ac0b9de08075c1ed1c5294119681d9d069160d77124939c3d4661725dfa06644"
+        "version": "0.1.5",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-inaturalist/archive/refs/tags/v0.1.5.tar.gz",
+        "sha256": "054af5a6925dbfa3cd20489674d8bbe59f16a668c4dd49213abdf89fafc84f26"
       },
       "source": "https://github.com/dmellok/tesserae-widget-inaturalist"
     },
@@ -2355,9 +2355,9 @@
         "gbif_month"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-gbif-month/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "a74b26a47ed84d8d6fea70caf7997e68e6f95e52e747cf7bb7d47ff299675ac0"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-gbif-month/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "5712df314705e9d9cc87f01f92b4f6f27afe9e1099b571f7c72a45128d67385e"
       },
       "source": "https://github.com/dmellok/tesserae-widget-gbif-month"
     }
