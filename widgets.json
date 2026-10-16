@@ -70,7 +70,7 @@
     {
       "id": "air_traffic",
       "name": "Air Traffic",
-      "description": "Flights currently overhead at your location via OpenSky Network (free, no key). Shows total count + nearest N flights with callsign, origin country, altitude, and speed.",
+      "description": "Flights currently overhead at your location via OpenSky Network (free, no key). Radar plus the nearest N flights with callsign, altitude, speed and distance, and an opt-in route lookup (SYD→MEL).",
       "icon": "ph-airplane-tilt",
       "author": {
         "name": "Kayden D'Mello",
@@ -95,9 +95,9 @@
         "sky_air_traffic"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-air-traffic/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "e055cd261a9e9d92c978ec9ce9920f367f3e9b770aca382b0f895313099df8e7"
+        "version": "0.3.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-air-traffic/archive/refs/tags/v0.3.1.tar.gz",
+        "sha256": "846ba7d5edfd5d31ec687a8afdf51ce0d2f8f4fb058ab5eff327b29f72aaaa8f"
       },
       "source": "https://github.com/dmellok/tesserae-widget-air-traffic"
     },
