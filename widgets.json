@@ -2326,9 +2326,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.6.7",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.6.7.tar.gz",
-        "sha256": "f468956ce9762e6fddbcd5610d624e36462432c0e276109fb17d2a039739401d"
+        "version": "0.6.8",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.6.8.tar.gz",
+        "sha256": "383f4f7202c34c56f7dc40687651f4cd08e788ec74f403d51295da5e9eb5d06b"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet"
     }
