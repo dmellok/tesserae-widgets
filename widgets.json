@@ -2332,6 +2332,57 @@
         "sha256": "6f5fd3fc4a3bed94a79553edd3625fe8d178c2295abfbe08217d5ce170b5305d"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet"
+    },
+    {
+      "id": "ha_dual_history",
+      "name": "Home Assistant, Dual History",
+      "description": "History graph of a Home Assistant entity (6 hours to 7 days) beside its current value and an optional second entity's value, with configurable labels, icons, number formats, graph size and value position. Requires HA Core.",
+      "icon": "ph-chart-line-up",
+      "author": {
+        "name": "Ruslan Pisarev",
+        "github": "siilky"
+      },
+      "tags": [
+        "home-assistant"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/siilky/tesserae-widget-ha-dual-history/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "81e684c9ba585ac71bbe394957737b49bab7144aa35f972dc854371c8de36f7f"
+      },
+      "source": "https://github.com/siilky/tesserae-widget-ha-dual-history"
+    },
+    {
+      "id": "ha_ukraine_alarm",
+      "name": "Home Assistant, Ukraine Alarm",
+      "description": "Current alerts for one region of Ukraine from the Home Assistant Ukraine Alarm integration: every active alert with its start time, above an alert timeline of up to 48 hours. Alert types can be hidden. Requires HA Core.",
+      "icon": "ph-siren",
+      "author": {
+        "name": "Ruslan Pisarev",
+        "github": "siilky"
+      },
+      "tags": [
+        "home-assistant"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 1,
+      "release": {
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/siilky/tesserae-widget-ha-ukraine-alarm/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "be54b91208c7a9cbb5b31a751b9abd68cae79a7515fc76690a3a56fc583fe53d"
+      },
+      "source": "https://github.com/siilky/tesserae-widget-ha-ukraine-alarm"
     }
   ]
 }
