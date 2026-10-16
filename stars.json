@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T11:12:25Z",
+  "fetched_at": "2026-10-16T16:31:10Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -34,6 +34,8 @@
     "goodreads_shelf": 0,
     "google_album": 0,
     "gradient": 0,
+    "ha_dual_history": 0,
+    "ha_ukraine_alarm": 0,
     "ha_weather": 1,
     "health_summary": 1,
     "hubitat": 0,
