@@ -2306,7 +2306,7 @@
     {
       "id": "specimen_sheet",
       "name": "Specimen Sheet",
-      "description": "The birds and wildlife around the panel, cut out and packed onto one printed page, each as large as the page allows, from BirdNET-Go, iNaturalist or GBIF. Classic plates, photos, or AI paintings in twelve styles or one you build; a paintings page with a render queue and limits you set.",
+      "description": "The birds and wildlife around the panel, cut out and packed onto one printed page, each as large as the page allows, from BirdNET-Go, iNaturalist or GBIF. Classic plates, photos, or AI paintings in twelve styles or one you build; a paintings page with limits you set.",
       "icon": "ph-feather",
       "author": {
         "name": "Kayden D'Mello",
