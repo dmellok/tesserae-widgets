@@ -566,7 +566,7 @@
     {
       "id": "github",
       "name": "GitHub Widgets",
-      "description": "14-widget bundle: hero stat widgets (total stars, streak, open PRs, CI status, star growth, activity heatmap, commit cadence) plus the original repo card, PR queue, releases, contributions, CI timeline, and activity feed. Token shared via github_core.",
+      "description": "15-widget bundle: Inbox (every open issue, PR and discussion across your repos, with repos to leave out), hero stats (stars, streak, open PRs, CI, star growth, heatmap, cadence), repo card, PR queue, releases, contributions, CI timeline, activity feed. Token via github_core.",
       "icon": "ph-github-logo",
       "author": {
         "name": "Kayden D'Mello",
@@ -589,6 +589,7 @@
         "github_commit_cadence",
         "github_contributions",
         "github_core",
+        "github_inbox",
         "github_pr_count",
         "github_pr_queue",
         "github_releases",
@@ -598,12 +599,12 @@
         "github_streak"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-github/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "cd2dc176b8736a8acf677ad41d0107e73b2455b738812729d46a6ce61eb666a3"
+        "version": "0.4.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-github/archive/refs/tags/v0.4.0.tar.gz",
+        "sha256": "5d42944d46880f5ab0b211417afb9911df77a17c664e678ab3ebd52ed1bb5bf2"
       },
       "source": "https://github.com/dmellok/tesserae-widget-github",
-      "extra_screenshot_count": 6
+      "extra_screenshot_count": 7
     },
     {
       "id": "glances",
