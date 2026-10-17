@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T21:22:26Z",
+  "fetched_at": "2026-10-17T23:56:18Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -9,7 +9,7 @@
     "apple_reminders": 0,
     "arr_recently_added": 0,
     "auroras": 0,
-    "backyard_birds": 19,
+    "backyard_birds": 20,
     "bom_warnings": 0,
     "caldav_todo": 0,
     "calendar_schedule": 0,
@@ -50,6 +50,7 @@
     "notion": 0,
     "octoprint": 0,
     "openrouter_usage": 0,
+    "orbit": 0,
     "overhead": 0,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
@@ -75,6 +76,7 @@
     "transport_belgium": 1,
     "trmnl_proxy": 0,
     "twonks": 0,
+    "underway": 0,
     "unifi_clients": 1,
     "unsplash": 0,
     "vivid": 0,
