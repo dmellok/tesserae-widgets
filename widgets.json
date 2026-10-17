@@ -2401,11 +2401,46 @@
         "underway_scene"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "dd173d3035395989ae65a5cd3fe34cb8862c3fbc2184715bdf5fb0e4c4354a10"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "6e7a881b76e3c678109f53eadc04812bffc1957218886886bc9cc0d8f6728a5a"
       },
       "source": "https://github.com/dmellok/tesserae-widget-underway",
+      "tesserae_min": "0.463.0"
+    },
+    {
+      "id": "orbit",
+      "name": "Orbit Bundle",
+      "description": "Three widgets for the station and the bright satellites passing over your place to-night: the best pass with a sky chart, every pass in order or packed as a cluster, or a painting in space. Passes worked out on your server from CelesTrak, no key. AI paintings in 25 styles.",
+      "icon": "ph-planet",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "extra_screenshot_count": 5,
+      "folders": [
+        "orbit_core",
+        "orbit_pass",
+        "orbit_tonight",
+        "orbit_scene"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "a94cc8773ffa6e143103caa32e4ee8e4578ad8782e6322303de0edf0ab785231"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-orbit",
       "tesserae_min": "0.463.0"
     },
     {
