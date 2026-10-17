@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T16:31:10Z",
+  "fetched_at": "2026-10-17T01:14:04Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -50,6 +50,7 @@
     "notion": 0,
     "octoprint": 0,
     "openrouter_usage": 0,
+    "overhead": 0,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
     "pigment": 0,
