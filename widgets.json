@@ -2401,9 +2401,9 @@
         "underway_scene"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "6e7a881b76e3c678109f53eadc04812bffc1957218886886bc9cc0d8f6728a5a"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "a512989614219c7a233d38525d9be572d4935234b2859bdcb9055a0757c0d971"
       },
       "source": "https://github.com/dmellok/tesserae-widget-underway",
       "tesserae_min": "0.463.0"
@@ -2436,9 +2436,9 @@
         "orbit_scene"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "a94cc8773ffa6e143103caa32e4ee8e4578ad8782e6322303de0edf0ab785231"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "51272eb0fe2ee0eb941c9c16596af21e695fa2266cc6ef9d412652a66af341ef"
       },
       "source": "https://github.com/dmellok/tesserae-widget-orbit",
       "tesserae_min": "0.463.0"
