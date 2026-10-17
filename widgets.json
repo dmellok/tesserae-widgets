@@ -2372,6 +2372,43 @@
       "tesserae_min": "0.463.0"
     },
     {
+      "id": "underway",
+      "name": "Underway Bundle",
+      "description": "Four widgets for the ships on the water near you, from aisstream.io or your own AIS-catcher: a photograph of the very ship, one vessel on a plate, everything near you as a fleet, or a painting on a painted sea. AI paintings in 28 styles, a style builder and your own prompt.",
+      "icon": "ph-anchor",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "transit",
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "extra_screenshot_count": 5,
+      "folders": [
+        "underway_core",
+        "underway_photo",
+        "underway_plate",
+        "underway_fleet",
+        "underway_scene"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "dd173d3035395989ae65a5cd3fe34cb8862c3fbc2184715bdf5fb0e4c4354a10"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-underway",
+      "tesserae_min": "0.463.0"
+    },
+    {
       "id": "ha_dual_history",
       "name": "Home Assistant, Dual History",
       "description": "History graph of a Home Assistant entity (6 hours to 7 days) beside its current value and an optional second entity's value, with configurable labels, icons, number formats, graph size and value position. Requires HA Core.",
