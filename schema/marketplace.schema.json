@@ -4,7 +4,10 @@
   "title": "Tesserae widget marketplace index",
   "description": "Shape of widgets.json in the catalog repo (e.g. dmellok/tesserae-widgets). See docs/contracts/marketplace.md for the prose contract.",
   "type": "object",
-  "required": ["version", "widgets"],
+  "required": [
+    "version",
+    "widgets"
+  ],
   "properties": {
     "version": {
       "type": "integer",
@@ -13,7 +16,9 @@
     },
     "widgets": {
       "type": "array",
-      "items": { "$ref": "#/$defs/widget" }
+      "items": {
+        "$ref": "#/$defs/widget"
+      }
     }
   },
   "$defs": {
@@ -58,9 +63,14 @@
         },
         "author": {
           "type": "object",
-          "required": ["name"],
+          "required": [
+            "name"
+          ],
           "properties": {
-            "name": { "type": "string", "minLength": 1 },
+            "name": {
+              "type": "string",
+              "minLength": 1
+            },
             "github": {
               "type": "string",
               "pattern": "^[A-Za-z0-9][A-Za-z0-9-]{0,38}$",
@@ -90,7 +100,11 @@
           "description": "Used by the Browse filter chips. New tags need a host bump (intentional friction; keeps the taxonomy small)."
         },
         "kind": {
-          "enum": ["widget", "font", "theme"],
+          "enum": [
+            "widget",
+            "font",
+            "theme"
+          ],
           "description": "Catalog-installable kinds. Widgets and fonts land in plugins/<id>/ via the same drop-a-folder loader. Themes ship a two-file tarball (theme.json + theme.css) that lands in data/themes/community/<id>/ and gets mounted via the GET /themes/community.css endpoint. Renderers + devices stay bundled."
         },
         "tesserae_compat": {
@@ -105,7 +119,14 @@
         },
         "screenshot_sizes": {
           "type": "array",
-          "items": { "enum": ["xs", "sm", "md", "lg"] },
+          "items": {
+            "enum": [
+              "xs",
+              "sm",
+              "md",
+              "lg"
+            ]
+          },
           "minItems": 1,
           "uniqueItems": true,
           "description": "Sizes contributed under screenshots/<id>/<size>.png in the catalog repo. Must include 'lg'; CI rejects entries that don't ship the lg thumbnail."
@@ -128,7 +149,11 @@
         },
         "release": {
           "type": "object",
-          "required": ["version", "tarball_url", "sha256"],
+          "required": [
+            "version",
+            "tarball_url",
+            "sha256"
+          ],
           "properties": {
             "version": {
               "type": "string",
@@ -150,6 +175,11 @@
           "type": "string",
           "format": "uri",
           "description": "Public source URL (GitHub repo, etc.) shown on the Browse card so users can read the code before installing."
+        },
+        "tesserae_min": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+\\.\\d+$",
+          "description": "The least Tesserae version the widget runs on (for example 0.463.0). A host at or above 0.463.0 refuses to install or update past it; older hosts ignore it, so a widget that needs it must still load on them and say so."
         }
       }
     }

@@ -47,3 +47,11 @@ When the host's index schema bumps (`schema/marketplace.schema.json`
 inside Tesserae), copy the new schema into this catalog repo too. CI
 on the catalog validates against the local copy, so a drift between
 host and catalog will surface there before users hit it on Browse.
+
+## A widget that needs a newer Tesserae
+
+Put `tesserae_min` (for example `"0.463.0"`) on the catalog entry and in the
+widget's `plugin.json`. A host at or above 0.463.0 refuses to install or
+update past it and says so on the Browse page; an older host ignores the
+field, so the widget must still load there and tell the user what it is
+missing rather than fail.
