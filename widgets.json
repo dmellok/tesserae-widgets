@@ -2411,7 +2411,7 @@
     {
       "id": "trackside",
       "name": "Trackside Bundle",
-      "description": "Four widgets for the trains and trams near you right now: Melbourne (free Transport Victoria key), Boston, Brisbane, the Gold Coast or any GTFS-Realtime feed. Photographs of the very vehicle or her class, AI paintings side-on in 26 styles.",
+      "description": "Four widgets for the trains and trams near you right now: Melbourne (PTV Timetable API or Transport Victoria key), Boston, Brisbane, the Gold Coast or any GTFS-Realtime feed. Photographs of the very vehicle or her class, AI paintings side-on in 26 styles.",
       "icon": "ph-train",
       "author": {
         "name": "Kayden D'Mello",
@@ -2438,9 +2438,9 @@
         "trackside_scene"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "57ae640d2245e2ecc1416646effc0d1e8537d05b42f5e03560485df0d190b48b"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "0905485a0ee94c325fc303cdf76512fd7aa4951937b56544fd6b54f7f3dad17c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-trackside",
       "tesserae_min": "0.463.0"
