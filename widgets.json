@@ -2438,9 +2438,9 @@
         "trackside_scene"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "0905485a0ee94c325fc303cdf76512fd7aa4951937b56544fd6b54f7f3dad17c"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "e82c117c5a343842695521bfdbd8219b17dad81c0bb9542443ae00e0155a2a35"
       },
       "source": "https://github.com/dmellok/tesserae-widget-trackside",
       "tesserae_min": "0.463.0"
