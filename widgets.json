@@ -2409,6 +2409,43 @@
       "tesserae_min": "0.463.0"
     },
     {
+      "id": "trackside",
+      "name": "Trackside Bundle",
+      "description": "Four widgets for the trains and trams near you right now: Melbourne (free Transport Victoria key), Boston, Brisbane, the Gold Coast or any GTFS-Realtime feed. Photographs of the very vehicle or her class, AI paintings side-on in 26 styles.",
+      "icon": "ph-train",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "transit",
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "extra_screenshot_count": 3,
+      "folders": [
+        "trackside_core",
+        "trackside_photo",
+        "trackside_plate",
+        "trackside_lineup",
+        "trackside_scene"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "57ae640d2245e2ecc1416646effc0d1e8537d05b42f5e03560485df0d190b48b"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-trackside",
+      "tesserae_min": "0.463.0"
+    },
+    {
       "id": "orbit",
       "name": "Orbit Bundle",
       "description": "Three widgets for the station and the bright satellites passing over your place to-night: the best pass with a sky chart, every pass in order or packed as a cluster, or a painting in space. Passes worked out on your server from CelesTrak, no key. AI paintings in 25 styles.",
