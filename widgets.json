@@ -2530,6 +2530,34 @@
         "sha256": "be54b91208c7a9cbb5b31a751b9abd68cae79a7515fc76690a3a56fc583fe53d"
       },
       "source": "https://github.com/siilky/tesserae-widget-ha-ukraine-alarm"
+    },
+    {
+      "id": "front_page",
+      "name": "Front Page",
+      "description": "Today's front page of a newspaper: about 165 papers in 31 countries from kiosko.net, plus The West Australian, the Sunday Times and WA's regional papers from their publisher. Full bleed, or with the paper's name and date. No API key.",
+      "icon": "ph-newspaper",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "news"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm"
+      ],
+      "extra_screenshot_count": 4,
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-front-page/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9ff6c345e1be9fd8582fdf4d45a0e54b650b1b89da38c323dfa1a9f06fb19e8c"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-front-page"
     }
   ]
 }
