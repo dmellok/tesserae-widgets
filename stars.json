@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T17:14:20Z",
+  "fetched_at": "2026-10-19T01:02:09Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -29,6 +29,7 @@
     "flight_status": 0,
     "football": 0,
     "fractal_tile": 0,
+    "front_page": 0,
     "github": 0,
     "glances": 1,
     "goodreads_shelf": 0,
