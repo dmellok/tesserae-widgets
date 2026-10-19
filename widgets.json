@@ -2558,6 +2558,36 @@
         "sha256": "9ff6c345e1be9fd8582fdf4d45a0e54b650b1b89da38c323dfa1a9f06fb19e8c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-front-page"
+    },
+    {
+      "id": "poster",
+      "name": "Poster",
+      "description": "A framed print for the wall, new each day, in fourteen styles: Bauhaus, Swiss, Constructivist, ridgeline, Memphis and sunburst posters drawn free, public-domain museum prints, or AI posters (woodblock, travel, deco, riso, botanical, linocut) with the words set in real type.",
+      "icon": "ph-frame-corners",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "poster"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-poster/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "7ba68e43e2acb8cb60a4a36bcc2987e03fbe51d281c7eefe2cd824a2378b4613"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-poster",
+      "tesserae_min": "0.463.0"
     }
   ]
 }
