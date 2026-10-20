@@ -858,7 +858,7 @@
     {
       "id": "picture_immich",
       "name": "Picture, Immich",
-      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, or random from album. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
+      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, random from album, or random from tag. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
       "icon": "ph-images-square",
       "icon_asset": "picture_immich.svg",
       "author": {
@@ -879,9 +879,9 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.1.5",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.1.5.tar.gz",
-        "sha256": "b68e0bf0973d08f41c3fe1b42ccbfd499249104dc739c02e79eeb70595917519"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "88973e641d0e91b911a083808d1165e7b34913cd7893b8c5266e13a501e118c8"
       },
       "source": "https://github.com/dmellok/tesserae-widget-immich"
     },
@@ -1310,9 +1310,9 @@
         "trmnl_proxy"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-trmnl-proxy/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "8a9d1e5ed802d0399b235b3a074f18eb5a985aa23af3ac8af21bcf98ef4643bf"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trmnl-proxy/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "23d6df6c00b9efd0003e1b77f9e17769b3987efeb092047b9662735ab7be8552"
       },
       "source": "https://github.com/dmellok/tesserae-widget-trmnl-proxy"
     },
@@ -1693,9 +1693,9 @@
         "markdown_note"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-markdown-note/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "9a1583d709973e32706cdf66d93c1222fb9308f265b154c1a8f84ae5ac671dad"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-markdown-note/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "ef99c574d1c67fad24c1fa59e047809e3589eb43e913e084aca2d2f2a242ea92"
       },
       "source": "https://github.com/dmellok/tesserae-widget-markdown-note"
     },
