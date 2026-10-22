@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T18:27:28Z",
+  "fetched_at": "2026-10-22T22:14:26Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -30,6 +30,7 @@
     "football": 0,
     "fractal_tile": 0,
     "front_page": 0,
+    "fugleramme": 1,
     "github": 0,
     "glances": 1,
     "goodreads_shelf": 0,
@@ -52,7 +53,7 @@
     "octoprint": 0,
     "openrouter_usage": 0,
     "orbit": 0,
-    "overhead": 21,
+    "overhead": 24,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
     "pigment": 0,
