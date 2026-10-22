@@ -2298,9 +2298,9 @@
         "backyard_birds"
       ],
       "release": {
-        "version": "0.14.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.14.2.tar.gz",
-        "sha256": "1be5163b2a4679d0da93963053fd4943fdd28c655f5af662be98ee4521d57da2"
+        "version": "0.15.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.15.0.tar.gz",
+        "sha256": "c391545b0e99d9fc3bde447ac5b2dfb7d3f1181e266a97f9f81541c69b8f7006"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     },
@@ -2327,9 +2327,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.11.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.11.0.tar.gz",
-        "sha256": "6ce04553ce49bfafa990d9040d3982616368a9f552a0136e3bab28a78afd0290"
+        "version": "0.12.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.12.0.tar.gz",
+        "sha256": "3b7f9e8f52ed2baaf97900d2f6aba1e7ef460920d1003f707d5fe7d7b6c0d0c1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet",
       "tesserae_min": "0.463.0"
@@ -2364,9 +2364,9 @@
         "overhead_scene"
       ],
       "release": {
-        "version": "0.6.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.6.0.tar.gz",
-        "sha256": "704bd0bf7dc1be846c036f7594b5f08a1f313e1a8ab2df9e37c3799581cb4fbe"
+        "version": "0.7.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.7.0.tar.gz",
+        "sha256": "c662b14d917d416893147690e927473585e8b77db1af43b2748d0ed08be8c753"
       },
       "source": "https://github.com/dmellok/tesserae-widget-overhead",
       "tesserae_min": "0.463.0"
@@ -2473,9 +2473,9 @@
         "orbit_scene"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "0a948ec10f491e912fecd13bfe8fb4a7a4082b8e0073a983f73ff731bf8558b1"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "a707cbbb1c4e61bd040dba624c674be77c2cca94143a293daf6a6cc9d1d2cbc0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-orbit",
       "tesserae_min": "0.463.0"
