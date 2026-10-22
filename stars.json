@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-22T13:42:27Z",
+  "fetched_at": "2026-10-22T18:27:28Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
-    "air_traffic": 1,
+    "air_traffic": 2,
     "album_art": 0,
     "apple_album": 0,
     "apple_reminders": 0,
@@ -52,7 +52,7 @@
     "octoprint": 0,
     "openrouter_usage": 0,
     "orbit": 0,
-    "overhead": 12,
+    "overhead": 21,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
     "pigment": 0,
