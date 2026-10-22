@@ -2335,6 +2335,35 @@
       "tesserae_min": "0.463.0"
     },
     {
+      "id": "fugleramme",
+      "name": "Fugleramme",
+      "description": "The birds a BirdNET-Go or BirdWeather station heard, drawn by Fugleramme's own renderer as hand-coloured 1800s plates packed onto one page: the window's collage, the latest bird or the newest arrival. Plates are fetched from Fugleramme on first use. Demo garden until set up.",
+      "icon": "ph-bird",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 8,
+      "folders": [
+        "fugleramme"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fugleramme/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "31a48f454a8f07e4af0beeb02e3afc58e7816e9743c05d2013f05adcba8a5636"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-fugleramme"
+    },
+    {
       "id": "overhead",
       "name": "Overhead Bundle",
       "description": "Four widgets for the aircraft overhead right now, from adsb.lol or your own receiver: a photograph of the very airframe, one aircraft on a plate, everything near you in a cluster, or a painting across the page. AI paintings in 26 styles, a style builder and your own prompt.",
