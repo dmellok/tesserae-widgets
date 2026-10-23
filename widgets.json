@@ -1310,9 +1310,9 @@
         "trmnl_proxy"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-trmnl-proxy/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "23d6df6c00b9efd0003e1b77f9e17769b3987efeb092047b9662735ab7be8552"
+        "version": "0.3.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trmnl-proxy/archive/refs/tags/v0.3.1.tar.gz",
+        "sha256": "51f5d65d2490bbe59647c3b44d5cb122d2129e83cce31a0159f90f013c55957e"
       },
       "source": "https://github.com/dmellok/tesserae-widget-trmnl-proxy"
     },
