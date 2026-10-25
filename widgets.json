@@ -2617,6 +2617,35 @@
       },
       "source": "https://github.com/dmellok/tesserae-widget-poster",
       "tesserae_min": "0.463.0"
+    },
+    {
+      "id": "picture_natgeo",
+      "name": "Picture, National Geographic Photo of the Day",
+      "description": "National Geographic's Photo of the Day, full bleed, with the date as a solid accent block. Medium and large cells add a slim caption band with the caption and the show it's from. Full-size frame fetched once and served locally; no API key.",
+      "icon": "ph-camera",
+      "author": {
+        "name": "Bob Faist",
+        "github": "bfaist"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm",
+        "xs"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/bfaist/tesserae-widget-natgeo/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "7587de7df8923444f29be820644f435f50c8fad4b4c5383b734ae6d55c52be61"
+      },
+      "source": "https://github.com/bfaist/tesserae-widget-natgeo",
+      "tesserae_min": "0.340.0"
     }
   ]
 }
