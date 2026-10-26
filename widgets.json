@@ -3158,6 +3158,32 @@
         "sha256": "21e1471ae9140227e0e29bcdf3ff284505b4a028c4a2b933218562b51e05f684"
       },
       "source": "https://github.com/skynet01/tesserae-civitai"
+    },
+    {
+      "id": "plexamp_now_playing",
+      "name": "Plexamp, Now Playing",
+      "description": "Cover, album and artist for what one Plexamp player is playing, read from your Plex server. Idle, a random album from your library that holds for a few hours, so battery panels don't repaint every wake. Four layouts.",
+      "icon": "ph-vinyl-record",
+      "author": {
+        "name": "GiLgAmeZh",
+        "github": "gilgamezh"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 3,
+      "release": {
+        "version": "0.5.2",
+        "tarball_url": "https://github.com/gilgamezh/tesserae-widget-plexamp-now-playing/archive/refs/tags/v0.5.2.tar.gz",
+        "sha256": "513bf8308b48959d24bdeb08436b7030283868ceb85a933349497787bb437ef4"
+      },
+      "source": "https://github.com/gilgamezh/tesserae-widget-plexamp-now-playing"
     }
   ]
 }
