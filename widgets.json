@@ -2403,7 +2403,7 @@
     {
       "id": "underway",
       "name": "Underway Bundle",
-      "description": "Four widgets for the ships on the water near you, from aisstream.io or your own AIS-catcher: a photograph of the very ship (Commons and Openverse, no key), a plate, a fleet, or a painting on a painted sea. AI paintings in 28 styles, from her photograph or her particulars.",
+      "description": "Four widgets for the ships near you, from Open Waters AIS (no key), aisstream.io or your own AIS-catcher: a photograph of the very ship (Commons and Openverse), a plate, a fleet, or a painting on a painted sea. AI paintings in 28 styles, from her photograph or her particulars.",
       "icon": "ph-anchor",
       "author": {
         "name": "Kayden D'Mello",
