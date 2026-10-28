@@ -2696,6 +2696,241 @@
         "sha256": "f0e43e2c21f929a0c30aa3c8b03febb37d3c135ed7ebf57acdfe99392085e11a"
       },
       "source": "https://github.com/skynet01/tesserae-news-front-pages"
+    },
+    {
+      "id": "herbarium_sheet",
+      "name": "Herbarium Sheet",
+      "description": "The plants in flower near you this month as a herbarium sheet: pressed specimens on taped mounts with label slips, an institutional label and a stamp, from iNaturalist records. Photographs, or AI paintings in five styles from pressed specimen to cyanotype.",
+      "icon": "ph-plant",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "herbarium_sheet"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-herbarium-sheet/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "fea656a1535b291d928e9d82653a5bd8700ba8e97ae782848e7244c08e824829"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-herbarium-sheet",
+      "tesserae_min": "0.463.0"
+    },
+    {
+      "id": "fungi_plate",
+      "name": "Fungi Plate",
+      "description": "The fungi recorded near you this month as a numbered mycological plate, each species with a cross-section and a key at the foot, or in ruled boxes, from iNaturalist. Photographs, or AI paintings in five styles including an ink line drawing for mono panels.",
+      "icon": "ph-leaf",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "fungi_plate"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fungi-plate/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f4b357349b942b139aac9554f9f267d338bd7e50a9430bbd79f3995d79db677b"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-fungi-plate",
+      "tesserae_min": "0.463.0"
+    },
+    {
+      "id": "fish_plate",
+      "name": "Fish Plate",
+      "description": "The fishes of your waters as a natural-history plate: stacked after Bloch with script names and a scale bar, or one hero fish in a ruled frame, from iNaturalist records. Photographs, or AI paintings in five styles including gyotaku ink prints for mono panels.",
+      "icon": "ph-fish",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "fish_plate"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fish-plate/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "faf4194bebe84d350f983b2bd348244ddeba8d0b89a84b4312c60b34ab18c870"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-fish-plate",
+      "tesserae_min": "0.463.0"
+    },
+    {
+      "id": "tide_clock",
+      "name": "Tide Clock",
+      "description": "A classic tide-clock dial and the tide curve for the day ahead, with highs and lows, sunrise, sunset and the moon. Open-Meteo's marine model anywhere, or NOAA station predictions in the United States. Three layouts from a full almanac down to the dial alone.",
+      "icon": "ph-waves",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "tide_clock"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-tide-clock/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "9603cef74488b281412d650d17d3a1397e055429e0a4a655566152f338240532"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-tide-clock"
+    },
+    {
+      "id": "meteors_eclipses",
+      "name": "Meteors & Eclipses",
+      "description": "The meteor showers and eclipses coming up, from a bundled IMO and NASA table, with the moon's interference and the radiant's height worked out for your place. A timeline of the coming months or the next event as a hero. No network, no key.",
+      "icon": "ph-shooting-star",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "meteors_eclipses"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-meteors-eclipses/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f7e7464fb2dbea54a8b592bc3c91709ee498a24d6d98ba3f34179bd1f29dfdbb"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-meteors-eclipses"
+    },
+    {
+      "id": "rain_radar",
+      "name": "Rain Radar",
+      "description": "Rain radar around your place from RainViewer, stippled in three intensities over a Natural Earth coastline, with the last hour as a strip of frames and a plain-words headline for the next hour: rain in about 20 minutes, raining now, or dry.",
+      "icon": "ph-cloud-rain",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "rain_radar"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-rain-radar/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "7571b5b55df24365887aa78687c704f7e9ba905365029a9a1359b218f198abe2"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-rain-radar"
+    },
+    {
+      "id": "quakes_nearby",
+      "name": "Earthquakes Nearby",
+      "description": "The earthquakes near you in the last day, week or month from USGS and Geoscience Australia: a coastline map with rings sized by magnitude and a list, or the largest magnitude as a hero with a seismogram strip of the period's events. An honest empty state when all is quiet.",
+      "icon": "ph-pulse",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "quakes_nearby"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-quakes-nearby/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "456f43e2ac3f79921fc03ac24af12eeccfc5177b3c1ecbac194df2d2d839516c"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-quakes-nearby"
+    },
+    {
+      "id": "snow_report",
+      "name": "Snow Report",
+      "description": "Snow depth, fresh snow over 24 hours, 72 hours and 7 days, freezing level, summit and base temperatures and the week ahead for a mountain or resort, from Open-Meteo, under a ridgeline drawn for the place. Modelled weather, not a resort report.",
+      "icon": "ph-snowflake",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "snow_report"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-snow-report/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "c4141777acb90e29aa904d1fd15b1573817c3a62391928179ff7581bdfc435ab"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-snow-report"
     }
   ]
 }
