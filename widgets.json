@@ -2403,7 +2403,7 @@
     {
       "id": "underway",
       "name": "Underway Bundle",
-      "description": "Four widgets for the ships on the water near you, from aisstream.io or your own AIS-catcher: a photograph of the very ship (Commons and Openverse, no key), a plate, a fleet, or a painting on a painted sea. AI paintings in 28 styles, from her photograph or her particulars.",
+      "description": "Four widgets for the ships near you, from Open Waters AIS (no key), aisstream.io or your own AIS-catcher: a photograph of the very ship (Commons and Openverse), a plate, a fleet, or a painting on a painted sea. AI paintings in 28 styles, from her photograph or her particulars.",
       "icon": "ph-anchor",
       "author": {
         "name": "Kayden D'Mello",
@@ -2430,9 +2430,9 @@
         "underway_scene"
       ],
       "release": {
-        "version": "0.6.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.6.2.tar.gz",
-        "sha256": "8a49a2c6993cda3c6dcd6608f2c92d5064ffde1e7e9bcfc8ce99bcde7e5d0eab"
+        "version": "0.7.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.7.0.tar.gz",
+        "sha256": "96803cb0d5587fc0c18f05a08b8a60027ac5cbfbb5b445f434e3014733075869"
       },
       "source": "https://github.com/dmellok/tesserae-widget-underway",
       "tesserae_min": "0.463.0"
