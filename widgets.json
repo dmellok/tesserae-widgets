@@ -2931,6 +2931,31 @@
         "sha256": "c4141777acb90e29aa904d1fd15b1573817c3a62391928179ff7581bdfc435ab"
       },
       "source": "https://github.com/dmellok/tesserae-widget-snow-report"
+    },
+    {
+      "id": "news_illustrated",
+      "name": "AI Illustrated News",
+      "description": "Once a day, the top story of each of your feeds, summarised by an AI and drawn as a satirical ink cartoon (kie.ai, Gemini, Pollinations or HuggingFace). Shows one story at a time, poster style, moving to the next on each refresh.",
+      "icon": "ph-newspaper-clipping",
+      "author": {
+        "name": "Alex Gurevich",
+        "github": "skynet01"
+      },
+      "tags": [
+        "news"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "ff9f4dbfa7d5ed6e3fb9b716b22c0cbcc61f51e004a21b04d5acb5b5fcd35e3c"
+      },
+      "source": "https://github.com/skynet01/tesserae-news-illustrated",
+      "tesserae_min": "0.484.1"
     }
   ]
 }
