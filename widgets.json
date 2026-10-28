@@ -2672,6 +2672,30 @@
       },
       "source": "https://github.com/skynet01/tesserae-comics",
       "tesserae_min": "0.484.1"
+    },
+    {
+      "id": "news_front_pages",
+      "name": "News, Newspapers",
+      "description": "Today's newspaper front pages from the Freedom Forum archive, drawn sharp from each paper's PDF at the panel's own width. One paper per render, rotating through the papers on its admin page (each with optional CSS) or pinned. Keeps the last good page up. No API key.",
+      "icon": "ph-newspaper",
+      "author": {
+        "name": "Alex Gurevich",
+        "github": "skynet01"
+      },
+      "tags": [
+        "news"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "f0e43e2c21f929a0c30aa3c8b03febb37d3c135ed7ebf57acdfe99392085e11a"
+      },
+      "source": "https://github.com/skynet01/tesserae-news-front-pages"
     }
   ]
 }
