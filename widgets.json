@@ -2430,9 +2430,9 @@
         "underway_scene"
       ],
       "release": {
-        "version": "0.7.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.7.0.tar.gz",
-        "sha256": "96803cb0d5587fc0c18f05a08b8a60027ac5cbfbb5b445f434e3014733075869"
+        "version": "0.7.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-underway/archive/refs/tags/v0.7.1.tar.gz",
+        "sha256": "8a895019506e4fbb67ec46702f79386bcedbe24a8ff4094c3207a1062aa021a1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-underway",
       "tesserae_min": "0.463.0"
@@ -2467,9 +2467,9 @@
         "trackside_scene"
       ],
       "release": {
-        "version": "0.5.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.5.1.tar.gz",
-        "sha256": "a274408ba68ebc03175ce60a91b42a276924fee1767a7ee9bc1d0c077e567d1c"
+        "version": "0.5.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-trackside/archive/refs/tags/v0.5.2.tar.gz",
+        "sha256": "a9ceb37e08851a854647f43b8972d600300fef7108d421254398a8c25342de07"
       },
       "source": "https://github.com/dmellok/tesserae-widget-trackside",
       "tesserae_min": "0.463.0"
@@ -2502,9 +2502,9 @@
         "orbit_scene"
       ],
       "release": {
-        "version": "0.2.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.2.2.tar.gz",
-        "sha256": "2f171412ba454c838d26b02aa3851156d86912772ab5ed05c7f177ad8c72600c"
+        "version": "0.2.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-orbit/archive/refs/tags/v0.2.3.tar.gz",
+        "sha256": "5d4257cee4c97e8a62493447c088415006eef72a3ed12d519dfe548c624b1cee"
       },
       "source": "https://github.com/dmellok/tesserae-widget-orbit",
       "tesserae_min": "0.463.0"
