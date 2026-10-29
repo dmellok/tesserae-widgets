@@ -2393,9 +2393,9 @@
         "overhead_scene"
       ],
       "release": {
-        "version": "0.11.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.11.1.tar.gz",
-        "sha256": "64400e4bf92a18670731cd19bfe2e67e8524dafa120ef6f26f47416dfbc394b9"
+        "version": "0.11.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.11.3.tar.gz",
+        "sha256": "0957b760f3ad980555843eba1b46e086cc86e47099a4cb5a7adde48a0306c70a"
       },
       "source": "https://github.com/dmellok/tesserae-widget-overhead",
       "tesserae_min": "0.463.0"
