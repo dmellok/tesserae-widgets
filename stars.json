@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T23:05:02Z",
+  "fetched_at": "2026-10-29T21:43:56Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -97,6 +97,7 @@
     "unsplash": 0,
     "vivid": 0,
     "weather_extras": 0,
+    "weather_hourly_card": 0,
     "wildlife_nearby": 0,
     "xkcd_comic": 0,
     "youtube_channel": 0
