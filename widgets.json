@@ -149,9 +149,9 @@
         "picture_apple_album"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "500fcfea69326577bd6bdffea2e7880e8f1d66bafd060be28e32621b82f50de5"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "db2fa6ecd6fd3601654e00a94e86cac012f4cd0722b71db0b52785c738a72e2b"
       },
       "source": "https://github.com/dmellok/tesserae-widget-apple-album"
     },
