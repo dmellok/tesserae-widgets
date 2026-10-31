@@ -2975,9 +2975,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/biggy-spoon/tesserae-widget-hourly-card/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "8234b51e8b0f286c3070e65708bed71facc1689f20efd7115c699bc6a9267156"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/biggy-spoon/tesserae-widget-hourly-card/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "692c3e4699276bbecab13ea578212b38b99f09385582b2924792e40925a872da"
       },
       "source": "https://github.com/biggy-spoon/tesserae-widget-hourly-card"
     },
