@@ -2980,6 +2980,36 @@
         "sha256": "8234b51e8b0f286c3070e65708bed71facc1689f20efd7115c699bc6a9267156"
       },
       "source": "https://github.com/biggy-spoon/tesserae-widget-hourly-card"
+    },
+    {
+      "id": "pokedex_plate",
+      "name": "Pokédex Plate",
+      "description": "Pokémon packed onto one printed page like a natural-history specimen sheet, each as large as the page allows, number and name beneath. A generation, a type, a random sheet each day or your list, from PokeAPI. Pixel sprites, official artwork or AI paintings in eight styles.",
+      "icon": "ph-sparkle",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 9,
+      "folders": [
+        "pokedex_plate"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex-plate/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "4cba2e90d8958f3b39e81dc7d98d012502a2e0055a91aa413e8c446dad5c35de"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-pokedex-plate",
+      "tesserae_min": "0.463.0"
     }
   ]
 }
