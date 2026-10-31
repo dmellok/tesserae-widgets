@@ -2984,7 +2984,7 @@
     {
       "id": "pokedex_plate",
       "name": "Pokédex Plate",
-      "description": "Pokémon packed onto one printed page like a natural-history specimen sheet, each as large as the page allows, number and name beneath. A generation, a type, a random sheet each day or your list, from PokeAPI. Pixel sprites, official artwork or AI paintings in eight styles.",
+      "description": "Pokémon packed onto one printed page like a natural-history specimen sheet, each as large as the page allows, number and name beneath. A generation, a type, a daily random sheet or your list, from PokeAPI. Pixel sprites, official artwork or AI drawings in nine styles.",
       "icon": "ph-sparkle",
       "author": {
         "name": "Kayden D'Mello",
@@ -3004,9 +3004,9 @@
         "pokedex_plate"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex-plate/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "4cba2e90d8958f3b39e81dc7d98d012502a2e0055a91aa413e8c446dad5c35de"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex-plate/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "9192c829727a3e6af6c05991fd109c5594e82a0d53522f646812c583505ec0be"
       },
       "source": "https://github.com/dmellok/tesserae-widget-pokedex-plate",
       "tesserae_min": "0.463.0"
