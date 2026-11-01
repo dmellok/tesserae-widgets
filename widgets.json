@@ -2298,9 +2298,9 @@
         "backyard_birds"
       ],
       "release": {
-        "version": "0.16.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.16.0.tar.gz",
-        "sha256": "eb44d2effb6d9876c50418f969d2e44e2dfeb08e5ac74cc520522926d51b8827"
+        "version": "0.17.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.17.0.tar.gz",
+        "sha256": "8e868e9c69cef7f4d166413a2827b5f2c1b7e1d03cb5d0404e5dfcc26c898a5c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     },
@@ -2327,9 +2327,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.15.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.15.0.tar.gz",
-        "sha256": "00b4a18549fa39cf42149c757cacf2aef4d73e2a02adb76786329b4c16674ba7"
+        "version": "0.16.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.16.0.tar.gz",
+        "sha256": "9c225520c63774604a947161b586c8dd2a678a505ed08a25d2bda82cfcabae81"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet",
       "tesserae_min": "0.463.0"
