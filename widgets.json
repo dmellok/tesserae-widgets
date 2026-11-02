@@ -3039,6 +3039,40 @@
         "sha256": "507020c73c94a36237f81a53dd374a0d80bbd0b1a6376c12653b1770e6164d76"
       },
       "source": "https://github.com/dmellok/tesserae-widget-your-block"
+    },
+    {
+      "id": "bin_day",
+      "name": "Bin Day",
+      "description": "Which bins are collected in the next 7 days and how many days until each collection, from a Home Assistant calendar (such as Waste Collection Schedule's) or a schedule you enter. Set your bins up in Bin Day Core.",
+      "icon": "ph-trash",
+      "author": {
+        "name": "Dan Shaw",
+        "github": "DanielLShaw"
+      },
+      "tags": [
+        "home-assistant",
+        "calendar",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "xs",
+        "sm",
+        "md",
+        "lg"
+      ],
+      "folders": [
+        "bin_day_core",
+        "bin_day"
+      ],
+      "release": {
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/DanielLShaw/tesserae-bin-day/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "cd8f1c11832e1397a4d57f5f2e46ea1d31a9660765aeb995588d79b5d34231b5"
+      },
+      "source": "https://github.com/DanielLShaw/tesserae-bin-day"
     }
   ]
 }
