@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T17:42:37Z",
+  "fetched_at": "2026-11-03T23:11:18Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -10,6 +10,7 @@
     "arr_recently_added": 0,
     "auroras": 0,
     "backyard_birds": 28,
+    "bin_day": 1,
     "bom_warnings": 0,
     "caldav_todo": 0,
     "calendar_schedule": 0,
