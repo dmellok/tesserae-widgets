@@ -3077,7 +3077,7 @@
     {
       "id": "home_wrapped",
       "name": "Home Wrapped",
-      "description": "Your home's year so far as year-in-review cards: summary, big numbers, top fives, leaderboard, trading card, from year-to-date Home Assistant entities. Home, Energy and Pets themes, four palettes. Drawn live or painted whole by GPT Image.",
+      "description": "Your home's year as Wrapped-style story slides, painted by GPT Image from what Home Assistant already knows: energy and solar, temperatures, doors, lights, telly, time away and the busiest rooms. Nothing to set up but an AI key; sample slides until then.",
       "icon": "ph-gift",
       "author": {
         "name": "Kayden D'Mello",
@@ -3094,9 +3094,9 @@
       ],
       "extra_screenshot_count": 9,
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-home-wrapped/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "d47f6935e718f8cd51f9e86dcdeac6b7d8ac52773e00edbe0c35b4570107f9c3"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-home-wrapped/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "925f122bb20ebfe620aa5a42d56390946b36afd03694fef01d805656929a371d"
       },
       "source": "https://github.com/dmellok/tesserae-widget-home-wrapped"
     }
