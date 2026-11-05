@@ -3094,9 +3094,9 @@
       ],
       "extra_screenshot_count": 9,
       "release": {
-        "version": "0.5.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-home-wrapped/archive/refs/tags/v0.5.1.tar.gz",
-        "sha256": "991aad724164914f464e50481f2170540e5c4386cc03e9992f3ba0e1d07a747f"
+        "version": "0.5.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-home-wrapped/archive/refs/tags/v0.5.2.tar.gz",
+        "sha256": "0d74c49bf561029b73c1ed7d33b7674b8acf4c065649462b3abc2553d3547323"
       },
       "source": "https://github.com/dmellok/tesserae-widget-home-wrapped"
     }
