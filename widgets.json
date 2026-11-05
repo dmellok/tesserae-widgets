@@ -2327,9 +2327,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.16.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.16.0.tar.gz",
-        "sha256": "9c225520c63774604a947161b586c8dd2a678a505ed08a25d2bda82cfcabae81"
+        "version": "0.17.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.17.1.tar.gz",
+        "sha256": "6890772330fb522cbf783d2cdfe641f0e28ea5e0e4fb4b9f3b053e424bac97c0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet",
       "tesserae_min": "0.463.0"
@@ -2337,7 +2337,7 @@
     {
       "id": "fugleramme",
       "name": "Fugleramme",
-      "description": "The birds a BirdNET-Go or BirdWeather station heard, drawn by Fugleramme's own renderer as hand-coloured 1800s plates packed onto one page: the window's collage, the latest bird or the newest arrival. Plates are fetched from Fugleramme on first use. Demo garden until set up.",
+      "description": "Fugleramme's hand-coloured 1800s bird plates packed onto one page: the page a running Fugleramme draws, or one drawn here by its renderer from a BirdNET-Go or BirdWeather station (collage, latest bird or newest arrival). Demo garden until set up.",
       "icon": "ph-bird",
       "author": {
         "name": "Kayden D'Mello",
@@ -2357,9 +2357,9 @@
         "fugleramme"
       ],
       "release": {
-        "version": "0.1.2",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-fugleramme/archive/refs/tags/v0.1.2.tar.gz",
-        "sha256": "96b0367f0f59dc0bab7bf3a8470210a206aacd47298e900aad37f0e9380e27e6"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fugleramme/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "bfb87865600bfe1e0f0cb7a535dce6999e91d7f2366b3b02fa4bf6d9918e5218"
       },
       "source": "https://github.com/dmellok/tesserae-widget-fugleramme"
     },
