@@ -3099,6 +3099,33 @@
         "sha256": "0d74c49bf561029b73c1ed7d33b7674b8acf4c065649462b3abc2553d3547323"
       },
       "source": "https://github.com/dmellok/tesserae-widget-home-wrapped"
+    },
+    {
+      "id": "month_ahead",
+      "name": "Month Ahead",
+      "description": "A wall calendar for a whole panel: today up close (date, weather, plans, bin night) beside the next five weeks as tiles, each event edged in its calendar's colour. Five looks, portrait or landscape, muted colour or black and white.",
+      "icon": "ph-calendar-dots",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "calendar",
+        "weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 6,
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-month-ahead/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "39cd4ce3ab8861d20089cb20673362f4796ec8789b1e2a45c463b17d972235f0"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-month-ahead"
     }
   ]
 }
