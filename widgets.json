@@ -2366,7 +2366,7 @@
     {
       "id": "overhead",
       "name": "Overhead Bundle",
-      "description": "Four widgets for the aircraft overhead right now, from adsb.lol or your own receiver: a photograph of the very airframe, one aircraft on a plate, everything near you in a cluster, or a painting across the page. AI paintings in 26 styles, a style builder and your own prompt.",
+      "description": "Four widgets for the aircraft overhead right now: a photograph of the very airframe, one on a plate, all of them in a cluster, an arrangement or a livery chart, or a painting across the page. AI paintings in 20 styles, a style builder or your own prompt, on any paper colour.",
       "icon": "ph-airplane-tilt",
       "author": {
         "name": "Kayden D'Mello",
@@ -2393,9 +2393,9 @@
         "overhead_scene"
       ],
       "release": {
-        "version": "0.11.3",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.11.3.tar.gz",
-        "sha256": "0957b760f3ad980555843eba1b46e086cc86e47099a4cb5a7adde48a0306c70a"
+        "version": "0.12.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.12.1.tar.gz",
+        "sha256": "e29986d8efee4dbc2ef5741972a387becac8a8967475ca8191c26cc25b348adb"
       },
       "source": "https://github.com/dmellok/tesserae-widget-overhead",
       "tesserae_min": "0.463.0"
