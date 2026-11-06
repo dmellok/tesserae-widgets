@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-04T21:14:09Z",
+  "fetched_at": "2026-11-06T06:20:07Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -52,6 +52,7 @@
     "map_poster": 0,
     "markdown_note": 1,
     "meteors_eclipses": 0,
+    "month_ahead": 0,
     "muted": 0,
     "myanimelist": 0,
     "news_briefing": 0,
