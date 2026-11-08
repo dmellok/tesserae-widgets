@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T13:52:47Z",
+  "fetched_at": "2026-11-08T02:16:29Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -63,7 +63,7 @@
     "octoprint": 0,
     "openrouter_usage": 0,
     "orbit": 0,
-    "overhead": 80,
+    "overhead": 81,
     "paperlesspaper_art": 0,
     "picture_immich": 0,
     "picture_natgeo": 0,
@@ -94,7 +94,7 @@
     "trakt": 0,
     "transport": 0,
     "transport_belgium": 1,
-    "trmnl_proxy": 0,
+    "trmnl_proxy": 1,
     "twonks": 0,
     "underway": 0,
     "unifi_clients": 1,
