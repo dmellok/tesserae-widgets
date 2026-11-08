@@ -3150,9 +3150,9 @@
         "picture_civitai"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "5b19ff4d178af40b9a33afd03108d7b1cf708eab33bb515e7471b4a778fcc284"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "9844a90294992bff28c988dd9731debef1faf28537b9dcb4e6b2d1d0f31388dc"
       },
       "source": "https://github.com/skynet01/tesserae-civitai"
     }
