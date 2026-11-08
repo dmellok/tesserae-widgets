@@ -149,9 +149,9 @@
         "picture_apple_album"
       ],
       "release": {
-        "version": "0.2.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.2.1.tar.gz",
-        "sha256": "db2fa6ecd6fd3601654e00a94e86cac012f4cd0722b71db0b52785c738a72e2b"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "8124b0f8294b027e4ce6a7eb4582b8d6a3072137aa509d0cd214c0c30035428c"
       },
       "source": "https://github.com/dmellok/tesserae-widget-apple-album"
     },
@@ -686,9 +686,9 @@
         "picture_google_album"
       ],
       "release": {
-        "version": "0.4.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.4.0.tar.gz",
-        "sha256": "d02c30c3853d5cca639c910c4f8b0a2427a124ebf18827cb0922868388412e21"
+        "version": "0.5.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.5.0.tar.gz",
+        "sha256": "cbd46899d226f79f1bc08e17b05044e7c7911e86df754adb421331d3bd166944"
       },
       "source": "https://github.com/dmellok/tesserae-widget-google-album"
     },
@@ -879,9 +879,9 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "f51c95569372fa874558fdb10bfb81cb024d671e9be759083b104470001960e0"
+        "version": "0.4.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.4.0.tar.gz",
+        "sha256": "ca19362e7169c3abcd3163d7740d1fdbc7ce2bed37c908632abeee335772de29"
       },
       "source": "https://github.com/dmellok/tesserae-widget-immich"
     },
