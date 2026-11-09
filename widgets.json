@@ -3126,6 +3126,35 @@
         "sha256": "39cd4ce3ab8861d20089cb20673362f4796ec8789b1e2a45c463b17d972235f0"
       },
       "source": "https://github.com/dmellok/tesserae-widget-month-ahead"
+    },
+    {
+      "id": "civitai",
+      "name": "Picture, Civitai",
+      "description": "Full-screen drawings, illustrations and paintings from Civitai. Filter by tags and creators, match the display orientation automatically, choose resolution preferences and rotate artwork from a persistent cache.",
+      "icon": "ph-image",
+      "author": {
+        "name": "Alex Gurevich",
+        "github": "skynet01"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "tesserae_min": "0.484.1",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "picture_civitai"
+      ],
+      "release": {
+        "version": "0.1.5",
+        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.1.5.tar.gz",
+        "sha256": "3664a2bb640926171d95089d44a3dda9b0389c77df9fe5f4eb76414c900ab0cb"
+      },
+      "source": "https://github.com/skynet01/tesserae-civitai"
     }
   ]
 }
