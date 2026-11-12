@@ -2512,7 +2512,7 @@
     {
       "id": "ha_dual_history",
       "name": "Home Assistant, Dual History",
-      "description": "History graph of a Home Assistant entity (6 hours to 7 days) beside its current value and an optional second entity's value, with configurable labels, icons, number formats, graph size and value position. Requires HA Core.",
+      "description": "History graph of a Home Assistant entity (6 hours to 7 days) beside its current value and an optional second entity's value; on a touch panel a tap switches the graph between the two. Configurable labels, icons, number formats, graph size and value position. Requires HA Core.",
       "icon": "ph-chart-line-up",
       "author": {
         "name": "Ruslan Pisarev",
@@ -2528,9 +2528,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/siilky/tesserae-widget-ha-dual-history/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "81e684c9ba585ac71bbe394957737b49bab7144aa35f972dc854371c8de36f7f"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/siilky/tesserae-widget-ha-dual-history/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "5fddc1c2e798464bb6243a07c6d1f9bd6abbbb47d7d20d9e4fd45b6ca5356f0a"
       },
       "source": "https://github.com/siilky/tesserae-widget-ha-dual-history"
     },
