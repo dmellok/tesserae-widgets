@@ -149,11 +149,12 @@
         "picture_apple_album"
       ],
       "release": {
-        "version": "0.3.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.3.0.tar.gz",
-        "sha256": "8124b0f8294b027e4ce6a7eb4582b8d6a3072137aa509d0cd214c0c30035428c"
+        "version": "0.4.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.4.0.tar.gz",
+        "sha256": "2c207b8768e962cc0f0be609324e19488383832b45067b77e5720e845d0e6ba3"
       },
-      "source": "https://github.com/dmellok/tesserae-widget-apple-album"
+      "source": "https://github.com/dmellok/tesserae-widget-apple-album",
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "arr_recently_added",
@@ -686,11 +687,12 @@
         "picture_google_album"
       ],
       "release": {
-        "version": "0.5.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.5.0.tar.gz",
-        "sha256": "cbd46899d226f79f1bc08e17b05044e7c7911e86df754adb421331d3bd166944"
+        "version": "0.6.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.6.0.tar.gz",
+        "sha256": "6f32225edc3475f072fd54813b23cdd565d1250a42c5a6bcabe64aa1517cc819"
       },
-      "source": "https://github.com/dmellok/tesserae-widget-google-album"
+      "source": "https://github.com/dmellok/tesserae-widget-google-album",
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "gradient",
@@ -879,11 +881,12 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.4.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.4.0.tar.gz",
-        "sha256": "ca19362e7169c3abcd3163d7740d1fdbc7ce2bed37c908632abeee335772de29"
+        "version": "0.5.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.5.0.tar.gz",
+        "sha256": "b3bedd89ca0033c6846996862f4efd16589f13c8e827a8ad9712e456062f87f8"
       },
-      "source": "https://github.com/dmellok/tesserae-widget-immich"
+      "source": "https://github.com/dmellok/tesserae-widget-immich",
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "pigment",
