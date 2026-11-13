@@ -3129,8 +3129,8 @@
     },
     {
       "id": "civitai",
-      "name": "Picture, Civitai",
-      "description": "Full-screen drawings, illustrations and paintings from Civitai. Filter by tags and creators, match the display orientation automatically, choose resolution preferences and rotate artwork from a persistent cache.",
+      "name": "Picture, AI galleries",
+      "description": "Full-screen artwork from Civitai, Lexica, or both. Filter by tags, creators, prompt terms, or Civitai collections, and rotate cached matches that fit the display orientation and resolution.",
       "icon": "ph-image",
       "author": {
         "name": "Alex Gurevich",
@@ -3150,9 +3150,9 @@
         "picture_civitai"
       ],
       "release": {
-        "version": "0.1.5",
-        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.1.5.tar.gz",
-        "sha256": "3664a2bb640926171d95089d44a3dda9b0389c77df9fe5f4eb76414c900ab0cb"
+        "version": "0.2.2",
+        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.2.2.tar.gz",
+        "sha256": "21e1471ae9140227e0e29bcdf3ff284505b4a028c4a2b933218562b51e05f684"
       },
       "source": "https://github.com/skynet01/tesserae-civitai"
     }
