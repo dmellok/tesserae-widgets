@@ -2694,9 +2694,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "f0e43e2c21f929a0c30aa3c8b03febb37d3c135ed7ebf57acdfe99392085e11a"
+        "version": "0.2.0",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.2.0.tar.gz",
+        "sha256": "879d6b10333b5b310434108cd9f5007c07238156e8675931b89add6dbf5f0542"
       },
       "source": "https://github.com/skynet01/tesserae-news-front-pages"
     },
