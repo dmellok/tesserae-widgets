@@ -3144,7 +3144,7 @@
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
-      "tesserae_min": "0.484.1",
+      "tesserae_min": "0.512.0",
       "official": false,
       "screenshot_sizes": [
         "lg"
@@ -3153,9 +3153,9 @@
         "picture_civitai"
       ],
       "release": {
-        "version": "0.2.3",
-        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.2.3.tar.gz",
-        "sha256": "65a2ef34884e3932c9c379c1a5f97b2fc92148e331ade16cdf20cc3b7729861f"
+        "version": "0.2.5",
+        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.2.5.tar.gz",
+        "sha256": "e975e05c4cf94b11dad60ea5c85f695f6cf080e9dd81351bea7efe131f9226fc"
       },
       "source": "https://github.com/skynet01/tesserae-civitai"
     },
