@@ -3209,9 +3209,9 @@
         "print_blueprint"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "266c2df159a209bbf11f95986324a61859a377f82d4eec4ae662a35b3f9ca63c"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "e37e9f93b1c0f6e42190ed9b0bdac596ae3a75b2aa31032ad114abd4d7da4e63"
       },
       "source": "https://github.com/skynet01/tesserae-print-blueprint"
     }
