@@ -2694,11 +2694,12 @@
         "lg"
       ],
       "release": {
-        "version": "0.2.1",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.2.1.tar.gz",
-        "sha256": "5f43b5d6d986c920e75e0ed277cc14b3337db524c21268450621a4f9f043972e"
+        "version": "0.2.2",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.2.2.tar.gz",
+        "sha256": "93a1d27d16e21f11df4667cc2a526a824276dfe157f9f3341254bcc2fc55ba88"
       },
-      "source": "https://github.com/skynet01/tesserae-news-front-pages"
+      "source": "https://github.com/skynet01/tesserae-news-front-pages",
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "herbarium_sheet",
