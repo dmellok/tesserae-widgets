@@ -2953,12 +2953,12 @@
         "lg"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "c06ef9fec7717089a44fc1527c93e45179ca064d9f89d05ce7ff03a7b197ad8c"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "09f2d00fcbd32aa518f9e061f09e244cff6c88552dcac1d9834264ff752aca43"
       },
       "source": "https://github.com/skynet01/tesserae-news-illustrated",
-      "tesserae_min": "0.484.1"
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "weather_hourly_card",
