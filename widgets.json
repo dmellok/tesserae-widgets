@@ -2669,9 +2669,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-comics/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "e30bee037837e2c6eb850c2c2eaa351a5c4a42c9285b9c551e85db797c90eac8"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-comics/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "cd02bafe5033cb8894b17c6de0c21c5e0ce1adbbffa2c5dbdaf338379a9f2b47"
       },
       "source": "https://github.com/skynet01/tesserae-comics",
       "tesserae_min": "0.484.1"
