@@ -2938,7 +2938,7 @@
     },
     {
       "id": "news_illustrated",
-      "name": "AI Illustrated News",
+      "name": "News, AI Illustrated",
       "description": "Once a day, the top story of each of your feeds, summarised by an AI and drawn as a satirical ink cartoon (kie.ai, Gemini, Pollinations or HuggingFace). Shows one story at a time, poster style, moving to the next on each refresh.",
       "icon": "ph-newspaper-clipping",
       "author": {
@@ -2954,12 +2954,12 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "ff9f4dbfa7d5ed6e3fb9b716b22c0cbcc61f51e004a21b04d5acb5b5fcd35e3c"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "09f2d00fcbd32aa518f9e061f09e244cff6c88552dcac1d9834264ff752aca43"
       },
       "source": "https://github.com/skynet01/tesserae-news-illustrated",
-      "tesserae_min": "0.484.1"
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "weather_hourly_card",
