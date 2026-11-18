@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T03:40:14Z",
+  "fetched_at": "2026-11-18T03:35:32Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -13,7 +13,7 @@
     "bin_day": 1,
     "bom_warnings": 0,
     "caldav_todo": 0,
-    "calendar_schedule": 1,
+    "calendar_schedule": 2,
     "calendar_three_day": 0,
     "civitai": 0,
     "clock_digital": 0,
@@ -66,7 +66,7 @@
     "orbit": 0,
     "overhead": 92,
     "paperlesspaper_art": 0,
-    "picture_immich": 0,
+    "picture_immich": 1,
     "picture_natgeo": 0,
     "pigment": 0,
     "plex_recently_added": 0,
