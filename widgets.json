@@ -3209,9 +3209,9 @@
         "prusalink_status"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "2898f0b812fd12e74ada68557b898ed5ca7d3b254b1c7952907f2cbd00f9fc9e"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "dabf864e916bb8563ee20bd5c33a9afd4006977e0ea1999c564fe5873dcddea1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-prusalink"
     }
