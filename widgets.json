@@ -3185,6 +3185,35 @@
         "sha256": "513bf8308b48959d24bdeb08436b7030283868ceb85a933349497787bb437ef4"
       },
       "source": "https://github.com/gilgamezh/tesserae-widget-plexamp-now-playing"
+    },
+    {
+      "id": "prusalink",
+      "name": "PrusaLink",
+      "description": "Print status for an Original Prusa printer over PrusaLink on your own network, no Prusa account. Progress, time left, finish time, temperatures and the slicer's model preview. New: tested against a mock printer so far, so reports from real printers are welcome.",
+      "icon": "ph-printer",
+      "author": {
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 1,
+      "folders": [
+        "prusalink_status"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "2898f0b812fd12e74ada68557b898ed5ca7d3b254b1c7952907f2cbd00f9fc9e"
+      },
+      "source": "https://github.com/dmellok/tesserae-widget-prusalink"
     }
   ]
 }
