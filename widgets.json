@@ -3189,7 +3189,7 @@
     {
       "id": "prusalink",
       "name": "PrusaLink",
-      "description": "Print status for an Original Prusa printer over PrusaLink on your own network, no Prusa account. Progress, time left, finish time, temperatures and the slicer's model preview. New: tested against a mock printer so far, so reports from real printers are welcome.",
+      "description": "Print status for an Original Prusa printer over PrusaLink on your own network, no Prusa account. Progress, time left, finish time, temperatures and the slicer's model preview. New and lightly tested (one MK3S+ so far), so reports from other printers are welcome.",
       "icon": "ph-printer",
       "author": {
         "name": "Kayden D'Mello",
@@ -3209,9 +3209,9 @@
         "prusalink_status"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "dabf864e916bb8563ee20bd5c33a9afd4006977e0ea1999c564fe5873dcddea1"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "a93bb077e4b7ad4b84a56a1c30b6e194c9965ed5b3f1375c94442bfeca608459"
       },
       "source": "https://github.com/dmellok/tesserae-widget-prusalink"
     }
