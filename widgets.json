@@ -2653,7 +2653,7 @@
     {
       "id": "comics_strips",
       "name": "Comics, Strips",
-      "description": "Comic strips on one page, full width and in your order: xkcd (the latest or a random one, with its title and alt text, credited to xkcd.com), any picture address fetched daily, or your own upload. As many as fit, never cut off; small screens take turns.",
+      "description": "Daily comics from GoComics, The Far Side, the Dilbert archive and xkcd, with uploads and direct image URLs. Choose the strips on the admin page; small screens take turns. Existing xkcd latest/random selections are kept.",
       "icon": "ph-smiley",
       "author": {
         "name": "Alex Gurevich",
@@ -2669,9 +2669,9 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-comics/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "e30bee037837e2c6eb850c2c2eaa351a5c4a42c9285b9c551e85db797c90eac8"
+        "version": "0.1.2",
+        "tarball_url": "https://github.com/skynet01/tesserae-comics/archive/refs/tags/v0.1.2.tar.gz",
+        "sha256": "4a8f65cf5e0e99e76bcf095fbc332faf2d515646609095089ef5c14bd002d72f"
       },
       "source": "https://github.com/skynet01/tesserae-comics",
       "tesserae_min": "0.484.1"
