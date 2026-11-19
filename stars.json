@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T03:35:32Z",
+  "fetched_at": "2026-11-19T03:08:31Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -76,6 +76,7 @@
     "poorly_drawn_lines": 1,
     "poster": 0,
     "posthog_metric": 0,
+    "prusalink": 0,
     "public_holiday_countdown": 0,
     "qr_code": 0,
     "quakes_nearby": 0,
