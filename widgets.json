@@ -149,9 +149,9 @@
         "picture_apple_album"
       ],
       "release": {
-        "version": "0.4.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.4.0.tar.gz",
-        "sha256": "2c207b8768e962cc0f0be609324e19488383832b45067b77e5720e845d0e6ba3"
+        "version": "0.4.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.4.1.tar.gz",
+        "sha256": "1c10896d01f741fe498961af989e1a4fff173e8d482178f9dfa93a136eaf71b8"
       },
       "source": "https://github.com/dmellok/tesserae-widget-apple-album",
       "tesserae_min": "0.512.0"
@@ -687,9 +687,9 @@
         "picture_google_album"
       ],
       "release": {
-        "version": "0.6.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.6.0.tar.gz",
-        "sha256": "6f32225edc3475f072fd54813b23cdd565d1250a42c5a6bcabe64aa1517cc819"
+        "version": "0.6.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.6.1.tar.gz",
+        "sha256": "0e692f7abdb0210ecff707a9eca9f7d19c9a3a458482f7685d6ecf68efda8dbd"
       },
       "source": "https://github.com/dmellok/tesserae-widget-google-album",
       "tesserae_min": "0.512.0"
@@ -881,9 +881,9 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.5.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.5.0.tar.gz",
-        "sha256": "b3bedd89ca0033c6846996862f4efd16589f13c8e827a8ad9712e456062f87f8"
+        "version": "0.6.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.6.0.tar.gz",
+        "sha256": "5f405481aff3831ea4632eb91ce5390e9a73978af74e8004a85aa775993a1275"
       },
       "source": "https://github.com/dmellok/tesserae-widget-immich",
       "tesserae_min": "0.512.0"
@@ -977,9 +977,9 @@
         "pokedex"
       ],
       "release": {
-        "version": "0.2.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex/archive/refs/tags/v0.2.0.tar.gz",
-        "sha256": "003862fa5c20cfad5e2b2ba3fdaf9410f86811e8b3a2c5c08952cc9bc436a608"
+        "version": "0.3.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-pokedex/archive/refs/tags/v0.3.0.tar.gz",
+        "sha256": "1690e2263e4c6a7caa539ebddbe5d0fc66a7cd1479bb87c9475d490e78b66220"
       },
       "source": "https://github.com/dmellok/tesserae-widget-pokedex"
     },
@@ -1036,6 +1036,36 @@
         "sha256": "9526f17731d2b461da3d413752a69061e22863ec8db4a4f4f06f9f5c58d37fb3"
       },
       "source": "https://github.com/dmellok/tesserae-widget-posthog"
+    },
+    {
+      "id": "print_blueprint",
+      "name": "Home Assistant, Print Blueprint",
+      "description": "Shows what your Bambu Lab printer is printing as a blueprint of the part, with live print data from Home Assistant. Needs the Bambu Lab integration: https://github.com/greghesp/ha-bambulab",
+      "icon": "ph-printer",
+      "author": {
+        "name": "skynet01",
+        "github": "skynet01"
+      },
+      "tags": [
+        "home-assistant",
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "tesserae_min": "0.484.1",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "print_blueprint"
+      ],
+      "release": {
+        "version": "0.1.5",
+        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.5.tar.gz",
+        "sha256": "9f50753e629929e904a997c8e2168d5c70146c1f7b7748938076a70fa1476aaa"
+      },
+      "source": "https://github.com/skynet01/tesserae-print-blueprint"
     },
     {
       "id": "public_holiday_countdown",
@@ -2301,9 +2331,9 @@
         "backyard_birds"
       ],
       "release": {
-        "version": "0.17.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.17.0.tar.gz",
-        "sha256": "8e868e9c69cef7f4d166413a2827b5f2c1b7e1d03cb5d0404e5dfcc26c898a5c"
+        "version": "0.18.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-backyard-birds/archive/refs/tags/v0.18.0.tar.gz",
+        "sha256": "8f80f3548a37d5124d675d233a1fcaa08f4fc5012d2fad2c45ee3986aa1d4726"
       },
       "source": "https://github.com/dmellok/tesserae-widget-backyard-birds"
     },
@@ -2396,9 +2426,9 @@
         "overhead_scene"
       ],
       "release": {
-        "version": "0.12.3",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.12.3.tar.gz",
-        "sha256": "1de2ff9c75aa03af0d049708dac7192fc02a4a8338a38b94ae6243286660d589"
+        "version": "0.14.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.14.0.tar.gz",
+        "sha256": "6ae37fd32b3b8de03b43b0146c7feba844ec2004ee179d1141b8f0be8a57dbd7"
       },
       "source": "https://github.com/dmellok/tesserae-widget-overhead",
       "tesserae_min": "0.463.0"
@@ -2694,15 +2724,16 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "f0e43e2c21f929a0c30aa3c8b03febb37d3c135ed7ebf57acdfe99392085e11a"
+        "version": "0.2.2",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-front-pages/archive/refs/tags/v0.2.2.tar.gz",
+        "sha256": "93a1d27d16e21f11df4667cc2a526a824276dfe157f9f3341254bcc2fc55ba88"
       },
-      "source": "https://github.com/skynet01/tesserae-news-front-pages"
+      "source": "https://github.com/skynet01/tesserae-news-front-pages",
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "herbarium_sheet",
-      "name": "Herbarium Sheet",
+      "name": "Picture, Herbarium Sheet",
       "description": "The plants in flower near you this month as a herbarium sheet: pressed specimens on taped mounts with label slips, an institutional label and a stamp, from iNaturalist records. Photographs, or AI paintings in five styles from pressed specimen to cyanotype.",
       "icon": "ph-plant",
       "author": {
@@ -2723,16 +2754,16 @@
         "herbarium_sheet"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-herbarium-sheet/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "fea656a1535b291d928e9d82653a5bd8700ba8e97ae782848e7244c08e824829"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-herbarium-sheet/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "a013cbb6a63c9ff60abba8250332ce1de8f6649a785b6125cb9fe469cec99284"
       },
       "source": "https://github.com/dmellok/tesserae-widget-herbarium-sheet",
       "tesserae_min": "0.463.0"
     },
     {
       "id": "fungi_plate",
-      "name": "Fungi Plate",
+      "name": "Picture, Fungi Plate",
       "description": "The fungi recorded near you this month as a numbered mycological plate, each species with a cross-section and a key at the foot, or in ruled boxes, from iNaturalist. Photographs, or AI paintings in five styles including an ink line drawing for mono panels.",
       "icon": "ph-leaf",
       "author": {
@@ -2753,16 +2784,16 @@
         "fungi_plate"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-fungi-plate/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "f4b357349b942b139aac9554f9f267d338bd7e50a9430bbd79f3995d79db677b"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fungi-plate/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "0df4999cb2afa617da743004985b4fe3c97c2ef2caea7ce81d258f58f87a4992"
       },
       "source": "https://github.com/dmellok/tesserae-widget-fungi-plate",
       "tesserae_min": "0.463.0"
     },
     {
       "id": "fish_plate",
-      "name": "Fish Plate",
+      "name": "Picture, Fish Plate",
       "description": "The fishes of your waters as a natural-history plate: stacked after Bloch with script names and a scale bar, or one hero fish in a ruled frame, from iNaturalist records. Photographs, or AI paintings in five styles including gyotaku ink prints for mono panels.",
       "icon": "ph-fish",
       "author": {
@@ -2783,9 +2814,9 @@
         "fish_plate"
       ],
       "release": {
-        "version": "0.1.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-fish-plate/archive/refs/tags/v0.1.0.tar.gz",
-        "sha256": "faf4194bebe84d350f983b2bd348244ddeba8d0b89a84b4312c60b34ab18c870"
+        "version": "0.1.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-fish-plate/archive/refs/tags/v0.1.1.tar.gz",
+        "sha256": "4f396630687031a8ff91ebafa0295cd0efa664d1f16c7614c5c527d652e7093d"
       },
       "source": "https://github.com/dmellok/tesserae-widget-fish-plate",
       "tesserae_min": "0.463.0"
@@ -2937,7 +2968,7 @@
     },
     {
       "id": "news_illustrated",
-      "name": "AI Illustrated News",
+      "name": "News, AI Illustrated",
       "description": "Once a day, the top story of each of your feeds, summarised by an AI and drawn as a satirical ink cartoon (kie.ai, Gemini, Pollinations or HuggingFace). Shows one story at a time, poster style, moving to the next on each refresh.",
       "icon": "ph-newspaper-clipping",
       "author": {
@@ -2953,12 +2984,12 @@
         "lg"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "ff9f4dbfa7d5ed6e3fb9b716b22c0cbcc61f51e004a21b04d5acb5b5fcd35e3c"
+        "version": "0.2.1",
+        "tarball_url": "https://github.com/skynet01/tesserae-news-illustrated/archive/refs/tags/v0.2.1.tar.gz",
+        "sha256": "09f2d00fcbd32aa518f9e061f09e244cff6c88552dcac1d9834264ff752aca43"
       },
       "source": "https://github.com/skynet01/tesserae-news-illustrated",
-      "tesserae_min": "0.484.1"
+      "tesserae_min": "0.512.0"
     },
     {
       "id": "weather_hourly_card",
@@ -3133,7 +3164,7 @@
     {
       "id": "civitai",
       "name": "Picture, AI galleries",
-      "description": "Full-screen artwork from Civitai, Lexica, or both. Filter by tags, creators, prompt terms, or Civitai collections, and rotate cached matches that fit the display orientation and resolution.",
+      "description": "Artwork from Civitai. Filter by tags, creators or collections, preview up to 20 matches, then rotate images that suit the cell orientation and resolution.",
       "icon": "ph-image",
       "author": {
         "name": "Alex Gurevich",
@@ -3144,7 +3175,7 @@
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
-      "tesserae_min": "0.484.1",
+      "tesserae_min": "0.512.0",
       "official": false,
       "screenshot_sizes": [
         "lg"
@@ -3153,9 +3184,9 @@
         "picture_civitai"
       ],
       "release": {
-        "version": "0.2.2",
-        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.2.2.tar.gz",
-        "sha256": "21e1471ae9140227e0e29bcdf3ff284505b4a028c4a2b933218562b51e05f684"
+        "version": "0.2.5",
+        "tarball_url": "https://github.com/skynet01/tesserae-civitai/archive/refs/tags/v0.2.5.tar.gz",
+        "sha256": "e975e05c4cf94b11dad60ea5c85f695f6cf080e9dd81351bea7efe131f9226fc"
       },
       "source": "https://github.com/skynet01/tesserae-civitai"
     },
@@ -3186,34 +3217,33 @@
       "source": "https://github.com/gilgamezh/tesserae-widget-plexamp-now-playing"
     },
     {
-      "id": "print_blueprint",
-      "name": "Home Assistant, Print Blueprint",
-      "description": "Shows what your Bambu Lab printer is printing as a blueprint of the part, with live print data from Home Assistant. Needs the Bambu Lab integration: https://github.com/greghesp/ha-bambulab",
+      "id": "prusalink",
+      "name": "PrusaLink",
+      "description": "Print status for an Original Prusa printer over PrusaLink on your own network, no Prusa account. Progress, time left, finish time, temperatures and the slicer's model preview. New and lightly tested (one MK3S+ so far), so reports from other printers are welcome.",
       "icon": "ph-printer",
       "author": {
-        "name": "skynet01",
-        "github": "skynet01"
+        "name": "Kayden D'Mello",
+        "github": "dmellok"
       },
       "tags": [
-        "home-assistant",
         "utility"
       ],
       "kind": "widget",
       "tesserae_compat": "1.x",
-      "tesserae_min": "0.484.1",
-      "official": false,
+      "official": true,
       "screenshot_sizes": [
         "lg"
       ],
+      "extra_screenshot_count": 1,
       "folders": [
-        "print_blueprint"
+        "prusalink_status"
       ],
       "release": {
-        "version": "0.1.1",
-        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.1.tar.gz",
-        "sha256": "e37e9f93b1c0f6e42190ed9b0bdac596ae3a75b2aa31032ad114abd4d7da4e63"
+        "version": "0.1.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-prusalink/archive/refs/tags/v0.1.3.tar.gz",
+        "sha256": "8472b62728ec1ac4caaf5dbae9fe3e8371f94a5f01e2aaeda4d610160bf45041"
       },
-      "source": "https://github.com/skynet01/tesserae-print-blueprint"
+      "source": "https://github.com/dmellok/tesserae-widget-prusalink"
     }
   ]
 }
