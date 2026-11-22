@@ -149,9 +149,9 @@
         "picture_apple_album"
       ],
       "release": {
-        "version": "0.4.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.4.1.tar.gz",
-        "sha256": "1c10896d01f741fe498961af989e1a4fff173e8d482178f9dfa93a136eaf71b8"
+        "version": "0.5.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-apple-album/archive/refs/tags/v0.5.0.tar.gz",
+        "sha256": "89564fc72146f096069d1fd727b46b1317f14c6ecdc98a6b90e307ff9f6c19a1"
       },
       "source": "https://github.com/dmellok/tesserae-widget-apple-album",
       "tesserae_min": "0.512.0"
@@ -668,7 +668,7 @@
     {
       "id": "google_album",
       "name": "Google Photos Shared Albums",
-      "description": "Photo carousel from a Google Photos album shared by link, full bleed. Reads the public share page directly (no Google account or API key). Orientation filter, random or sequential rotation, fit/fill/stretch/blurred scaling, caption and sequence overlays. Skips videos by default.",
+      "description": "Photo carousel from a Google Photos album shared by link, full bleed. Reads the public share page directly (no Google account or API key). Mix up to 10 albums in one cell. Orientation filter that can match each frame's shape, random or sequential rotation, fit/fill/stretch/blurred scaling, caption and sequence overlays. Skips videos by default.",
       "icon": "ph-google-photos-logo",
       "author": {
         "name": "Kayden D'Mello",
@@ -687,9 +687,9 @@
         "picture_google_album"
       ],
       "release": {
-        "version": "0.6.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.6.1.tar.gz",
-        "sha256": "0e692f7abdb0210ecff707a9eca9f7d19c9a3a458482f7685d6ecf68efda8dbd"
+        "version": "0.7.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-google-album/archive/refs/tags/v0.7.0.tar.gz",
+        "sha256": "acd6957d8665559023c88ba520b290a54e4d6ef77bfad8279c6786ad26b555a8"
       },
       "source": "https://github.com/dmellok/tesserae-widget-google-album",
       "tesserae_min": "0.512.0"
@@ -860,7 +860,7 @@
     {
       "id": "picture_immich",
       "name": "Picture, Immich",
-      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, random from album, or random from tag. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
+      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, or several albums and tags matched Any or Every. Orientation option that can match each frame's shape. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
       "icon": "ph-images-square",
       "icon_asset": "picture_immich.svg",
       "author": {
@@ -881,9 +881,9 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.6.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.6.0.tar.gz",
-        "sha256": "5f405481aff3831ea4632eb91ce5390e9a73978af74e8004a85aa775993a1275"
+        "version": "0.7.0",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.7.0.tar.gz",
+        "sha256": "265f48c8a6ae19cdad86b1353e99a29cae1e997c5def607eea07a4359d144942"
       },
       "source": "https://github.com/dmellok/tesserae-widget-immich",
       "tesserae_min": "0.512.0"
