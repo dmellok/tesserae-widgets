@@ -668,7 +668,7 @@
     {
       "id": "google_album",
       "name": "Google Photos Shared Albums",
-      "description": "Photo carousel from a Google Photos album shared by link, full bleed. Reads the public share page directly (no Google account or API key). Mix up to 10 albums in one cell. Orientation filter that can match each frame's shape, random or sequential rotation, fit/fill/stretch/blurred scaling, caption and sequence overlays. Skips videos by default.",
+      "description": "Photo carousel from Google Photos albums shared by link, full bleed, with no Google account or API key. Mix up to 10 albums in a cell. Orientation filter, random or sequential rotation, four scaling modes, caption and sequence overlays. Skips videos by default.",
       "icon": "ph-google-photos-logo",
       "author": {
         "name": "Kayden D'Mello",
@@ -860,7 +860,7 @@
     {
       "id": "picture_immich",
       "name": "Picture, Immich",
-      "description": "Full-bleed Immich photos with multi-library admin. Pick a library + mode per cell: today's memory, random asset, or several albums and tags matched Any or Every. Orientation option that can match each frame's shape. API keys encrypted at rest. Cascades through Immich's thumbnail derivatives, transcodes HEIC server-side.",
+      "description": "Full-bleed Immich photos with multi-library admin. Per cell: today's memory, a random photo, or several albums and tags matched Any or Every, with an orientation filter. API keys encrypted at rest. Transcodes HEIC server-side.",
       "icon": "ph-images-square",
       "icon_asset": "picture_immich.svg",
       "author": {
