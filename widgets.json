@@ -1040,7 +1040,7 @@
     {
       "id": "print_blueprint",
       "name": "Home Assistant, Print Blueprint",
-      "description": "Shows what your Bambu Lab printer is printing as a blueprint of the part, with live print data from Home Assistant. Needs the Bambu Lab integration: https://github.com/greghesp/ha-bambulab",
+      "description": "Shows what your 3D printer is printing as a blueprint of the part, with live print data. Bambu Lab printers come through Home Assistant (needs the Bambu Lab integration: https://github.com/greghesp/ha-bambulab); OctoPrint and PrusaLink printers connect directly.",
       "icon": "ph-printer",
       "author": {
         "name": "skynet01",
@@ -1061,9 +1061,9 @@
         "print_blueprint"
       ],
       "release": {
-        "version": "0.1.6",
-        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.6.tar.gz",
-        "sha256": "6b280b71cb896ebba0bf2d2d8108d225bdc6e2138cfb12554b53967836650256"
+        "version": "0.1.7",
+        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.7.tar.gz",
+        "sha256": "b86ca505b1512a988c71325c356a27e5f0b2439cbdc3d14dc2872f452510ce9f"
       },
       "source": "https://github.com/skynet01/tesserae-print-blueprint"
     },
