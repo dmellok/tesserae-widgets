@@ -3243,6 +3243,35 @@
         "sha256": "8472b62728ec1ac4caaf5dbae9fe3e8371f94a5f01e2aaeda4d610160bf45041"
       },
       "source": "https://github.com/dmellok/tesserae-widget-prusalink"
+    },
+    {
+      "id": "picture_pokemon",
+      "name": "Picture, Random Pokémon Card",
+      "description": "A random Pokémon TCG card from TCGdex: any card, one series, or every card of one Pokémon. Medium and large cells add the set, number, rarity, types, HP and illustrator. A new card every refresh, hour or day; no API key.",
+      "icon": "ph-cards",
+      "author": {
+        "name": "Bob Faist",
+        "github": "bfaist"
+      },
+      "tags": [
+        "media"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": false,
+      "screenshot_sizes": [
+        "lg",
+        "md",
+        "sm",
+        "xs"
+      ],
+      "release": {
+        "version": "0.1.0",
+        "tarball_url": "https://github.com/bfaist/tesserae-widget-pokemon/archive/refs/tags/v0.1.0.tar.gz",
+        "sha256": "eafeb74680d8946172ff47693acbb16a88ecbfa4f0288a6e7cf5a1facfeecd14"
+      },
+      "source": "https://github.com/bfaist/tesserae-widget-pokemon",
+      "tesserae_min": "0.340.0"
     }
   ]
 }
