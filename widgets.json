@@ -2359,9 +2359,9 @@
         "specimen_sheet"
       ],
       "release": {
-        "version": "0.17.1",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.17.1.tar.gz",
-        "sha256": "6890772330fb522cbf783d2cdfe641f0e28ea5e0e4fb4b9f3b053e424bac97c0"
+        "version": "0.17.3",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-specimen-sheet/archive/refs/tags/v0.17.3.tar.gz",
+        "sha256": "1a3951ad700818b80a225c710068aae00b6d18f257d2db494c07708d8905446e"
       },
       "source": "https://github.com/dmellok/tesserae-widget-specimen-sheet",
       "tesserae_min": "0.463.0"
@@ -2425,9 +2425,9 @@
         "overhead_scene"
       ],
       "release": {
-        "version": "0.14.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.14.0.tar.gz",
-        "sha256": "6ae37fd32b3b8de03b43b0146c7feba844ec2004ee179d1141b8f0be8a57dbd7"
+        "version": "0.14.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-overhead/archive/refs/tags/v0.14.1.tar.gz",
+        "sha256": "6837fb7591451e451127c8b98426ff3385ed38986872e7a7f8bd8eccb7632748"
       },
       "source": "https://github.com/dmellok/tesserae-widget-overhead",
       "tesserae_min": "0.463.0"
