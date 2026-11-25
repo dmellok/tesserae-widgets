@@ -881,9 +881,9 @@
         "picture_immich"
       ],
       "release": {
-        "version": "0.7.0",
-        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.7.0.tar.gz",
-        "sha256": "265f48c8a6ae19cdad86b1353e99a29cae1e997c5def607eea07a4359d144942"
+        "version": "0.7.1",
+        "tarball_url": "https://github.com/dmellok/tesserae-widget-immich/archive/refs/tags/v0.7.1.tar.gz",
+        "sha256": "12bc7201037c0d503fb9a4376a9da6a4d1b07d628db443dbe1e2f06a77bc837f"
       },
       "source": "https://github.com/dmellok/tesserae-widget-immich",
       "tesserae_min": "0.512.0"
