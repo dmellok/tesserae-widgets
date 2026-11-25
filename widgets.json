@@ -1038,6 +1038,35 @@
       "source": "https://github.com/dmellok/tesserae-widget-posthog"
     },
     {
+      "id": "print_blueprint",
+      "name": "Print Blueprint",
+      "description": "Draws what your 3D printer is printing as a blueprint of the part, with live print data. Works with Bambu Lab printers through Home Assistant (needs the Bambu Lab integration: https://github.com/greghesp/ha-bambulab), and with OctoPrint and PrusaLink printers directly.",
+      "icon": "ph-printer",
+      "author": {
+        "name": "skynet01",
+        "github": "skynet01"
+      },
+      "tags": [
+        "utility"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "tesserae_min": "0.484.1",
+      "official": false,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "folders": [
+        "print_blueprint"
+      ],
+      "release": {
+        "version": "0.1.8",
+        "tarball_url": "https://github.com/skynet01/tesserae-print-blueprint/archive/refs/tags/v0.1.8.tar.gz",
+        "sha256": "1894d31f78d6323bf1a627fbf4df93fca939c7475b76d7a2b68aa645a83597d8"
+      },
+      "source": "https://github.com/skynet01/tesserae-print-blueprint"
+    },
+    {
       "id": "public_holiday_countdown",
       "name": "Public Holiday Countdown",
       "description": "Countdown to the next public holiday, with a short upcoming list.",
