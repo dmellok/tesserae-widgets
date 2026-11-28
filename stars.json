@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T22:21:51Z",
+  "fetched_at": "2026-11-28T01:20:44Z",
   "stars": {
     "afl": 0,
     "ai_brief": 0,
@@ -9,7 +9,7 @@
     "apple_reminders": 0,
     "arr_recently_added": 0,
     "auroras": 0,
-    "backyard_birds": 30,
+    "backyard_birds": 31,
     "bin_day": 1,
     "bom_warnings": 0,
     "caldav_todo": 0,
@@ -64,7 +64,7 @@
     "octoprint": 0,
     "openrouter_usage": 0,
     "orbit": 0,
-    "overhead": 96,
+    "overhead": 97,
     "paperlesspaper_art": 0,
     "picture_immich": 1,
     "picture_natgeo": 0,
